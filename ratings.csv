@@ -1,0 +1,996 @@
+Const,Your Rating,Date Rated,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+tt10048342,10,8/26/2022,The Queen's Gambit,https://www.imdb.com/title/tt10048342/,tvMiniSeries,8.5,60,2020,Drama,509159,10/23/2020,
+tt1010048,8,10/1/2016,Slumdog Millionaire,https://www.imdb.com/title/tt1010048/,movie,8,120,2008,"Crime, Drama, Romance",864690,8/30/2008,"Loveleen Tandan, Danny Boyle"
+tt10147644,9,8/14/2021,El inocente,https://www.imdb.com/title/tt10147644/,tvMiniSeries,7.8,467,2021,"Crime, Drama, Mystery, Thriller",34331,4/30/2021,
+tt10155688,10,12/3/2021,Mare of Easttown,https://www.imdb.com/title/tt10155688/,tvMiniSeries,8.4,60,2021,"Crime, Drama, Mystery",173820,4/18/2021,
+tt10160804,10,12/22/2021,Hawkeye,https://www.imdb.com/title/tt10160804/,tvMiniSeries,7.5,339,2021,"Action, Adventure, Crime, Mystery, Sci-Fi",201898,11/11/2021,
+tt1017456,7,3/3/2017,Race,https://www.imdb.com/title/tt1017456/,movie,6.7,149,2008,"Action, Crime, Drama, Mystery, Thriller",15597,3/20/2008,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla"
+tt10183688,6,1/22/2020,One Mic Stand,https://www.imdb.com/title/tt10183688/,tvSeries,6.3,30,2019,Comedy,1034,11/13/2019,
+tt10187680,9,7/23/2021,Forensic,https://www.imdb.com/title/tt10187680/,movie,6.8,134,2020,"Crime, Mystery, Thriller",5731,2/28/2020,"Anas Khan, Akhil Paul"
+tt10189514,9,2/8/2021,Soorarai Pottru,https://www.imdb.com/title/tt10189514/,movie,8.7,153,2020,"Action, Drama",120724,11/11/2020,Sudha Kongara
+tt10199974,9,2/26/2022,Pareeksha,https://www.imdb.com/title/tt10199974/,movie,8,120,2020,Drama,4664,8/6/2020,"Saurabh Choubey, Prakash Jha"
+tt1020937,7,10/4/2016,Awarapan,https://www.imdb.com/title/tt1020937/,movie,7.4,126,2007,"Action, Crime, Drama, Romance, Thriller",7779,6/29/2007,Mohit Suri
+tt10214826,9,8/15/2019,Agent Sai Srinivasa Athreya,https://www.imdb.com/title/tt10214826/,movie,8.3,148,2019,"Comedy, Crime, Mystery, Thriller",15532,5/31/2019,Swaroop Rsj
+tt10233718,10,2/19/2023,Vadh,https://www.imdb.com/title/tt10233718/,movie,7.2,110,2022,"Crime, Drama, Thriller",5586,12/9/2022,"Rajeev Barnwal, Jaspal Singh Sandhu"
+tt10234724,8,12/15/2022,Moon Knight,https://www.imdb.com/title/tt10234724/,tvMiniSeries,7.3,287,2022,"Action, Adventure, Fantasy",253115,3/30/2022,
+tt1024648,8,3/1/2017,Argo,https://www.imdb.com/title/tt1024648/,movie,7.7,120,2012,"Biography, Drama, Thriller",629442,8/31/2012,Ben Affleck
+tt1024943,7,9/19/2016,Om Shanti Om,https://www.imdb.com/title/tt1024943/,movie,6.7,162,2007,"Action, Comedy, Drama, Fantasy, Musical, Romance, Thriller",47287,11/7/2007,Farah Khan
+tt10280296,8,12/10/2021,Sardar Udham,https://www.imdb.com/title/tt10280296/,movie,8.4,164,2021,"Biography, Crime, Drama, History",45114,10/15/2021,Shoojit Sircar
+tt1029231,6,9/19/2016,Krrish 3,https://www.imdb.com/title/tt1029231/,movie,5.3,152,2013,"Action, Adventure, Sci-Fi",24469,10/31/2013,Rakesh Roshan
+tt0102926,9,12/13/2016,The Silence of the Lambs,https://www.imdb.com/title/tt0102926/,movie,8.6,118,1991,"Crime, Drama, Thriller",1491771,1/30/1991,Jonathan Demme
+tt10295212,9,8/15/2021,Shershaah,https://www.imdb.com/title/tt10295212/,movie,8.3,135,2021,"Action, Biography, Drama, War",126374,8/11/2021,Vishnuvardhan
+tt10309906,8,2/21/2020,Shubh Mangal Zyada Saavdhan,https://www.imdb.com/title/tt10309906/,movie,5.8,117,2020,"Comedy, Crime, Romance",10169,2/21/2020,Hitesh Kewalya
+tt10324144,9,6/30/2019,Article 15,https://www.imdb.com/title/tt10324144/,movie,8.1,130,2019,"Crime, Drama, Mystery, Thriller",35669,6/20/2019,Anubhav Sinha
+tt10333912,9,6/12/2020,Gulabo Sitabo,https://www.imdb.com/title/tt10333912/,movie,6.3,124,2020,"Comedy, Drama",13300,6/12/2020,"Shoojit Sircar, Kuran Dhillon"
+tt10340562,9,5/29/2022,Etharkkum Thunindhavan,https://www.imdb.com/title/tt10340562/,movie,6.5,151,2022,"Action, Crime, Drama, Thriller",13246,3/10/2022,Pandiraj
+tt10360772,9,6/11/2022,Mijn beste vriendin Anne Frank,https://www.imdb.com/title/tt10360772/,movie,6.2,103,2021,Drama,5142,9/9/2021,Ben Sombogaart
+tt10366206,10,3/29/2023,John Wick: Chapter 4,https://www.imdb.com/title/tt10366206/,movie,7.8,169,2023,"Action, Crime, Thriller",271812,3/13/2023,Chad Stahelski
+tt10375094,9,6/28/2022,Pada,https://www.imdb.com/title/tt10375094/,movie,7.8,130,2022,"Crime, Drama, Thriller",2864,3/10/2022,Kamal K.M.
+tt1039989,6,11/10/2016,Sunday,https://www.imdb.com/title/tt1039989/,movie,5.5,135,2008,"Action, Comedy, Mystery, Thriller",2931,1/25/2008,Rohit Shetty
+tt0104257,9,5/24/2017,A Few Good Men,https://www.imdb.com/title/tt0104257/,movie,7.7,138,1992,"Drama, Thriller",278245,12/2/1992,Rob Reiner
+tt10515526,9,8/1/2020,Lootcase,https://www.imdb.com/title/tt10515526/,movie,7.5,132,2020,"Comedy, Crime",18153,7/31/2020,Rajesh Krishnan
+tt10521144,7,11/3/2021,Nightbooks,https://www.imdb.com/title/tt10521144/,movie,5.8,103,2021,"Family, Fantasy, Horror, Mystery",10005,9/15/2021,David Yarovesky
+tt0105236,7,11/10/2017,Reservoir Dogs,https://www.imdb.com/title/tt0105236/,movie,8.3,99,1992,"Crime, Thriller",1058262,1/21/1992,Quentin Tarantino
+tt10545484,9,4/14/2021,Evaru,https://www.imdb.com/title/tt10545484/,movie,8.1,118,2019,"Crime, Drama, Mystery, Thriller",6596,8/15/2019,Venkat Ramji
+tt10579952,9,1/30/2021,Master,https://www.imdb.com/title/tt10579952/,movie,7.3,179,2021,"Action, Crime, Thriller",79946,1/13/2021,Lokesh Kanagaraj
+tt10648342,8,9/8/2022,Thor: Love and Thunder,https://www.imdb.com/title/tt10648342/,movie,6.2,118,2022,"Action, Adventure, Comedy, Fantasy, Romance, Sci-Fi",377307,6/23/2022,Taika Waititi
+tt10661848,7,7/6/2021,Jagame Thandhiram,https://www.imdb.com/title/tt10661848/,movie,5.8,158,2021,"Action, Crime, Drama, Thriller",12216,6/18/2021,Karthik Subbaraj
+tt10687070,9,5/29/2021,Mandela,https://www.imdb.com/title/tt10687070/,movie,8.4,140,2021,"Comedy, Drama",7895,4/4/2021,Madonne Ashwin
+tt10696784,8,11/5/2021,The Harder They Fall,https://www.imdb.com/title/tt10696784/,movie,6.6,139,2021,"Action, Drama, Western",68584,10/6/2021,Jeymes Samuel
+tt10698680,10,5/31/2022,K.G.F: Chapter 2,https://www.imdb.com/title/tt10698680/,movie,8.3,168,2022,"Action, Crime, Drama, Thriller",142404,4/13/2022,Prashanth Neel
+tt10701074,10,12/2/2022,Ponniyin Selvan: Part One,https://www.imdb.com/title/tt10701074/,movie,7.6,167,2022,"Action, Adventure, Drama",35162,9/30/2022,Mani Ratnam
+tt10709484,10,6/10/2022,Don,https://www.imdb.com/title/tt10709484/,movie,6.8,165,2022,"Comedy, Drama, Romance",10611,5/12/2022,Cibi Chakravarthi
+tt10717738,10,9/10/2022,Anjaam Pathiraa,https://www.imdb.com/title/tt10717738/,movie,7.9,144,2020,"Crime, Mystery, Thriller",8321,1/10/2020,Midhun Manuel Thomas
+tt1074638,8,12/7/2019,Skyfall,https://www.imdb.com/title/tt1074638/,movie,7.8,143,2012,"Action, Adventure, Thriller",716589,10/23/2012,Sam Mendes
+tt10752004,9,11/5/2021,Love Hard,https://www.imdb.com/title/tt10752004/,movie,6.3,104,2021,"Comedy, Romance",57552,11/5/2021,Hernán Jiménez
+tt10767976,9,5/25/2021,Fatteshikast,https://www.imdb.com/title/tt10767976/,movie,8.5,153,2019,"Action, Drama, History",1603,11/15/2019,Digpal Lanjekar
+tt1077248,9,8/27/2016,Johnny Gaddaar,https://www.imdb.com/title/tt1077248/,movie,7.9,135,2007,"Crime, Drama, Mystery, Thriller",12845,9/28/2007,Sriram Raghavan
+tt10773090,8,3/3/2020,Sarileru Neekevvaru,https://www.imdb.com/title/tt10773090/,movie,5.8,169,2020,"Action, Comedy, Drama",8476,1/10/2020,Anil Ravipudi
+tt0108052,10,6/13/2022,Schindler's List,https://www.imdb.com/title/tt0108052/,movie,9,195,1993,"Biography, Drama, History",1405796,11/30/1993,Steven Spielberg
+tt10806040,10,4/10/2022,Valimai,https://www.imdb.com/title/tt10806040/,movie,6.1,178,2022,"Action, Crime, Thriller",20278,2/24/2022,H. Vinoth
+tt10811166,10,2/2/2023,The Kashmir Files,https://www.imdb.com/title/tt10811166/,movie,8.6,170,2022,Drama,571277,3/11/2022,Vivek Agnihotri
+tt1083452,8,11/23/2017,Eddie the Eagle,https://www.imdb.com/title/tt1083452/,movie,7.3,106,2015,"Adventure, Biography, Comedy, Drama, History, Sport",97778,12/12/2015,Dexter Fletcher
+tt10834986,9,1/25/2020,Gumnaami,https://www.imdb.com/title/tt10834986/,movie,7.8,142,2019,"Action, Drama, History, Mystery",2588,10/2/2019,Srijit Mukherji
+tt10850932,10,5/14/2022,Sarangeui bulsachak,https://www.imdb.com/title/tt10850932/,tvSeries,8.7,70,2019,"Adventure, Comedy, Romance",36420,12/14/2019,
+tt10872600,10,5/7/2022,Spider-Man: No Way Home,https://www.imdb.com/title/tt10872600/,movie,8.2,148,2021,"Action, Adventure, Fantasy, Sci-Fi",829332,12/13/2021,Jon Watts
+tt0108778,10,9/6/2023,Friends,https://www.imdb.com/title/tt0108778/,tvSeries,8.9,22,1994,"Comedy, Romance",1044543,9/22/1994,
+tt10895576,9,9/4/2021,Mimi,https://www.imdb.com/title/tt10895576/,movie,7.9,132,2021,"Comedy, Drama",41657,7/26/2021,"Rajesh Bhatia, Laxman Utekar"
+tt10897054,8,1/16/2020,Hirkani,https://www.imdb.com/title/tt10897054/,movie,7.3,99,2019,History,679,10/24/2019,Prasad Oak
+tt0109117,10,3/2/2022,Andaz Apna Apna,https://www.imdb.com/title/tt0109117/,movie,8,160,1994,"Action, Comedy, Romance",54510,11/4/1994,Rajkumar Santoshi
+tt10919132,8,4/19/2020,Love Mocktail,https://www.imdb.com/title/tt10919132/,movie,8.2,153,2020,"Drama, Romance",4306,1/31/2020,Darling Krishna
+tt10919240,6,7/15/2021,Malik,https://www.imdb.com/title/tt10919240/,movie,8,162,2021,"Action, Biography, Crime, Drama, Thriller",13534,7/14/2021,Mahesh Narayanan
+tt1093370,9,8/17/2016,Jab We Met,https://www.imdb.com/title/tt1093370/,movie,7.9,138,2007,"Comedy, Drama, Romance",56467,10/26/2007,Imtiaz Ali
+tt0109830,7,3/17/2017,Forrest Gump,https://www.imdb.com/title/tt0109830/,movie,8.8,142,1994,"Drama, Romance",2175544,6/23/1994,Robert Zemeckis
+tt10986410,9,2/15/2022,Ted Lasso,https://www.imdb.com/title/tt10986410/,tvSeries,8.8,30,2020,"Comedy, Drama, Sport",307186,8/14/2020,
+tt0110076,8,8/25/2016,Hum Aapke Hain Koun..!,https://www.imdb.com/title/tt0110076/,movie,7.5,206,1994,"Comedy, Drama, Musical, Romance",22049,8/5/1994,Sooraj R. Barjatya
+tt11024580,9,7/7/2021,Rang De,https://www.imdb.com/title/tt11024580/,movie,6.3,130,2021,"Comedy, Drama, Romance",2400,3/26/2021,Venky Atluri
+tt11032374,9,9/5/2021,Kimetsu no Yaiba: Mugen Ressha-Hen,https://www.imdb.com/title/tt11032374/,movie,8.2,117,2020,"Animation, Action, Adventure, Fantasy, Thriller",67676,10/16/2020,Haruo Sotozaki
+tt11045422,7,7/16/2021,Toofaan,https://www.imdb.com/title/tt11045422/,movie,6.2,163,2021,"Action, Drama, Sport",51880,7/16/2021,Rakeysh Omprakash Mehra
+tt1105733,7,9/18/2016,Kismat Konnection,https://www.imdb.com/title/tt1105733/,movie,5.3,153,2008,"Comedy, Drama, Romance",5911,7/18/2008,Aziz Mirza
+tt0110912,9,3/7/2017,Pulp Fiction,https://www.imdb.com/title/tt0110912/,movie,8.9,154,1994,"Crime, Drama",2144758,5/21/1994,Quentin Tarantino
+tt11102296,9,5/21/2021,State of Siege: 26/11,https://www.imdb.com/title/tt11102296/,tvMiniSeries,7.9,30,2020,Action,3388,3/20/2020,
+tt0111161,9,1/20/2016,The Shawshank Redemption,https://www.imdb.com/title/tt0111161/,movie,9.3,142,1994,Drama,2796001,9/10/1994,Frank Darabont
+tt11126994,9,9/29/2022,Arcane: League of Legends,https://www.imdb.com/title/tt11126994/,tvSeries,9,41,2021,"Animation, Action, Adventure, Drama, Fantasy, Sci-Fi",241996,11/6/2021,
+tt1119646,8,12/21/2018,The Hangover,https://www.imdb.com/title/tt1119646/,movie,7.7,100,2009,Comedy,820150,5/30/2009,Todd Phillips
+tt11198330,10,11/10/2022,House of the Dragon,https://www.imdb.com/title/tt11198330/,tvSeries,8.5,,2022,"Action, Adventure, Drama, Fantasy, Romance",340009,8/21/2022,
+tt11199356,9,9/8/2020,Bheeshma,https://www.imdb.com/title/tt11199356/,movie,6.6,150,2020,"Action, Comedy, Romance",4540,2/21/2020,Venky Kudumula
+tt11239552,10,6/13/2022,Itaewon Keullasseu,https://www.imdb.com/title/tt11239552/,tvSeries,8.2,70,2020,"Drama, Romance",17149,1/31/2020,
+tt0112471,9,9/5/2016,Before Sunrise,https://www.imdb.com/title/tt0112471/,movie,8.1,101,1995,"Drama, Romance",327049,1/19/1995,Richard Linklater
+tt11260832,9,9/16/2021,Bellbottom,https://www.imdb.com/title/tt11260832/,movie,6.1,123,2021,"Action, Thriller",23330,8/19/2021,Ranjit Tewari
+tt11286314,10,1/1/2022,Don't Look Up,https://www.imdb.com/title/tt11286314/,movie,7.2,138,2021,"Comedy, Drama, Sci-Fi",570456,12/5/2021,Adam McKay
+tt0112870,8,8/24/2016,Dilwale Dulhania Le Jayenge,https://www.imdb.com/title/tt0112870/,movie,8,189,1995,"Drama, Romance",74166,10/19/1995,Aditya Chopra
+tt11301946,9,5/22/2022,Beast,https://www.imdb.com/title/tt11301946/,movie,5.2,155,2022,"Action, Thriller",35077,4/12/2022,Nelson Dilipkumar
+tt11306376,9,7/23/2021,Jathi Ratnalu,https://www.imdb.com/title/tt11306376/,movie,7.3,145,2021,Comedy,7850,3/11/2021,Anudeep K.V.
+tt1130884,9,3/25/2017,Shutter Island,https://www.imdb.com/title/tt1130884/,movie,8.2,138,2010,"Mystery, Thriller",1393388,2/13/2010,Martin Scorsese
+tt11318044,8,1/6/2020,Dhurala,https://www.imdb.com/title/tt11318044/,movie,7.6,169,2020,Drama,353,1/3/2020,Sameer Vidwans
+tt11322920,8,3/15/2020,Ayyappanum Koshiyum,https://www.imdb.com/title/tt11322920/,movie,8,177,2020,"Action, Drama, Thriller",9544,2/7/2020,Sachy
+tt0113277,9,12/6/2020,Heat,https://www.imdb.com/title/tt0113277/,movie,8.3,170,1995,"Action, Crime, Drama",691880,12/6/1995,Michael Mann
+tt11374902,10,6/4/2022,Doctor,https://www.imdb.com/title/tt11374902/,movie,7.4,148,2021,"Action, Comedy, Crime, Mystery, Thriller",17940,10/8/2021,Nelson Dilipkumar
+tt11375428,10,3/4/2022,Hridayam,https://www.imdb.com/title/tt11375428/,movie,8.1,172,2022,"Drama, Musical, Romance",14161,1/21/2022,Vineeth Sreenivasan
+tt11385078,9,9/10/2021,Tuck Jagadish,https://www.imdb.com/title/tt11385078/,movie,5.6,145,2021,"Action, Drama",3277,9/10/2021,Shiva Nirvana
+tt11385128,8,7/23/2021,V,https://www.imdb.com/title/tt11385128/,movie,6.8,140,2020,"Action, Crime, Thriller",8801,9/5/2020,Mohana Krishna Indraganti
+tt11398870,9,8/16/2020,Kalifat,https://www.imdb.com/title/tt11398870/,tvSeries,8.2,46,2020,"Crime, Drama, Thriller",20950,1/12/2020,
+tt11423818,10,3/20/2022,Pawankhind,https://www.imdb.com/title/tt11423818/,movie,8.4,153,2022,"Action, Drama, History",7863,2/18/2022,Digpal Lanjekar
+tt0114369,8,8/13/2016,Se7en,https://www.imdb.com/title/tt0114369/,movie,8.6,127,1995,"Crime, Drama, Mystery, Thriller",1731041,9/15/1995,David Fincher
+tt11441458,9,1/8/2022,Kadaseela Biriyani,https://www.imdb.com/title/tt11441458/,movie,7.4,115,2021,"Comedy, Crime, Drama",1475,11/19/2021,Nishanth Kalidindi
+tt1144804,5,9/21/2016,Kambakkht Ishq,https://www.imdb.com/title/tt1144804/,movie,3.8,142,2009,"Action, Comedy, Romance",7431,7/3/2009,Sabir Khan
+tt11457262,8,3/1/2020,Choricha Mamla,https://www.imdb.com/title/tt11457262/,movie,6.5,134,2020,Comedy,275,1/31/2020,Priyadarshan Jadhav
+tt11460992,10,6/25/2022,Runway 34,https://www.imdb.com/title/tt11460992/,movie,7,145,2022,"Drama, Thriller",29581,4/29/2022,Ajay Devgn
+tt11468258,8,3/16/2022,FIR,https://www.imdb.com/title/tt11468258/,movie,6.9,156,2022,"Action, Thriller",4587,2/11/2022,Manu Anand
+tt11469744,9,2/3/2020,Mathu Vadalara,https://www.imdb.com/title/tt11469744/,movie,8.2,130,2019,"Comedy, Crime, Thriller",4357,12/24/2019,Ritesh Rana
+tt0114814,9,1/20/2016,The Usual Suspects,https://www.imdb.com/title/tt0114814/,movie,8.5,106,1995,"Crime, Drama, Mystery, Thriller",1117760,1/25/1995,Bryan Singer
+tt11490170,8,4/5/2020,Hit,https://www.imdb.com/title/tt11490170/,movie,7.6,125,2020,"Action, Crime, Drama, Mystery, Thriller",7377,2/28/2020,Sailesh Kolanu
+tt1149199,6,2/22/2017,Aga Bai Arecha,https://www.imdb.com/title/tt1149199/,movie,7.4,100,2004,"Comedy, Family, Fantasy",745,12/31/2004,Kedar Shinde
+tt11497402,8,8/12/2020,V1 Murder Case,https://www.imdb.com/title/tt11497402/,movie,6.8,112,2019,"Drama, Thriller",1427,12/27/2019,Pavel Navageethan
+tt11525644,8,8/7/2022,No Sudden Move,https://www.imdb.com/title/tt11525644/,movie,6.4,115,2021,"Crime, Drama, Mystery, Thriller",39023,6/18/2021,Steven Soderbergh
+tt1156148,3,11/14/2016,Karzzzz,https://www.imdb.com/title/tt1156148/,movie,2.3,142,2008,"Action, Drama, Musical, Romance, Thriller",1366,10/17/2008,Satish Kaushik
+tt1156398,9,1/7/2020,Zombieland,https://www.imdb.com/title/tt1156398/,movie,7.6,88,2009,"Action, Comedy, Horror",603267,9/25/2009,Ruben Fleischer
+tt11580854,9,7/22/2021,Sarpatta Parambarai,https://www.imdb.com/title/tt11580854/,movie,8.5,173,2021,"Action, Drama, Sport",24317,7/21/2021,Pa. Ranjith
+tt11581174,2,5/14/2021,Karnan,https://www.imdb.com/title/tt11581174/,movie,8,158,2021,"Action, Drama",23189,4/9/2021,Mari Selvaraj
+tt1160419,10,7/30/2022,Dune: Part One,https://www.imdb.com/title/tt1160419/,movie,8,155,2021,"Action, Adventure, Drama, Sci-Fi",713965,9/3/2021,Denis Villeneuve
+tt11604676,9,7/23/2021,Nayattu,https://www.imdb.com/title/tt11604676/,movie,8.1,124,2021,"Crime, Thriller",7840,4/8/2021,Martin Prakkat
+tt0116282,8,12/26/2019,Fargo,https://www.imdb.com/title/tt0116282/,movie,8.1,98,1996,"Crime, Thriller",702124,3/8/1996,"Ethan Coen, Joel Coen"
+tt11651550,8,7/17/2021,Operation Java,https://www.imdb.com/title/tt11651550/,movie,8.1,146,2021,"Crime, Drama, Thriller",4654,2/12/2021,"Sudhi Maddison, Tharun Moorthy"
+tt1166100,8,11/1/2016,Ghajini,https://www.imdb.com/title/tt1166100/,movie,7.3,186,2008,"Action, Drama, Mystery, Romance, Thriller",65185,12/24/2008,A.R. Murugadoss
+tt0116629,8,10/8/2016,Independence Day,https://www.imdb.com/title/tt0116629/,movie,7,145,1996,"Action, Adventure, Sci-Fi",593790,6/25/1996,Roland Emmerich
+tt11671006,9,11/13/2022,The Man from Toronto,https://www.imdb.com/title/tt11671006/,movie,5.8,110,2022,"Action, Adventure, Comedy, Thriller",56197,6/24/2022,Patrick Hughes
+tt0116743,5,1/19/2018,Kama Sutra: A Tale of Love,https://www.imdb.com/title/tt0116743/,movie,6,117,1996,"Crime, Drama, History, Romance",11114,9/11/1996,Mira Nair
+tt1170404,6,10/5/2016,Mere Baap Pehle Aap,https://www.imdb.com/title/tt1170404/,movie,5.5,163,2008,"Comedy, Drama, Romance",2430,6/13/2008,Priyadarshan
+tt11725680,8,11/25/2021,Most Eligible Bachelor,https://www.imdb.com/title/tt11725680/,movie,6.2,170,2021,"Drama, Romance",3633,10/14/2021,Bommarillu Baskar
+tt0117381,8,2/15/2019,Primal Fear,https://www.imdb.com/title/tt0117381/,movie,7.7,129,1996,"Crime, Drama, Mystery, Thriller",237880,4/1/1996,Gregory Hoblit
+tt11742798,8,11/2/2021,Afterlife of the Party,https://www.imdb.com/title/tt11742798/,movie,5.8,109,2021,"Comedy, Drama, Fantasy, Romance",10168,9/2/2021,Stephen Herek
+tt11743610,9,7/4/2022,The Terminal List,https://www.imdb.com/title/tt11743610/,tvSeries,7.9,55,2022,"Action, Drama, Thriller",101191,6/30/2022,
+tt1176960,6,10/5/2016,One Two Three,https://www.imdb.com/title/tt1176960/,movie,5.4,135,2008,"Comedy, Crime",2903,3/28/2008,Ashwani Dhir
+tt11773378,10,3/4/2022,Akhanda,https://www.imdb.com/title/tt11773378/,movie,6.9,167,2021,"Action, Drama",19249,12/2/2021,Boyapati Srinu
+tt11816092,10,11/30/2021,Hum Do Hamare Do,https://www.imdb.com/title/tt11816092/,movie,6,128,2021,Comedy,7507,10/29/2021,Abhishek Jain
+tt1182937,8,9/19/2016,Rab Ne Bana Di Jodi,https://www.imdb.com/title/tt1182937/,movie,7.2,167,2008,"Comedy, Drama, Music, Romance",51591,12/11/2008,Aditya Chopra
+tt11854694,9,3/19/2020,Special OPS,https://www.imdb.com/title/tt11854694/,tvSeries,8.6,49,2020,"Action, Crime, Thriller",35916,3/16/2020,
+tt11866324,10,10/7/2022,Prey,https://www.imdb.com/title/tt11866324/,movie,7.1,100,2022,"Action, Adventure, Drama, Horror, Sci-Fi, Thriller",213226,7/21/2022,Dan Trachtenberg
+tt1187043,9,8/17/2016,3 Idiots,https://www.imdb.com/title/tt1187043/,movie,8.4,170,2009,"Comedy, Drama",417678,11/9/2009,Rajkumar Hirani
+tt0118715,7,3/31/2017,The Big Lebowski,https://www.imdb.com/title/tt0118715/,movie,8.1,117,1998,"Comedy, Crime",837547,1/18/1998,"Ethan Coen, Joel Coen"
+tt1188982,5,10/19/2016,Jai Ho,https://www.imdb.com/title/tt1188982/,movie,5,135,2014,"Action, Drama",20376,1/23/2014,Sohail Khan
+tt1188996,7,8/24/2016,My Name Is Khan,https://www.imdb.com/title/tt1188996/,movie,7.9,165,2010,"Adventure, Drama, Romance",112222,2/11/2010,Karan Johar
+tt1190634,10,8/14/2022,The Boys,https://www.imdb.com/title/tt1190634/,tvSeries,8.7,60,2019,"Action, Comedy, Crime, Drama, Sci-Fi",582942,7/16/2019,
+tt1194236,7,9/18/2016,Get Educated: Paathshaala,https://www.imdb.com/title/tt1194236/,movie,5,122,2010,"Drama, Family",1891,4/16/2010,Milind Ukey
+tt0119488,9,10/8/2018,L.A. Confidential,https://www.imdb.com/title/tt0119488/,movie,8.2,138,1997,"Crime, Drama, Mystery, Thriller",600657,5/14/1997,Curtis Hanson
+tt0119528,8,2/14/2020,Liar Liar,https://www.imdb.com/title/tt0119528/,movie,6.9,86,1997,"Comedy, Fantasy",324417,3/18/1997,Tom Shadyac
+tt11953248,9,1/14/2022,Garuda Gamana Vrishabha Vahana,https://www.imdb.com/title/tt11953248/,movie,8.3,151,2021,"Crime, Drama, Thriller",7935,11/19/2021,Raj B. Shetty
+tt1196946,9,11/12/2018,The Mentalist,https://www.imdb.com/title/tt1196946/,tvSeries,8.2,43,2008,"Crime, Drama, Mystery, Thriller",194147,9/23/2008,
+tt1197624,8,2/28/2020,Law Abiding Citizen,https://www.imdb.com/title/tt1197624/,movie,7.4,109,2009,"Action, Crime, Drama, Thriller",310432,9/23/2009,F. Gary Gray
+tt11977528,9,7/10/2021,Samantar,https://www.imdb.com/title/tt11977528/,tvSeries,8.3,,2020,Mystery,6515,3/13/2020,
+tt1198101,7,9/19/2016,Kites,https://www.imdb.com/title/tt1198101/,movie,6,123,2010,"Action, Drama, Romance, Thriller",13535,5/21/2010,Anurag Basu
+tt12004706,10,5/20/2022,Panchayat,https://www.imdb.com/title/tt12004706/,tvSeries,8.9,35,2020,"Comedy, Drama",78711,3/5/2020,
+tt12015102,6,10/13/2022,VR (Vikrant Rona),https://www.imdb.com/title/tt12015102/,movie,7,148,2022,"Action, Crime, Drama, Mystery, Thriller",28251,7/27/2022,Anup Bhandari
+tt0120338,8,3/1/2017,Titanic,https://www.imdb.com/title/tt0120338/,movie,7.9,194,1997,"Drama, Romance",1245729,11/1/1997,James Cameron
+tt0120382,9,9/23/2018,The Truman Show,https://www.imdb.com/title/tt0120382/,movie,8.2,103,1998,"Comedy, Drama",1144218,6/1/1998,Peter Weir
+tt0120663,8,11/11/2017,Eyes Wide Shut,https://www.imdb.com/title/tt0120663/,movie,7.5,159,1999,"Drama, Mystery, Thriller",360800,7/13/1999,Stanley Kubrick
+tt0120737,10,12/20/2022,The Lord of the Rings: The Fellowship of the Ring,https://www.imdb.com/title/tt0120737/,movie,8.8,178,2001,"Action, Adventure, Drama, Fantasy",1942837,12/10/2001,Peter Jackson
+tt1211837,10,12/21/2021,Doctor Strange,https://www.imdb.com/title/tt1211837/,movie,7.5,115,2016,"Action, Adventure, Fantasy, Sci-Fi",779364,10/13/2016,Scott Derrickson
+tt1213838,8,11/30/2016,Valu,https://www.imdb.com/title/tt1213838/,movie,7.6,123,2008,Comedy,490,1/25/2008,Umesh Vinayak Kulkarni
+tt1216300,7,10/4/2016,Jannat: In Search of Heaven...,https://www.imdb.com/title/tt1216300/,movie,6.9,140,2008,"Crime, Drama, Romance",7047,5/16/2008,Kunal Deshmukh
+tt1219289,7,9/26/2016,Limitless,https://www.imdb.com/title/tt1219289/,movie,7.4,105,2011,"Sci-Fi, Thriller",596792,3/8/2011,Neil Burger
+tt1220719,8,11/17/2017,Ip Man,https://www.imdb.com/title/tt1220719/,movie,8,106,2008,"Action, Biography, Drama, War",230316,12/12/2008,Wilson Yip
+tt1228705,10,12/12/2021,Iron Man 2,https://www.imdb.com/title/tt1228705/,movie,6.9,124,2010,"Action, Sci-Fi",848089,4/26/2010,Jon Favreau
+tt12299774,9,3/25/2022,November Story,https://www.imdb.com/title/tt12299774/,tvSeries,7.6,40,2021,"Crime, Mystery, Thriller",6898,5/19/2021,
+tt1230165,9,8/17/2016,Rock On!!,https://www.imdb.com/title/tt1230165/,movie,7.7,145,2008,"Drama, Music",22671,8/29/2008,Abhishek Kapoor
+tt12361178,9,2/22/2021,Drishyam 2,https://www.imdb.com/title/tt12361178/,movie,8.4,152,2021,"Crime, Drama, Thriller",39607,2/18/2021,Jeethu Joseph
+tt12392504,9,12/27/2020,Scam 1992: The Harshad Mehta Story,https://www.imdb.com/title/tt12392504/,tvSeries,9.3,54,2020,"Biography, Crime, Drama, Thriller",151529,10/9/2020,
+tt12422308,8,6/23/2022,Sarkaru Vaari Paata,https://www.imdb.com/title/tt12422308/,movie,5.6,162,2022,"Action, Drama",10602,5/11/2022,Parasuram
+tt12448030,8,7/23/2020,Aarya,https://www.imdb.com/title/tt12448030/,tvSeries,7.8,51,2020,"Action, Crime, Drama, Thriller",15022,6/19/2020,
+tt12472554,9,7/11/2022,Mahaan,https://www.imdb.com/title/tt12472554/,movie,7.6,163,2022,"Action, Drama, Thriller",17017,2/10/2022,Karthik Subbaraj
+tt1252596,8,10/8/2016,Ajab Prem Ki Ghazab Kahani,https://www.imdb.com/title/tt1252596/,movie,6.4,150,2009,"Action, Comedy, Musical, Romance",15856,11/6/2009,Rajkumar Santoshi
+tt1253863,6,10/27/2016,300: Rise of an Empire,https://www.imdb.com/title/tt1253863/,movie,6.2,102,2014,"Action, Drama, War",310397,3/4/2014,Noam Murro
+tt1255951,7,9/21/2016,De Dana Dan,https://www.imdb.com/title/tt1255951/,movie,5.7,162,2009,"Action, Comedy, Crime",9729,11/27/2009,Priyadarshan
+tt12567088,9,8/19/2020,Raat Akeli Hai,https://www.imdb.com/title/tt12567088/,movie,7.2,149,2020,"Crime, Drama, Mystery, Thriller",19151,7/31/2020,Honey Trehan
+tt12573294,10,5/25/2023,Love,https://www.imdb.com/title/tt12573294/,movie,7,92,2020,"Drama, Thriller",1678,10/15/2020,Khalid Rahman
+tt12593682,10,10/7/2022,Bullet Train,https://www.imdb.com/title/tt12593682/,movie,7.3,127,2022,"Action, Comedy, Thriller",384151,7/18/2022,David Leitch
+tt1261047,8,10/24/2016,Gulaal,https://www.imdb.com/title/tt1261047/,movie,8,140,2009,"Crime, Drama, Thriller",15606,3/13/2009,Anurag Kashyap
+tt1266020,9,6/25/2021,Parks and Recreation,https://www.imdb.com/title/tt1266020/,tvSeries,8.6,22,2009,Comedy,276668,4/9/2009,
+tt1266583,8,8/17/2016,Mumbai Meri Jaan,https://www.imdb.com/title/tt1266583/,movie,7.7,134,2008,Drama,6498,8/22/2008,Nishikant Kamat
+tt1270797,8,7/4/2019,Venom,https://www.imdb.com/title/tt1270797/,movie,6.6,112,2018,"Action, Adventure, Sci-Fi",517792,10/1/2018,Ruben Fleischer
+tt1274295,8,11/6/2016,Kaminey,https://www.imdb.com/title/tt1274295/,movie,7.4,130,2009,"Action, Crime, Drama, Thriller",17759,8/14/2009,Vishal Bhardwaj
+tt1275863,8,11/6/2016,Love Aaj Kal,https://www.imdb.com/title/tt1275863/,movie,6.8,128,2009,"Comedy, Drama, Romance",16687,7/31/2009,Imtiaz Ali
+tt1280558,9,8/17/2016,A Wednesday,https://www.imdb.com/title/tt1280558/,movie,8.1,104,2008,"Action, Crime, Drama, Mystery, Thriller",80800,9/5/2008,Neeraj Pandey
+tt12844910,10,1/25/2023,Pathaan,https://www.imdb.com/title/tt12844910/,movie,5.9,146,2023,"Action, Adventure, Thriller",145235,1/25/2023,Siddharth Anand
+tt1284575,8,9/25/2019,Bad Teacher,https://www.imdb.com/title/tt1284575/,movie,5.6,92,2011,"Comedy, Romance",209189,6/17/2011,Jake Kasdan
+tt1285016,8,10/1/2016,The Social Network,https://www.imdb.com/title/tt1285016/,movie,7.8,120,2010,"Biography, Drama",735006,9/24/2010,David Fincher
+tt1285241,7,9/19/2016,Don 2,https://www.imdb.com/title/tt1285241/,movie,7.1,148,2011,"Action, Crime, Thriller",56027,12/22/2011,Farhan Akhtar
+tt12887178,8,7/24/2021,14 Phere,https://www.imdb.com/title/tt12887178/,movie,6.3,111,2021,"Comedy, Romance",5192,7/23/2021,Devanshu Singh
+tt1291465,8,10/8/2016,Raajneeti,https://www.imdb.com/title/tt1291465/,movie,7.1,163,2010,"Crime, Drama, Thriller",18440,6/4/2010,Prakash Jha
+tt12915842,9,8/29/2023,Zombivli,https://www.imdb.com/title/tt12915842/,movie,6.7,134,2022,"Comedy, Drama, Horror",1495,1/26/2022,Aditya Sarpotdar
+tt12940504,9,11/4/2021,Undercover,https://www.imdb.com/title/tt12940504/,tvSeries,7.8,50,2021,"Action, Crime, Drama, Mystery, Thriller",28029,10/15/2021,
+tt1300854,9,12/15/2021,Iron Man Three,https://www.imdb.com/title/tt1300854/,movie,7.1,130,2013,"Action, Adventure, Sci-Fi",879987,4/14/2013,Shane Black
+tt1305797,8,9/14/2016,Enthiran,https://www.imdb.com/title/tt1305797/,movie,7.1,155,2010,"Action, Sci-Fi, Thriller",29094,9/30/2010,S. Shankar
+tt13143988,9,7/20/2021,Nail Polish,https://www.imdb.com/title/tt13143988/,movie,7.3,128,2021,Drama,5482,1/1/2021,Bugs Bhargava Krishna
+tt13146488,9,3/22/2022,Peacemaker,https://www.imdb.com/title/tt13146488/,tvSeries,8.3,40,2022,"Action, Adventure, Comedy, Crime, Fantasy, Sci-Fi",126479,1/12/2022,
+tt13206926,8,7/21/2021,Joji,https://www.imdb.com/title/tt13206926/,movie,7.8,113,2021,"Crime, Drama",10418,4/6/2021,Dileesh Pothan
+tt1324059,8,11/6/2016,Wake Up Sid,https://www.imdb.com/title/tt1324059/,movie,7.6,138,2009,"Comedy, Drama, Romance",32916,10/2/2009,Ayan Mukerji
+tt13249198,10,3/4/2022,Raja Raja Chora,https://www.imdb.com/title/tt13249198/,movie,7.5,145,2021,Comedy,1917,8/19/2021,Hasith Goli
+tt1327035,8,8/17/2016,Dev.D,https://www.imdb.com/title/tt1327035/,movie,7.9,144,2009,"Comedy, Drama, Romance",31682,2/6/2009,Anurag Kashyap
+tt13299052,8,3/19/2022,Khiladi,https://www.imdb.com/title/tt13299052/,movie,5.2,154,2022,"Action, Crime, Thriller",3733,2/11/2022,Ramesh Varma
+tt13299890,9,7/30/2021,The Great Indian Kitchen,https://www.imdb.com/title/tt13299890/,movie,8.1,100,2021,"Comedy, Drama",9381,1/15/2021,Jeo Baby
+tt0133093,10,12/25/2021,The Matrix,https://www.imdb.com/title/tt0133093/,movie,8.7,136,1999,"Action, Sci-Fi",1988279,3/24/1999,"Lilly Wachowski, Lana Wachowski"
+tt13320662,9,11/20/2022,Slumberland,https://www.imdb.com/title/tt13320662/,movie,6.7,117,2022,"Adventure, Comedy, Drama, Family, Fantasy",27540,11/11/2022,Francis Lawrence
+tt13334870,9,4/9/2022,Naradan,https://www.imdb.com/title/tt13334870/,movie,6.1,150,2022,"Drama, Thriller",2368,3/3/2022,Aashiq Abu
+tt13349716,9,1/27/2022,Shyam Singha Roy,https://www.imdb.com/title/tt13349716/,movie,7.7,155,2021,"Drama, Romance",14528,12/23/2021,Rahul Sankrityan
+tt13391710,10,6/6/2022,Jana Gana Mana,https://www.imdb.com/title/tt13391710/,movie,8.3,162,2022,"Crime, Drama, Thriller",15291,4/28/2022,Dijo Jose Antony
+tt1340838,6,10/4/2016,Raaz: The Mystery Continues,https://www.imdb.com/title/tt1340838/,movie,5.7,151,2009,"Horror, Mystery, Romance, Thriller",3911,1/23/2009,Mohit Suri
+tt13433812,9,11/13/2021,Binsenjo,https://www.imdb.com/title/tt13433812/,tvSeries,8.4,80,2021,"Action, Comedy, Crime, Drama",24294,2/20/2021,
+tt13443470,9,1/21/2023,Wednesday,https://www.imdb.com/title/tt13443470/,tvSeries,8.1,45,2022,"Comedy, Crime, Fantasy, Mystery",332337,10/31/2022,
+tt1345777,7,11/6/2016,Ishqiya,https://www.imdb.com/title/tt1345777/,movie,7.3,118,2010,"Comedy, Drama, Romance, Thriller",10752,1/29/2010,Abhishek Chaubey
+tt1345836,9,3/26/2018,The Dark Knight Rises,https://www.imdb.com/title/tt1345836/,movie,8.4,164,2012,"Action, Drama, Thriller",1774157,7/16/2012,Christopher Nolan
+tt13510660,6,11/20/2021,Dhamaka,https://www.imdb.com/title/tt13510660/,movie,7,103,2021,"Action, Crime, Drama, Thriller",42153,11/19/2021,"Heavenveer Singh Hayer, Ram Madhvani"
+tt13528564,10,9/27/2022,Ante Sundharaniki,https://www.imdb.com/title/tt13528564/,movie,7.6,173,2022,"Comedy, Romance",7935,6/9/2022,Vivek Athreya
+tt13551614,9,8/14/2021,Kuruthi,https://www.imdb.com/title/tt13551614/,movie,7.6,122,2021,Thriller,6188,8/10/2021,Manu Warrier
+tt13562940,7,8/6/2021,Dial 100,https://www.imdb.com/title/tt13562940/,movie,5.9,104,2021,"Action, Thriller",3670,8/6/2021,Renzil D'Silva
+tt1373156,8,11/6/2016,Karthik Calling Karthik,https://www.imdb.com/title/tt1373156/,movie,7.1,135,2010,"Drama, Mystery, Romance, Thriller",13042,2/26/2010,Vijay Lalwani
+tt0137523,9,8/13/2016,Fight Club,https://www.imdb.com/title/tt0137523/,movie,8.8,139,1999,Drama,2229949,9/10/1999,David Fincher
+tt1375666,9,1/20/2016,Inception,https://www.imdb.com/title/tt1375666/,movie,8.8,148,2010,"Action, Adventure, Sci-Fi, Thriller",2465241,7/8/2010,Christopher Nolan
+tt1375670,8,9/18/2019,Grown Ups,https://www.imdb.com/title/tt1375670/,movie,6,102,2010,Comedy,265323,6/24/2010,Dennis Dugan
+tt1375789,7,3/3/2017,Race 2,https://www.imdb.com/title/tt1375789/,movie,5.3,150,2013,"Action, Crime, Thriller",17117,1/25/2013,"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla"
+tt13833688,6,9/6/2023,The Whale,https://www.imdb.com/title/tt13833688/,movie,7.7,117,2022,Drama,176669,9/4/2022,Darren Aronofsky
+tt13899566,10,2/1/2022,Special Ops 1.5: The Himmat Story,https://www.imdb.com/title/tt13899566/,tvMiniSeries,8.3,,2021,"Action, Crime, Drama, Thriller",17014,11/12/2021,
+tt13912632,9,4/12/2022,Sanak,https://www.imdb.com/title/tt13912632/,movie,6.7,116,2021,"Action, Thriller",10737,10/15/2021,Kanishk Varma
+tt13914000,9,12/8/2021,Republic,https://www.imdb.com/title/tt13914000/,movie,7.9,152,2021,"Action, Drama, Thriller",3817,9/30/2021,Deva Katta
+tt1392190,8,1/27/2018,Mad Max: Fury Road,https://www.imdb.com/title/tt1392190/,movie,8.1,120,2015,"Action, Adventure, Sci-Fi, Thriller",1047129,5/7/2015,George Miller
+tt1392214,9,8/9/2018,Prisoners,https://www.imdb.com/title/tt1392214/,movie,8.1,153,2013,"Crime, Drama, Mystery, Thriller",768563,8/30/2013,Denis Villeneuve
+tt1392744,6,9/18/2016,Chance Pe Dance,https://www.imdb.com/title/tt1392744/,movie,4.8,122,2010,"Comedy, Drama, Music",3078,1/15/2010,Ken Ghosh
+tt1395025,7,3/16/2017,Agent Vinod,https://www.imdb.com/title/tt1395025/,movie,5.2,157,2012,"Action, Adventure, Thriller",7869,3/22/2012,Sriram Raghavan
+tt1395054,7,8/25/2016,Once Upon a Time in Mumbaai,https://www.imdb.com/title/tt1395054/,movie,7.4,134,2010,"Action, Crime, Drama, Romance",18315,7/30/2010,Milan Luthria
+tt1396208,5,9/21/2016,Action Replayy,https://www.imdb.com/title/tt1396208/,movie,4.3,129,2010,"Comedy, Romance, Sci-Fi",6702,11/5/2010,Vipul Amrutlal Shah
+tt13968792,8,5/26/2022,Bortført,https://www.imdb.com/title/tt13968792/,tvSeries,6.3,35,2021,"Drama, Thriller",3599,4/8/2021,
+tt1399664,9,8/8/2021,The Night Manager,https://www.imdb.com/title/tt1399664/,tvSeries,8,358,2016,"Crime, Drama, Mystery, Thriller",97678,2/21/2016,
+tt14002046,9,6/26/2022,Bheeshmaparvam,https://www.imdb.com/title/tt14002046/,movie,7.6,144,2022,"Action, Crime, Drama, Thriller",12497,3/3/2022,Amal Neerad
+tt1407050,8,9/14/2019,American Pie Presents: The Book of Love,https://www.imdb.com/title/tt1407050/,video,4.7,93,2009,Comedy,48584,12/1/2009,John Putch
+tt14107554,10,5/24/2022,Dasvi,https://www.imdb.com/title/tt14107554/,movie,7.5,125,2022,"Comedy, Drama",56092,4/7/2022,Tushar Jalota
+tt1411238,7,2/21/2019,No Strings Attached,https://www.imdb.com/title/tt1411238/,movie,6.2,108,2011,"Comedy, Romance",239450,1/11/2011,Ivan Reitman
+tt1411697,8,12/21/2018,The Hangover Part II,https://www.imdb.com/title/tt1411697/,movie,6.5,102,2011,Comedy,520877,5/19/2011,Todd Phillips
+tt14169960,10,6/8/2022,Ji-geum u-ri hak-gyo-neun,https://www.imdb.com/title/tt14169960/,tvSeries,7.5,60,2022,"Action, Drama, Fantasy, Horror, Sci-Fi, Thriller",59863,1/28/2022,
+tt14209560,8,3/25/2022,Bheemla Nayak,https://www.imdb.com/title/tt14209560/,movie,6.3,130,2022,"Action, Drama, Thriller",9843,2/24/2022,Saagar K Chandra
+tt14252742,8,7/3/2021,Ek Mini Katha,https://www.imdb.com/title/tt14252742/,movie,7.2,134,2021,"Comedy, Drama",3175,5/27/2021,Karthik Rapolu
+tt1431045,8,3/23/2018,Deadpool,https://www.imdb.com/title/tt1431045/,movie,8,108,2016,"Action, Comedy",1086876,1/21/2016,Tim Miller
+tt1431122,7,10/5/2016,No Problem,https://www.imdb.com/title/tt1431122/,movie,4.5,139,2010,"Action, Comedy, Crime",2797,12/10/2010,Anees Bazmee
+tt1433905,7,9/19/2016,All the Best: Fun Begins,https://www.imdb.com/title/tt1433905/,movie,6.2,144,2009,"Action, Comedy, Drama, Musical",6762,10/16/2009,Rohit Shetty
+tt1434447,9,9/23/2018,Rocket Singh: Salesman of the Year,https://www.imdb.com/title/tt1434447/,movie,7.5,150,2009,"Comedy, Drama",21374,12/10/2009,Shimit Amin
+tt14392248,9,5/8/2021,Aspirants,https://www.imdb.com/title/tt14392248/,tvSeries,9.2,45,2021,Drama,304209,4/7/2021,
+tt1439629,10,6/14/2022,Community,https://www.imdb.com/title/tt1439629/,tvSeries,8.5,22,2009,Comedy,282537,9/16/2009,
+tt14418234,9,7/9/2021,State of Siege: Temple Attack,https://www.imdb.com/title/tt14418234/,movie,7.7,110,2021,"Action, Thriller",9577,7/9/2021,Ken Ghosh
+tt1442437,9,9/13/2016,Modern Family,https://www.imdb.com/title/tt1442437/,tvSeries,8.5,22,2009,"Comedy, Drama, Romance",461012,9/23/2009,
+tt1447500,8,8/25/2016,Magadheera,https://www.imdb.com/title/tt1447500/,movie,7.7,147,2009,"Action, Drama, Fantasy, Romance",24242,7/30/2009,S.S. Rajamouli
+tt1447508,7,11/6/2016,Peepli [Live],https://www.imdb.com/title/tt1447508/,movie,7.4,95,2010,"Comedy, Drama",12562,1/24/2010,"Mahmood Farooqui, Anusha Rizvi"
+tt14518756,9,11/15/2021,Gaet-na-eul cha-cha-cha,https://www.imdb.com/title/tt14518756/,tvSeries,8.4,70,2021,"Comedy, Drama, Romance",17042,8/28/2021,
+tt1454468,8,10/1/2016,Gravity,https://www.imdb.com/title/tt1454468/,movie,7.7,91,2013,"Drama, Sci-Fi, Thriller",847540,8/28/2013,Alfonso Cuarón
+tt0145487,7,10/8/2016,Spider-Man,https://www.imdb.com/title/tt0145487/,movie,7.4,121,2002,"Action, Adventure, Sci-Fi",853069,4/30/2002,Sam Raimi
+tt1455811,6,9/19/2016,Khatta Meetha,https://www.imdb.com/title/tt1455811/,movie,5.9,157,2010,"Comedy, Crime, Drama",11860,7/23/2010,Priyadarshan
+tt14592064,10,6/11/2022,Home Team,https://www.imdb.com/title/tt14592064/,movie,6,95,2022,"Comedy, Sport",21052,1/28/2022,"Daniel Kinnane, Charles Kinnane"
+tt14641788,10,11/14/2022,Enola Holmes 2,https://www.imdb.com/title/tt14641788/,movie,6.8,129,2022,"Action, Adventure, Crime, Drama, Mystery",92142,10/28/2022,Harry Bradbeer
+tt1464335,8,9/29/2022,Uncharted,https://www.imdb.com/title/tt1464335/,movie,6.3,116,2022,"Action, Adventure",236871,2/8/2022,Ruben Fleischer
+tt14650074,10,12/3/2021,Dhindora,https://www.imdb.com/title/tt14650074/,tvSeries,8.8,25,2021,"Comedy, Drama",120625,10/14/2021,
+tt14715170,10,11/14/2022,Falling for Christmas,https://www.imdb.com/title/tt14715170/,movie,5.2,93,2022,"Comedy, Romance",25391,11/10/2022,Janeen Damian
+tt1475582,9,1/20/2016,Sherlock,https://www.imdb.com/title/tt1475582/,tvSeries,9.1,88,2010,"Crime, Drama, Mystery, Thriller",965937,7/22/2010,
+tt14819828,10,10/23/2022,Business Proposal,https://www.imdb.com/title/tt14819828/,tvSeries,8.1,60,2022,"Comedy, Drama, Romance",19145,2/7/2022,
+tt14820482,9,2/2/2022,Grahan,https://www.imdb.com/title/tt14820482/,tvSeries,8.3,,2021,"Action, Drama, History, Thriller",7565,6/24/2021,
+tt14852808,10,10/18/2022,The Watcher,https://www.imdb.com/title/tt14852808/,tvSeries,6.5,332,2022,"Drama, Horror, Mystery, Thriller",73949,10/13/2022,
+tt14992922,10,2/20/2022,The Tinder Swindler,https://www.imdb.com/title/tt14992922/,movie,7.1,114,2022,"Documentary, Crime",70305,2/2/2022,Felicity Morris
+tt14994064,10,12/14/2022,Adbhutham,https://www.imdb.com/title/tt14994064/,movie,7.4,141,2021,"Romance, Sci-Fi",1594,11/19/2021,Mallik Ram
+tt1499658,8,11/4/2018,Horrible Bosses,https://www.imdb.com/title/tt1499658/,movie,6.9,98,2011,"Comedy, Crime",461969,6/30/2011,Seth Gordon
+tt14999738,9,5/28/2022,Mishan Impossible,https://www.imdb.com/title/tt14999738/,movie,6.5,134,2022,"Action, Comedy, Drama, Thriller",960,4/1/2022,Swaroop Rsj
+tt15097216,10,11/30/2021,Jai Bhim,https://www.imdb.com/title/tt15097216/,movie,8.8,164,2021,"Crime, Drama, Mystery",210098,11/1/2021,T.J. Gnanavel
+tt15128068,10,11/13/2022,Monica O My Darling,https://www.imdb.com/title/tt15128068/,movie,7.4,129,2022,"Comedy, Crime, Drama, Thriller",19542,9/11/2022,Vasan Bala
+tt1515091,9,10/10/2020,Sherlock Holmes: A Game of Shadows,https://www.imdb.com/title/tt1515091/,movie,7.4,129,2011,"Action, Adventure, Mystery",470849,12/10/2011,Guy Ritchie
+tt1518542,9,9/2/2016,Sarabhai V/S Sarabhai,https://www.imdb.com/title/tt1518542/,tvSeries,9,30,2004,Comedy,17508,11/8/2004,
+tt1522329,5,10/4/2016,Tum Mile,https://www.imdb.com/title/tt1522329/,movie,5,140,2009,"Drama, Romance",1814,11/13/2009,Kunal Deshmukh
+tt15327088,10,10/14/2022,Kantara,https://www.imdb.com/title/tt15327088/,movie,8.3,148,2022,"Action, Adventure, Drama, Thriller",97954,9/30/2022,Rishab Shetty
+tt15354916,10,9/7/2023,Jawan,https://www.imdb.com/title/tt15354916/,movie,7.9,169,2023,"Action, Thriller",37036,9/7/2023,Atlee
+tt15361028,10,3/19/2022,Jalsa,https://www.imdb.com/title/tt15361028/,movie,6.6,126,2022,"Drama, Thriller",6803,3/18/2022,Suresh Triveni
+tt15398776,10,8/8/2023,Oppenheimer,https://www.imdb.com/title/tt15398776/,movie,8.6,180,2023,"Biography, Drama, History",424449,7/11/2023,Christopher Nolan
+tt15404324,10,8/20/2023,Tabbar,https://www.imdb.com/title/tt15404324/,tvSeries,8.3,,2021,"Drama, Thriller",4435,10/15/2021,
+tt15546822,10,1/18/2023,Mukundan Unni Associates,https://www.imdb.com/title/tt15546822/,movie,7.9,128,2022,"Comedy, Crime, Drama",5247,11/11/2022,Abhinav Sunder Nayak
+tt15600222,8,1/29/2023,An Action Hero,https://www.imdb.com/title/tt15600222/,movie,7,130,2022,"Action, Comedy, Crime, Thriller",30743,12/1/2022,Anirudh Iyer
+tt1560220,8,1/7/2020,Zombieland: Double Tap,https://www.imdb.com/title/tt1560220/,movie,6.7,99,2019,"Action, Comedy, Horror",192685,10/9/2019,Ruben Fleischer
+tt1562859,8,12/30/2020,Golmaal 3,https://www.imdb.com/title/tt1562859/,movie,5.6,155,2010,"Action, Comedy, Drama",9195,11/5/2010,Rohit Shetty
+tt1562871,5,9/19/2016,Ra.One,https://www.imdb.com/title/tt1562871/,movie,4.8,156,2011,"Action, Adventure, Sci-Fi",45147,10/24/2011,Anubhav Sinha
+tt1562872,9,8/17/2016,Zindagi Na Milegi Dobara,https://www.imdb.com/title/tt1562872/,movie,8.2,155,2011,"Comedy, Drama, Musical, Romance",82943,7/15/2011,Zoya Akhtar
+tt1570728,8,11/25/2019,"Crazy, Stupid, Love.",https://www.imdb.com/title/tt1570728/,movie,7.4,118,2011,"Comedy, Drama, Romance",543336,7/19/2011,"Glenn Ficarra, John Requa"
+tt0157217,9,2/26/2017,Byomkesh Bakshi,https://www.imdb.com/title/tt0157217/,tvSeries,9.2,40,1993,"Adventure, Crime, Mystery, Thriller",3092,2/14/1993,
+tt1578116,7,11/10/2016,Atithi Tum Kab Jaoge?,https://www.imdb.com/title/tt1578116/,movie,6.5,155,2010,Comedy,6555,3/5/2010,Ashwani Dhir
+tt1578261,7,12/22/2016,Break Ke Baad,https://www.imdb.com/title/tt1578261/,movie,5.2,145,2010,"Comedy, Drama, Romance",4474,11/25/2010,Danish Aslam
+tt15791034,9,10/30/2022,Barbarian,https://www.imdb.com/title/tt15791034/,movie,7,102,2022,"Horror, Mystery, Thriller",158958,8/29/2022,Zach Cregger
+tt1579592,8,12/22/2018,Kick,https://www.imdb.com/title/tt1579592/,movie,7.9,155,2009,"Action, Comedy, Crime",5293,5/8/2009,Surender Reddy
+tt15819074,10,2/25/2022,Pandu,https://www.imdb.com/title/tt15819074/,movie,5.3,126,2021,Comedy,477,12/3/2021,Viju Mane
+tt1586680,9,8/25/2018,Shameless,https://www.imdb.com/title/tt1586680/,tvSeries,8.5,46,2011,"Comedy, Drama",263949,1/9/2011,
+tt1590129,7,9/25/2016,Natarang,https://www.imdb.com/title/tt1590129/,movie,8.5,127,2010,Drama,2167,1/1/2010,Ravi Jadhav
+tt1598778,7,4/17/2020,Contagion,https://www.imdb.com/title/tt1598778/,movie,6.8,106,2011,"Drama, Thriller",310938,9/3/2011,Steven Soderbergh
+tt1602476,7,9/18/2016,Badmaa$h Company,https://www.imdb.com/title/tt1602476/,movie,6.1,142,2010,"Comedy, Crime, Drama",7598,5/7/2010,Parmeet Sethi
+tt1610452,7,8/25/2016,Band Baaja Baaraat,https://www.imdb.com/title/tt1610452/,movie,7.2,139,2010,"Comedy, Drama, Romance",17699,12/10/2010,Maneesh Sharma
+tt1620719,4,10/19/2016,Dabangg,https://www.imdb.com/title/tt1620719/,movie,6.2,126,2010,"Action, Comedy, Crime",33641,9/10/2010,Abhinav Kashyap
+tt1620933,8,8/24/2016,Paan Singh Tomar,https://www.imdb.com/title/tt1620933/,movie,8.2,135,2012,"Action, Biography, Crime, Sport, Thriller",37324,3/2/2012,Tigmanshu Dhulia
+tt1627457,9,9/27/2016,Modern Family: Good Cop Bad Dog,https://www.imdb.com/title/tt1627457/,tvEpisode,8.1,21,2011,"Comedy, Drama, Romance",2406,5/11/2011,Fred Savage
+tt1629391,7,11/6/2016,Tere Bin Laden,https://www.imdb.com/title/tt1629391/,movie,7.2,95,2010,"Comedy, Drama",10702,7/16/2010,Abhishek Sharma
+tt1630029,10,12/26/2022,Avatar: The Way of Water,https://www.imdb.com/title/tt1630029/,movie,7.6,192,2022,"Action, Adventure, Fantasy, Sci-Fi",457029,12/6/2022,James Cameron
+tt1630235,8,2/22/2017,De Dhakka,https://www.imdb.com/title/tt1630235/,movie,7.2,114,2008,"Comedy, Drama, Family",527,5/16/2008,"Atul Kale, Sudesh Manjrekar"
+tt1632701,9,10/20/2018,Suits,https://www.imdb.com/title/tt1632701/,tvSeries,8.4,44,2011,"Comedy, Drama",448417,6/23/2011,
+tt1632708,7,2/21/2019,Friends with Benefits,https://www.imdb.com/title/tt1632708/,movie,6.5,109,2011,"Comedy, Romance",384914,7/18/2011,Will Gluck
+tt0163651,8,9/14/2019,American Pie,https://www.imdb.com/title/tt0163651/,movie,7,95,1999,Comedy,422917,7/7/1999,"Paul Weitz, Chris Weitz"
+tt1638355,8,10/22/2018,The Man from U.N.C.L.E.,https://www.imdb.com/title/tt1638355/,movie,7.2,116,2015,"Action, Adventure, Comedy",324160,8/2/2015,Guy Ritchie
+tt1639426,9,8/17/2016,Udaan,https://www.imdb.com/title/tt1639426/,movie,8.1,134,2010,Drama,46258,5/19/2010,Vikramaditya Motwane
+tt1645170,8,11/30/2017,The Dictator,https://www.imdb.com/title/tt1645170/,movie,6.4,83,2012,Comedy,323770,5/16/2012,Larry Charles
+tt1649418,9,9/28/2022,The Gray Man,https://www.imdb.com/title/tt1649418/,movie,6.5,122,2022,"Action, Thriller",224730,7/13/2022,"Anthony Russo, Joe Russo"
+tt1653015,8,12/5/2016,Jogwa,https://www.imdb.com/title/tt1653015/,movie,8.4,114,2009,Drama,785,9/25/2009,Rajeev Patil
+tt1667076,7,11/22/2018,F.A.L.T.U,https://www.imdb.com/title/tt1667076/,movie,4.7,120,2011,"Comedy, Drama",3168,4/1/2011,Remo D'Souza
+tt1667838,6,12/22/2016,I Hate Luv Storys,https://www.imdb.com/title/tt1667838/,movie,5.6,129,2010,"Comedy, Drama, Romance",8435,6/30/2010,Punit Malhotra
+tt0167260,10,12/20/2022,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,movie,9,201,2003,"Action, Adventure, Drama, Fantasy",1914678,12/1/2003,Peter Jackson
+tt0167261,10,12/20/2022,The Lord of the Rings: The Two Towers,https://www.imdb.com/title/tt0167261/,movie,8.8,179,2002,"Action, Adventure, Drama, Fantasy",1727763,12/5/2002,Peter Jackson
+tt1677720,9,1/23/2019,Ready Player One,https://www.imdb.com/title/tt1677720/,movie,7.4,140,2018,"Action, Adventure, Sci-Fi",463918,3/11/2018,Steven Spielberg
+tt0169102,8,8/24/2016,Lagaan: Once Upon a Time in India,https://www.imdb.com/title/tt0169102/,movie,8.1,224,2001,"Drama, Musical, Sport",118082,6/15/2001,Ashutosh Gowariker
+tt1703958,6,12/22/2016,Ek Main Aur Ekk Tu,https://www.imdb.com/title/tt1703958/,movie,5.8,110,2012,"Comedy, Drama, Romance",7073,2/9/2012,Shakun Batra
+tt1708453,7,2/9/2017,Aakrosh,https://www.imdb.com/title/tt1708453/,movie,7,146,2010,"Action, Crime, Drama, Thriller",3961,10/15/2010,Priyadarshan
+tt1708532,4,10/19/2016,Ready,https://www.imdb.com/title/tt1708532/,movie,4.8,145,2011,"Action, Comedy, Romance",19142,6/2/2011,Anees Bazmee
+tt1720254,5,9/21/2016,Thank You,https://www.imdb.com/title/tt1720254/,movie,4.8,125,2011,Comedy,6128,4/7/2011,Anees Bazmee
+tt1727496,6,10/4/2016,Dil Toh Baccha Hai Ji,https://www.imdb.com/title/tt1727496/,movie,5.9,143,2011,"Comedy, Drama, Romance",4100,1/27/2011,Madhur Bhandarkar
+tt1728986,7,9/19/2016,Bol Bachchan,https://www.imdb.com/title/tt1728986/,movie,5.6,155,2012,"Action, Comedy",9552,7/6/2012,Rohit Shetty
+tt1729637,5,10/19/2016,Bodyguard,https://www.imdb.com/title/tt1729637/,movie,4.7,130,2011,"Action, Comedy, Drama, Romance",27155,8/30/2011,Siddique
+tt1734110,7,8/25/2016,No One Killed Jessica,https://www.imdb.com/title/tt1734110/,movie,7.2,136,2011,"Biography, Crime, Drama, Thriller",12167,1/6/2011,Raj Kumar Gupta
+tt1745960,10,8/2/2022,Top Gun: Maverick,https://www.imdb.com/title/tt1745960/,movie,8.3,130,2022,"Action, Drama",628491,5/18/2022,Joseph Kosinski
+tt1759761,8,3/27/2020,Veep,https://www.imdb.com/title/tt1759761/,tvSeries,8.4,28,2012,Comedy,60676,4/22/2012,
+tt1772341,9,4/11/2020,Wreck-It Ralph,https://www.imdb.com/title/tt1772341/,movie,7.7,101,2012,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",444437,11/1/2012,Rich Moore
+tt1773109,6,1/1/2017,Yamla Pagla Deewana,https://www.imdb.com/title/tt1773109/,movie,5.7,163,2011,"Action, Comedy, Drama",4458,1/14/2011,"Samir Karnik, Jeet Rataul"
+tt1787988,7,11/6/2016,Talaash,https://www.imdb.com/title/tt1787988/,movie,7.2,140,2012,"Crime, Drama, Mystery, Thriller",44109,11/29/2012,"Reema Kagti, Priyamvada Narayanan"
+tt1790809,10,5/8/2022,Pirates of the Caribbean: Dead Men Tell No Tales,https://www.imdb.com/title/tt1790809/,movie,6.5,129,2017,"Action, Adventure, Fantasy",331747,5/11/2017,"Espen Sandberg, Joachim Rønning"
+tt1790885,8,10/5/2016,Zero Dark Thirty,https://www.imdb.com/title/tt1790885/,movie,7.4,157,2012,"Drama, History, Thriller, War",312203,12/10/2012,Kathryn Bigelow
+tt0180093,8,8/25/2016,Requiem for a Dream,https://www.imdb.com/title/tt0180093/,movie,8.3,102,2000,Drama,873924,5/14/2000,Darren Aronofsky
+tt1806913,6,10/23/2017,Golmaal Again,https://www.imdb.com/title/tt1806913/,movie,4.9,140,2017,"Action, Comedy, Fantasy, Horror",10142,10/19/2017,Rohit Shetty
+tt0181689,9,10/31/2018,Minority Report,https://www.imdb.com/title/tt0181689/,movie,7.6,145,2002,"Action, Crime, Mystery, Sci-Fi, Thriller",571199,6/17/2002,Steven Spielberg
+tt1821480,9,8/17/2016,Kahaani,https://www.imdb.com/title/tt1821480/,movie,8.1,122,2012,"Mystery, Thriller",64506,3/8/2012,Sujoy Ghosh
+tt1822266,8,9/25/2016,Mumbai Pune Mumbai,https://www.imdb.com/title/tt1822266/,movie,8,101,2010,"Drama, Romance",1971,6/11/2010,Satish Rajwade
+tt1825683,10,12/24/2021,Black Panther,https://www.imdb.com/title/tt1825683/,movie,7.3,134,2018,"Action, Adventure, Sci-Fi",814370,1/29/2018,Ryan Coogler
+tt1830802,8,9/25/2016,Shala,https://www.imdb.com/title/tt1830802/,movie,8.3,108,2011,Romance,1964,5/7/2011,Sujay Dahake
+tt1833673,4,11/1/2016,Dhoom:3,https://www.imdb.com/title/tt1833673/,movie,5.4,172,2013,"Action, Crime, Drama, Thriller",48081,12/19/2013,Vijay Krishna Acharya
+tt1839596,8,9/18/2016,Rockstar,https://www.imdb.com/title/tt1839596/,movie,7.7,159,2011,"Drama, Music, Romance",46975,11/11/2011,Imtiaz Ali
+tt1841542,7,10/12/2016,Chillar Party,https://www.imdb.com/title/tt1841542/,movie,7.5,135,2011,"Comedy, Drama, Family",8300,7/8/2011,"Nitesh Tiwari, Vikas Bahl"
+tt1843866,10,12/17/2021,Captain America: The Winter Soldier,https://www.imdb.com/title/tt1843866/,movie,7.8,136,2014,"Action, Adventure, Sci-Fi, Thriller",878641,3/13/2014,"Anthony Russo, Joe Russo"
+tt1849718,7,9/19/2016,Agneepath,https://www.imdb.com/title/tt1849718/,movie,6.9,174,2012,"Action, Crime, Drama",25825,1/25/2012,Karan Malhotra
+tt1853728,9,7/24/2020,Django Unchained,https://www.imdb.com/title/tt1853728/,movie,8.5,165,2012,"Drama, Western",1632614,12/11/2012,Quentin Tarantino
+tt1856010,8,3/18/2017,House of Cards,https://www.imdb.com/title/tt1856010/,tvSeries,8.7,51,2013,Drama,520191,2/1/2013,
+tt1872181,10,12/31/2021,The Amazing Spider-Man 2,https://www.imdb.com/title/tt1872181/,movie,6.6,142,2014,"Action, Adventure, Sci-Fi",522090,4/10/2014,Marc Webb
+tt1877830,10,8/6/2022,The Batman,https://www.imdb.com/title/tt1877830/,movie,7.8,176,2022,"Action, Crime, Drama, Thriller",728484,3/1/2022,Matt Reeves
+tt1890363,7,7/21/2018,Buddha in a Traffic Jam,https://www.imdb.com/title/tt1890363/,movie,7.2,114,2016,"Crime, Thriller",7927,5/13/2016,Vivek Agnihotri
+tt1891884,4,9/21/2016,Once Upon a Time in Mumbai Dobaara!,https://www.imdb.com/title/tt1891884/,movie,4.4,160,2013,"Action, Crime, Drama",7475,8/15/2013,Milan Luthria
+tt1895587,9,5/6/2016,Spotlight,https://www.imdb.com/title/tt1895587/,movie,8.1,129,2015,"Biography, Crime, Drama",488881,9/3/2015,Tom McCarthy
+tt1899353,9,5/8/2020,Serbuan maut,https://www.imdb.com/title/tt1899353/,movie,7.6,101,2011,"Action, Crime, Thriller",212527,9/8/2011,Gareth Evans
+tt1918965,7,10/4/2016,Murder 2,https://www.imdb.com/title/tt1918965/,movie,6.3,127,2011,"Action, Crime, Drama, Horror, Thriller",7536,7/8/2011,Mohit Suri
+tt1926313,8,11/5/2016,Pyaar Ka Punchnama,https://www.imdb.com/title/tt1926313/,movie,7.6,149,2011,"Comedy, Drama, Romance",22353,5/20/2011,Luv Ranjan
+tt1934231,7,11/6/2016,Delhi Belly,https://www.imdb.com/title/tt1934231/,movie,7.5,103,2011,"Action, Comedy, Crime, Thriller",31347,6/30/2011,"Akshat Verma, Abhinay Deo"
+tt1937149,9,5/26/2019,El cuerpo,https://www.imdb.com/title/tt1937149/,movie,7.6,112,2012,"Crime, Drama, Mystery, Thriller",70310,10/4/2012,Oriol Paulo
+tt1948150,7,9/19/2016,Singham,https://www.imdb.com/title/tt1948150/,movie,6.8,143,2011,"Action, Crime, Drama",18140,7/22/2011,Rohit Shetty
+tt1950186,9,7/19/2020,Ford v Ferrari,https://www.imdb.com/title/tt1950186/,movie,8.1,152,2019,"Action, Biography, Drama, Sport",435487,8/30/2019,James Mangold
+tt1954470,9,8/17/2016,Gangs of Wasseypur,https://www.imdb.com/title/tt1954470/,movie,8.2,321,2012,"Action, Comedy, Crime, Drama, Thriller",100646,5/22/2012,Anurag Kashyap
+tt1954598,7,9/18/2016,Ladies vs. Ricky Bahl,https://www.imdb.com/title/tt1954598/,movie,6,140,2011,"Comedy, Crime, Drama, Romance",10328,12/8/2011,Maneesh Sharma
+tt1979320,9,11/18/2016,Rush,https://www.imdb.com/title/tt1979320/,movie,8.1,123,2013,"Action, Biography, Drama, Sport",498702,9/2/2013,Ron Howard
+tt1981115,10,12/16/2021,Thor: The Dark World,https://www.imdb.com/title/tt1981115/,movie,6.8,112,2013,"Action, Adventure, Fantasy",708545,10/22/2013,Alan Taylor
+tt1985981,6,9/21/2016,Desi Boyz,https://www.imdb.com/title/tt1985981/,movie,5.7,122,2011,"Comedy, Drama, Romance",14581,11/24/2011,Rohit Dhawan
+tt19879660,10,2/19/2023,Dharmaveer,https://www.imdb.com/title/tt19879660/,movie,8,176,2022,"Biography, Crime, Drama",1910,5/13/2022,Pravin Tarde
+tt1992138,7,10/10/2016,Force,https://www.imdb.com/title/tt1992138/,movie,6.5,137,2011,"Action, Crime, Drama, Romance, Thriller",8240,9/30/2011,Nishikant Kamat
+tt0200087,9,8/17/2016,Sarfarosh,https://www.imdb.com/title/tt0200087/,movie,8.1,174,1999,"Action, Crime, Drama, Thriller",26429,4/30/1999,John Mathew Matthan
+tt0200192,5,1/29/2018,Tra(sgre)dire,https://www.imdb.com/title/tt0200192/,movie,5.4,91,2000,"Comedy, Drama",6203,1/28/2000,Tinto Brass
+tt2015381,9,12/18/2021,Guardians of the Galaxy,https://www.imdb.com/title/tt2015381/,movie,8,121,2014,"Action, Adventure, Comedy, Sci-Fi",1242693,7/21/2014,James Gunn
+tt2071613,8,11/6/2016,Business Man,https://www.imdb.com/title/tt2071613/,movie,7.2,133,2012,"Action, Crime, Drama",11251,1/12/2012,Puri Jagannadh
+tt2072227,9,8/25/2016,Shanghai,https://www.imdb.com/title/tt2072227/,movie,7.3,120,2012,"Crime, Drama, Mystery, Thriller",10408,6/7/2012,Dibakar Banerjee
+tt2077833,7,12/30/2020,Rowdy Rathore,https://www.imdb.com/title/tt2077833/,movie,5.8,140,2012,"Action, Comedy, Crime",23359,5/31/2012,Prabhu Deva
+tt0208092,9,3/19/2017,Snatch,https://www.imdb.com/title/tt0208092/,movie,8.2,104,2000,"Comedy, Crime",885504,8/23/2000,Guy Ritchie
+tt2082197,9,8/17/2016,Barfi!,https://www.imdb.com/title/tt2082197/,movie,8.1,151,2012,"Comedy, Drama, Romance",84806,9/13/2012,Anurag Basu
+tt2084970,9,1/20/2016,The Imitation Game,https://www.imdb.com/title/tt2084970/,movie,8,114,2014,"Biography, Drama, Thriller, War",801955,8/29/2014,Morten Tyldum
+tt20850406,10,9/10/2022,Sita Ramam,https://www.imdb.com/title/tt20850406/,movie,8.6,163,2022,"Action, Drama, Mystery, Romance",62724,8/5/2022,Hanu Raghavapudi
+tt2085783,8,11/21/2016,Deool,https://www.imdb.com/title/tt2085783/,movie,8.2,135,2011,Drama,1688,9/15/2011,Umesh Vinayak Kulkarni
+tt20873118,10,7/11/2022,Suzhal - The Vortex,https://www.imdb.com/title/tt20873118/,tvSeries,8.2,46,2022,"Crime, Drama, Thriller",8870,6/16/2022,
+tt0209144,9,8/13/2016,Memento,https://www.imdb.com/title/tt0209144/,movie,8.4,113,2000,"Mystery, Thriller",1285715,9/5/2000,Christopher Nolan
+tt2112124,6,9/19/2016,Chennai Express,https://www.imdb.com/title/tt2112124/,movie,6.1,141,2013,"Action, Comedy, Drama, Romance",59749,8/8/2013,Rohit Shetty
+tt2112131,3,10/19/2016,Dabangg 2,https://www.imdb.com/title/tt2112131/,movie,4.8,120,2012,"Action, Comedy, Crime",19426,12/20/2012,Arbaaz Khan
+tt2122340,6,9/20/2016,Ferrari Ki Sawaari,https://www.imdb.com/title/tt2122340/,movie,6.4,140,2012,"Comedy, Drama, Family, Sport",5726,6/14/2012,Rajesh Mapuskar
+tt21261388,10,9/6/2023,Gargi,https://www.imdb.com/title/tt21261388/,movie,8.1,140,2022,"Drama, Thriller",6391,7/15/2022,Gautham Ramachandran
+tt2140465,7,9/19/2016,Tanu Weds Manu Returns,https://www.imdb.com/title/tt2140465/,movie,7.6,128,2015,"Comedy, Drama, Romance",29402,5/21/2015,Aanand L. Rai
+tt2140479,8,1/22/2020,The Accountant,https://www.imdb.com/title/tt2140479/,movie,7.3,128,2016,"Action, Thriller",309186,10/3/2016,Gavin O'Connor
+tt2149175,10,2/10/2022,The Americans,https://www.imdb.com/title/tt2149175/,tvSeries,8.4,44,2013,"Crime, Drama, Mystery, Thriller",106835,1/30/2013,
+tt0215129,8,9/8/2019,Road Trip,https://www.imdb.com/title/tt0215129/,movie,6.5,93,2000,Comedy,174743,5/11/2000,Todd Phillips
+tt2168910,8,3/3/2017,Cocktail,https://www.imdb.com/title/tt2168910/,movie,6.3,146,2012,"Comedy, Drama, Romance",14688,7/13/2012,Homi Adajania
+tt2170439,7,11/4/2018,Horrible Bosses 2,https://www.imdb.com/title/tt2170439/,movie,6.3,108,2014,"Comedy, Crime",180530,11/12/2014,Sean Anders
+tt2172071,6,9/18/2016,Student of the Year,https://www.imdb.com/title/tt2172071/,movie,5.2,146,2012,"Comedy, Drama, Music, Romance, Sport",19360,10/18/2012,"Abhishek Varman, Karan Johar"
+tt2176013,8,9/19/2016,Jab Tak Hai Jaan,https://www.imdb.com/title/tt2176013/,movie,6.7,198,2012,"Drama, Romance",57539,11/13/2012,Yash Chopra
+tt2178470,8,9/18/2016,Yeh Jawaani Hai Deewani,https://www.imdb.com/title/tt2178470/,movie,7.2,160,2013,"Comedy, Drama, Musical, Romance",49098,5/30/2013,Ayan Mukerji
+tt2178508,6,11/10/2016,Son of Sardaar,https://www.imdb.com/title/tt2178508/,movie,4.2,141,2012,"Action, Comedy, Romance",10174,11/13/2012,"Anil Devgan, Ashwani Dhir"
+tt2180477,8,2/25/2017,Nanban,https://www.imdb.com/title/tt2180477/,movie,7.7,188,2012,"Comedy, Drama",16181,1/12/2012,S. Shankar
+tt2181831,9,8/17/2016,Shahid,https://www.imdb.com/title/tt2181831/,movie,8.2,129,2012,"Biography, Drama",17054,9/6/2012,Hansal Mehta
+tt2181931,8,9/20/2016,English Vinglish,https://www.imdb.com/title/tt2181931/,movie,7.8,134,2012,"Comedy, Drama, Family",37949,9/14/2012,Gauri Shinde
+tt2187153,7,2/25/2017,Thuppakki,https://www.imdb.com/title/tt2187153/,movie,8.1,165,2012,"Action, Thriller",36268,11/13/2012,A.R. Murugadoss
+tt2191701,8,9/18/2019,Grown Ups 2,https://www.imdb.com/title/tt2191701/,movie,5.3,101,2013,Comedy,163811,7/11/2013,Dennis Dugan
+tt2193021,8,10/5/2016,Arrow,https://www.imdb.com/title/tt2193021/,tvSeries,7.5,42,2012,"Action, Adventure, Crime, Drama, Mystery, Sci-Fi",440861,10/10/2012,
+tt2199711,8,8/24/2016,Vishwaroopam,https://www.imdb.com/title/tt2199711/,movie,7.9,148,2013,"Action, Thriller",40674,1/25/2013,Kamal Haasan
+tt2203308,7,9/18/2016,Aashiqui 2,https://www.imdb.com/title/tt2203308/,movie,7,132,2013,"Drama, Music, Musical, Romance",31454,4/25/2013,Mohit Suri
+tt2209418,8,11/21/2016,Before Midnight,https://www.imdb.com/title/tt2209418/,movie,7.9,109,2013,"Drama, Romance",167208,1/20/2013,Richard Linklater
+tt2213054,8,2/28/2017,Kai po che!,https://www.imdb.com/title/tt2213054/,movie,7.8,130,2013,"Drama, Sport",38082,2/13/2013,Abhishek Kapoor
+tt2215477,7,9/19/2016,Goliyon Ki Rasleela Ram-Leela,https://www.imdb.com/title/tt2215477/,movie,6.4,150,2013,"Drama, Musical, Romance",21726,11/14/2013,Sanjay Leela Bhansali
+tt2218988,8,8/24/2016,Ustad Hotel,https://www.imdb.com/title/tt2218988/,movie,8.2,151,2012,"Comedy, Drama",15476,6/29/2012,Anwar Rasheed
+tt2224317,8,8/17/2016,Lootera,https://www.imdb.com/title/tt2224317/,movie,7.4,136,2013,"Drama, Romance",16466,7/4/2013,Vikramaditya Motwane
+tt2229842,7,11/6/2016,Table No.21,https://www.imdb.com/title/tt2229842/,movie,7.2,108,2013,"Adventure, Drama, Thriller",13613,1/4/2013,Aditya Datt
+tt2229848,6,3/3/2017,Chashme Baddoor,https://www.imdb.com/title/tt2229848/,movie,5.4,121,2013,"Comedy, Drama",5282,4/5/2013,David Dhawan
+tt2231461,9,3/2/2019,Rampage,https://www.imdb.com/title/tt2231461/,movie,6.1,107,2018,"Action, Adventure, Sci-Fi",179405,4/9/2018,Brad Peyton
+tt2246724,6,10/4/2016,Ghanchakkar,https://www.imdb.com/title/tt2246724/,movie,5.9,137,2013,"Comedy, Crime, Thriller",5199,6/25/2013,Raj Kumar Gupta
+tt2250912,10,12/23/2021,Spider-Man: Homecoming,https://www.imdb.com/title/tt2250912/,movie,7.4,133,2017,"Action, Adventure, Sci-Fi",694796,6/28/2017,Jon Watts
+tt2258337,7,10/19/2016,Eega,https://www.imdb.com/title/tt2258337/,movie,7.7,145,2012,"Action, Comedy, Drama, Fantasy",26283,7/5/2012,S.S. Rajamouli
+tt2265171,8,5/8/2020,Serbuan maut 2: Berandal,https://www.imdb.com/title/tt2265171/,movie,7.9,150,2014,"Action, Crime, Thriller",128633,1/21/2014,Gareth Evans
+tt2267998,8,8/26/2016,Gone Girl,https://www.imdb.com/title/tt2267998/,movie,8.1,149,2014,"Drama, Mystery, Thriller",1028092,9/26/2014,David Fincher
+tt2275794,5,12/22/2016,Gori Tere Pyaar Mein!,https://www.imdb.com/title/tt2275794/,movie,4.9,150,2013,"Comedy, Drama, Romance",4035,11/21/2013,Punit Malhotra
+tt2275802,7,9/19/2016,Satyagraha,https://www.imdb.com/title/tt2275802/,movie,5.9,152,2013,Drama,5323,8/30/2013,Prakash Jha
+tt2278388,8,9/3/2016,The Grand Budapest Hotel,https://www.imdb.com/title/tt2278388/,movie,8.1,99,2014,"Adventure, Comedy, Crime",856682,2/6/2014,Wes Anderson
+tt2283748,9,1/12/2016,OMG: Oh My God!,https://www.imdb.com/title/tt2283748/,movie,8.1,125,2012,"Comedy, Drama, Fantasy",62691,9/28/2012,Umesh Shukla
+tt2292625,8,9/19/2016,Chakravyuh,https://www.imdb.com/title/tt2292625/,movie,6.8,152,2012,"Action, Drama, Thriller",3366,10/11/2012,Prakash Jha
+tt2301155,5,10/10/2016,Shootout at Wadala,https://www.imdb.com/title/tt2301155/,movie,6,155,2013,"Action, Biography, Crime",7341,5/1/2013,Sanjay Gupta
+tt2302966,8,11/6/2016,I,https://www.imdb.com/title/tt2302966/,movie,7.4,188,2015,"Action, Drama, Romance, Sci-Fi, Thriller",22697,1/14/2015,S. Shankar
+tt2308773,8,9/18/2016,Ishaqzaade,https://www.imdb.com/title/tt2308773/,movie,6.5,120,2012,"Action, Drama, Romance",8167,5/11/2012,Habib Faisal
+tt2309764,6,9/19/2016,Singham Returns,https://www.imdb.com/title/tt2309764/,movie,5.7,142,2014,"Action, Crime, Drama",9467,8/14/2014,Rohit Shetty
+tt2317337,8,9/19/2016,Vicky Donor,https://www.imdb.com/title/tt2317337/,movie,7.8,126,2012,"Comedy, Romance",44689,4/19/2012,Shoojit Sircar
+tt2319889,7,10/4/2016,Jannat 2,https://www.imdb.com/title/tt2319889/,movie,6.2,150,2012,"Crime, Drama, Thriller",5927,5/3/2012,Kunal Deshmukh
+tt2321421,8,9/25/2016,Mee Shivajiraje Bhosale Boltoy,https://www.imdb.com/title/tt2321421/,movie,8,149,2009,Drama,2390,4/3/2009,Santosh Ramdas Manjrekar
+tt2322441,6,3/8/2017,Fifty Shades of Grey,https://www.imdb.com/title/tt2322441/,movie,4.2,125,2015,"Drama, Romance, Thriller",329171,2/9/2015,Sam Taylor-Johnson
+tt2323964,7,3/3/2017,Mere Dad Ki Maruti,https://www.imdb.com/title/tt2323964/,movie,6.4,101,2013,"Comedy, Drama, Romance",4892,3/14/2013,Ashima Chibber
+tt2330927,8,10/19/2016,Julayi,https://www.imdb.com/title/tt2330927/,movie,7.2,160,2012,"Action, Comedy, Crime, Thriller",6222,8/9/2012,Trivikram Srinivas
+tt2338151,8,12/30/2016,PK,https://www.imdb.com/title/tt2338151/,movie,8.1,153,2014,"Comedy, Drama, Sci-Fi",195475,12/18/2014,Rajkumar Hirani
+tt0233979,7,9/25/2016,Zapatlela,https://www.imdb.com/title/tt0233979/,movie,7.8,168,1993,"Comedy, Drama, Horror, Mystery",802,4/14/1993,Mahesh Kothare
+tt0234000,7,9/19/2016,Kaho Naa... Pyaar Hai,https://www.imdb.com/title/tt0234000/,movie,6.9,172,2000,"Action, Musical, Romance, Thriller",16078,1/14/2000,Rakesh Roshan
+tt2350496,7,11/6/2016,The Lunchbox,https://www.imdb.com/title/tt2350496/,movie,7.8,104,2013,"Drama, Romance",59189,5/19/2013,Ritesh Batra
+tt2356180,9,8/17/2016,Bhaag Milkha Bhaag,https://www.imdb.com/title/tt2356180/,movie,8.2,186,2013,"Biography, Drama, Sport",70586,7/11/2013,Rakeysh Omprakash Mehra
+tt2358592,9,9/28/2017,Lucia,https://www.imdb.com/title/tt2358592/,movie,8.3,135,2013,"Drama, Sci-Fi, Thriller",12767,7/20/2013,Pawan Kumar
+tt2359810,8,11/6/2016,Raanjhanaa,https://www.imdb.com/title/tt2359810/,movie,7.6,140,2013,"Drama, Romance",33932,6/20/2013,Aanand L. Rai
+tt2361509,9,5/27/2020,The Intern,https://www.imdb.com/title/tt2361509/,movie,7.1,121,2015,"Comedy, Drama",265312,9/15/2015,Nancy Meyers
+tt2361746,7,2/17/2017,Haraamkhor,https://www.imdb.com/title/tt2361746/,movie,6.4,90,2015,"Drama, Romance",4317,4/8/2015,Shlok Sharma
+tt2372678,8,11/6/2016,2 States,https://www.imdb.com/title/tt2372678/,movie,6.9,149,2014,"Comedy, Drama, Romance",26669,4/17/2014,Abhishek Varman
+tt2375559,7,8/24/2016,1 - Nenokkadine,https://www.imdb.com/title/tt2375559/,movie,8,170,2014,"Action, Thriller",46046,1/10/2014,Sukumar
+tt2377938,9,8/17/2016,Special Chabbis,https://www.imdb.com/title/tt2377938/,movie,8,144,2013,"Crime, Drama, Thriller",57951,2/7/2013,Neeraj Pandey
+tt2379713,7,12/7/2019,Spectre,https://www.imdb.com/title/tt2379713/,movie,6.8,148,2015,"Action, Adventure, Thriller",455876,10/26/2015,Sam Mendes
+tt2381249,10,8/13/2022,Mission: Impossible - Rogue Nation,https://www.imdb.com/title/tt2381249/,movie,7.4,131,2015,"Action, Adventure, Thriller",399280,7/23/2015,Christopher McQuarrie
+tt2382320,9,11/28/2021,No Time to Die,https://www.imdb.com/title/tt2382320/,movie,7.3,163,2021,"Action, Adventure, Thriller",428176,9/28/2021,Cary Joji Fukunaga
+tt2385104,8,8/25/2016,D-Day,https://www.imdb.com/title/tt2385104/,movie,7.2,153,2013,"Action, Thriller",10145,7/19/2013,Nikkhil Advani
+tt2391492,8,2/22/2017,Balak Palak,https://www.imdb.com/title/tt2391492/,movie,8.1,109,2013,Family,1867,1/4/2013,Ravi Jadhav
+tt2392447,6,10/4/2016,Ungli,https://www.imdb.com/title/tt2392447/,movie,5.9,114,2014,"Crime, Drama, Thriller",4115,11/27/2014,Renzil D'Silva
+tt2395427,10,12/19/2021,Avengers: Age of Ultron,https://www.imdb.com/title/tt2395427/,movie,7.3,141,2015,"Action, Adventure, Sci-Fi",898768,4/13/2015,Joss Whedon
+tt2395469,8,6/22/2019,Gully Boy,https://www.imdb.com/title/tt2395469/,movie,7.9,154,2019,"Drama, Music, Romance",42088,2/9/2019,Zoya Akhtar
+tt0240772,9,10/10/2018,Ocean's Eleven,https://www.imdb.com/title/tt0240772/,movie,7.7,116,2001,"Crime, Thriller",600636,12/5/2001,Steven Soderbergh
+tt0241527,8,1/27/2019,Harry Potter and the Sorcerer's Stone,https://www.imdb.com/title/tt0241527/,movie,7.6,152,2001,"Adventure, Family, Fantasy",823595,11/4/2001,Chris Columbus
+tt2424988,7,11/6/2016,Gabbar Is Back,https://www.imdb.com/title/tt2424988/,movie,7.1,128,2015,"Action, Crime, Drama",25987,4/30/2015,Radha Krishna Jagarlamudi
+tt0242519,8,8/24/2016,Hera Pheri,https://www.imdb.com/title/tt0242519/,movie,8.1,156,2000,"Action, Comedy, Crime, Drama",70474,3/31/2000,Priyadarshan
+tt2436516,7,10/10/2016,Go Goa Gone,https://www.imdb.com/title/tt2436516/,movie,6.6,108,2013,"Action, Adventure, Comedy, Horror, Sci-Fi",14725,5/10/2013,"Raj Nidimoru, Krishna D.K."
+tt2437954,7,1/1/2017,Singh Saab the Great,https://www.imdb.com/title/tt2437954/,movie,5.7,134,2013,"Action, Drama",2460,11/21/2013,Anil Sharma
+tt2442560,9,6/26/2021,Peaky Blinders,https://www.imdb.com/title/tt2442560/,tvSeries,8.8,60,2013,"Crime, Drama",605219,9/12/2013,
+tt24516518,10,2/24/2023,Vaalvi,https://www.imdb.com/title/tt24516518/,movie,8.3,106,2023,"Comedy, Drama, Thriller",1629,1/13/2023,Paresh Mokashi
+tt0245429,9,8/24/2021,Sen to Chihiro no kamikakushi,https://www.imdb.com/title/tt0245429/,movie,8.6,125,2001,"Animation, Adventure, Family, Fantasy, Mystery",808415,7/20/2001,Hayao Miyazaki
+tt2467372,9,11/4/2019,Brooklyn Nine-Nine,https://www.imdb.com/title/tt2467372/,tvSeries,8.4,22,2013,"Comedy, Crime",341942,9/17/2013,
+tt0248012,7,9/19/2016,Fiza,https://www.imdb.com/title/tt0248012/,movie,6,170,2000,"Crime, Drama, Romance, Thriller",4397,9/8/2000,Khalid Mohamed
+tt0248126,7,11/6/2016,Kabhi Khushi Kabhie Gham...,https://www.imdb.com/title/tt0248126/,movie,7.4,210,2001,"Drama, Musical, Romance",53267,12/14/2001,Karan Johar
+tt0252866,8,9/14/2019,American Pie 2,https://www.imdb.com/title/tt0252866/,movie,6.4,108,2001,Comedy,265067,8/6/2001,J.B. Rogers
+tt0254481,7,9/19/2016,Koi... Mil Gaya,https://www.imdb.com/title/tt0254481/,movie,7.1,171,2003,"Action, Drama, Romance, Sci-Fi",26315,8/8/2003,Rakesh Roshan
+tt2551378,5,10/10/2016,Bullett Raja,https://www.imdb.com/title/tt2551378/,movie,4.9,138,2013,"Action, Crime, Drama",4079,11/28/2013,"Tigmanshu Dhulia, Ajit Sable"
+tt2556308,8,8/25/2016,Holiday,https://www.imdb.com/title/tt2556308/,movie,7.2,160,2014,"Action, Crime, Thriller",29367,6/5/2014,A.R. Murugadoss
+tt2571140,5,9/21/2016,Boss,https://www.imdb.com/title/tt2571140/,movie,5.1,143,2013,"Action, Comedy, Crime, Drama",11608,10/15/2013,Anthony D'Souza
+tt2575988,9,2/1/2020,Silicon Valley,https://www.imdb.com/title/tt2575988/,tvSeries,8.5,28,2014,Comedy,159932,4/6/2014,
+tt2582802,9,12/10/2016,Whiplash,https://www.imdb.com/title/tt2582802/,movie,8.5,106,2014,"Drama, Music",930150,1/16/2014,Damien Chazelle
+tt0258463,8,2/21/2018,The Bourne Identity,https://www.imdb.com/title/tt0258463/,movie,7.8,119,2002,"Action, Mystery, Thriller",564416,6/6/2002,Doug Liman
+tt0259534,10,4/14/2022,Ramayana: The Legend of Prince Rama,https://www.imdb.com/title/tt0259534/,movie,9.2,135,1993,"Animation, Action, Adventure, Drama, Fantasy, Musical, Romance",12826,1/10/1993,"Yûgô Sakô, Koichi Saski, Ram Mohan"
+tt2621000,8,8/25/2016,Jolly LLB,https://www.imdb.com/title/tt2621000/,movie,7.5,135,2013,"Comedy, Crime, Drama",20821,3/14/2013,Subhash Kapoor
+tt2631186,9,8/24/2016,Bãhubali: The Beginning,https://www.imdb.com/title/tt2631186/,movie,8,159,2015,"Action, Drama",131904,7/9/2015,S.S. Rajamouli
+tt0264235,10,2/25/2022,Curb Your Enthusiasm,https://www.imdb.com/title/tt0264235/,tvSeries,8.8,28,2000,Comedy,137095,10/14/2000,
+tt0264464,8,11/1/2016,Catch Me If You Can,https://www.imdb.com/title/tt0264464/,movie,8.1,141,2002,"Biography, Crime, Drama",1046408,12/16/2002,Steven Spielberg
+tt2658126,7,10/10/2016,Commando,https://www.imdb.com/title/tt2658126/,movie,6.3,124,2013,"Action, Adventure, Thriller",5778,4/11/2013,Dilip Ghosh
+tt0266697,8,11/5/2017,Kill Bill: Vol. 1,https://www.imdb.com/title/tt0266697/,movie,8.2,111,2003,"Action, Crime, Thriller",1157540,9/29/2003,Quentin Tarantino
+tt2675978,7,11/6/2016,Dedh Ishqiya,https://www.imdb.com/title/tt2675978/,movie,7,152,2014,"Comedy, Drama, Romance, Thriller",7411,1/9/2014,Abhishek Chaubey
+tt0268978,9,1/20/2016,A Beautiful Mind,https://www.imdb.com/title/tt0268978/,movie,8.2,135,2001,"Biography, Drama",962074,12/13/2001,Ron Howard
+tt2704998,8,1/7/2019,Game Night,https://www.imdb.com/title/tt2704998/,movie,6.9,100,2018,"Action, Adventure, Comedy, Crime, Thriller",248583,2/15/2018,"John Francis Daley, Jonathan Goldstein"
+tt2707408,9,9/9/2017,Narcos,https://www.imdb.com/title/tt2707408/,tvSeries,8.8,49,2015,"Biography, Crime, Drama, Thriller",451578,8/28/2015,
+tt2737304,8,11/17/2019,Bird Box,https://www.imdb.com/title/tt2737304/,movie,6.6,124,2018,"Horror, Mystery, Sci-Fi",371354,11/12/2018,Susanne Bier
+tt27542289,10,8/22/2023,Por Thozhil,https://www.imdb.com/title/tt27542289/,movie,8.1,147,2023,"Action, Crime, Thriller",6304,6/9/2023,"Vignesh Raja, T. Senthil Paramasivam"
+tt2762334,6,9/18/2016,Main Tera Hero,https://www.imdb.com/title/tt2762334/,movie,5.1,128,2014,"Action, Comedy, Romance",9505,4/3/2014,David Dhawan
+tt0277371,9,2/1/2023,Not Another Teen Movie,https://www.imdb.com/title/tt0277371/,movie,5.7,89,2001,Comedy,111953,12/7/2001,Joel Gallen
+tt0027977,8,3/25/2017,Modern Times,https://www.imdb.com/title/tt0027977/,movie,8.5,87,1936,"Comedy, Drama, Romance",252156,2/5/1936,Charles Chaplin
+tt2802144,9,5/16/2021,Kingsman: The Secret Service,https://www.imdb.com/title/tt2802144/,movie,7.7,129,2014,"Action, Adventure, Comedy, Thriller",696267,12/13/2014,Matthew Vaughn
+tt2806788,7,11/6/2016,Fukrey,https://www.imdb.com/title/tt2806788/,movie,6.9,139,2013,"Comedy, Drama, Romance",12519,6/13/2013,Mrighdeep Lamba
+tt2827320,9,5/6/2016,Fandry,https://www.imdb.com/title/tt2827320/,movie,8.3,101,2013,"Drama, Family",2506,10/10/2013,Nagraj Manjule
+tt0285403,8,5/5/2019,Scrubs,https://www.imdb.com/title/tt0285403/,tvSeries,8.4,22,2001,"Comedy, Drama",264735,10/1/2001,
+tt2855648,8,8/17/2016,Madras Cafe,https://www.imdb.com/title/tt2855648/,movie,7.6,130,2013,"Action, Drama, Thriller",25100,8/23/2013,Shoojit Sircar
+tt2872718,7,6/9/2022,Nightcrawler,https://www.imdb.com/title/tt2872718/,movie,7.8,117,2014,"Crime, Drama, Thriller",581874,9/5/2014,Dan Gilroy
+tt2872732,7,9/26/2016,Lucy,https://www.imdb.com/title/tt2872732/,movie,6.4,89,2014,"Action, Sci-Fi, Thriller",519113,7/25/2014,Luc Besson
+tt2877108,10,3/5/2022,Soodhu Kavvum,https://www.imdb.com/title/tt2877108/,movie,8.3,135,2013,"Comedy, Crime, Thriller",10982,5/1/2013,Nalan Kumarasamy
+tt2882328,8,8/24/2016,Ugly,https://www.imdb.com/title/tt2882328/,movie,7.9,128,2013,"Crime, Drama, Mystery, Thriller",22794,5/17/2013,Anurag Kashyap
+tt2905838,7,9/19/2016,Bang Bang,https://www.imdb.com/title/tt2905838/,movie,5.6,153,2014,"Action, Adventure, Comedy, Musical, Romance, Thriller",25329,9/26/2014,Siddharth Anand
+tt2911666,9,5/30/2020,John Wick,https://www.imdb.com/title/tt2911666/,movie,7.4,101,2014,"Action, Crime, Thriller",711871,9/19/2014,"David Leitch, Chad Stahelski"
+tt0291376,8,11/5/2016,Nayak: The Real Hero,https://www.imdb.com/title/tt0291376/,movie,7.8,187,2001,"Action, Drama, Thriller",17323,9/7/2001,S. Shankar
+tt2924472,8,7/23/2021,Mumbai Police,https://www.imdb.com/title/tt2924472/,movie,7.9,145,2013,"Crime, Mystery, Thriller",7254,5/3/2013,Rosshan Andrrews
+tt0293429,8,9/19/2021,Mortal Kombat,https://www.imdb.com/title/tt0293429/,movie,6.1,110,2021,"Action, Adventure, Fantasy, Sci-Fi, Thriller",184002,4/7/2021,Simon McQuoid
+tt2939912,8,9/18/2016,Traffic,https://www.imdb.com/title/tt2939912/,movie,6.7,104,2016,"Adventure, Drama, Thriller",2720,5/6/2016,Rajesh Pillai
+tt2948356,9,3/5/2017,Zootopia,https://www.imdb.com/title/tt2948356/,movie,8,108,2016,"Animation, Adventure, Comedy, Crime, Family, Mystery",526147,2/10/2016,"Rich Moore, Jared Bush, Byron Howard"
+tt2980794,8,10/5/2016,Highway,https://www.imdb.com/title/tt2980794/,movie,7.6,133,2014,"Crime, Drama, Romance",29886,2/13/2014,Imtiaz Ali
+tt2988272,7,7/25/2020,Shuddh Desi Romance,https://www.imdb.com/title/tt2988272/,movie,5.8,141,2013,"Comedy, Drama, Romance",10062,9/5/2013,Maneesh Sharma
+tt3001638,7,11/6/2016,Mary Kom,https://www.imdb.com/title/tt3001638/,movie,6.8,122,2014,"Action, Biography, Drama, Sport",11214,9/4/2014,Omung Kumar
+tt3019620,6,11/5/2018,Titli,https://www.imdb.com/title/tt3019620/,movie,7.5,116,2014,"Action, Crime, Drama, Thriller",5068,5/20/2014,Kanu Behl
+tt3032476,9,10/3/2020,Better Call Saul,https://www.imdb.com/title/tt3032476/,tvSeries,9,46,2015,"Crime, Drama",603187,2/8/2015,
+tt3040964,8,3/8/2017,The Jungle Book,https://www.imdb.com/title/tt3040964/,movie,7.4,106,2016,"Animation, Adventure, Drama, Family, Fantasy",286414,4/4/2016,Jon Favreau
+tt3043252,8,12/24/2016,Parched,https://www.imdb.com/title/tt3043252/,movie,7.5,116,2015,Drama,5677,9/12/2015,Leena Yadav
+tt3062096,8,12/9/2021,Inferno,https://www.imdb.com/title/tt3062096/,movie,6.2,121,2016,"Action, Adventure, Crime, Drama, Mystery, Thriller",184733,10/8/2016,Ron Howard
+tt0306414,9,12/10/2016,The Wire,https://www.imdb.com/title/tt0306414/,tvSeries,9.3,59,2002,"Crime, Drama, Thriller",360870,6/2/2002,
+tt3121604,6,9/25/2016,Duniyadari,https://www.imdb.com/title/tt3121604/,movie,7.5,142,2013,Drama,1993,7/19/2013,Sanjay Jadhav
+tt3124456,9,10/29/2019,Memories,https://www.imdb.com/title/tt3124456/,movie,8,132,2013,"Mystery, Thriller",7625,8/9/2013,Jeethu Joseph
+tt3142764,6,10/19/2016,Race Gurram,https://www.imdb.com/title/tt3142764/,movie,7.3,163,2014,"Action, Comedy",12315,4/10/2014,Surender Reddy
+tt0314331,7,11/23/2016,Love Actually,https://www.imdb.com/title/tt0314331/,movie,7.6,135,2003,"Comedy, Drama, Romance",506331,11/6/2003,Richard Curtis
+tt3148502,9,9/19/2016,Tamasha,https://www.imdb.com/title/tt3148502/,movie,7.3,139,2015,"Comedy, Drama, Romance",30011,11/26/2015,Imtiaz Ali
+tt0315642,8,1/8/2017,Wazir,https://www.imdb.com/title/tt0315642/,movie,7.1,103,2016,"Action, Crime, Drama, Mystery, Thriller",19617,1/7/2016,Bejoy Nambiar
+tt0316654,7,10/8/2016,Spider-Man 2,https://www.imdb.com/title/tt0316654/,movie,7.5,127,2004,"Action, Adventure, Sci-Fi",685381,6/25/2004,Sam Raimi
+tt0317248,9,6/11/2020,Cidade de Deus,https://www.imdb.com/title/tt0317248/,movie,8.6,130,2002,"Crime, Drama",780823,5/18/2002,"Kátia Lund, Fernando Meirelles"
+tt3173910,8,11/6/2016,Hasee Toh Phasee,https://www.imdb.com/title/tt3173910/,movie,6.8,141,2014,"Comedy, Romance",15927,2/7/2014,Vinil Mathew
+tt3175038,7,9/18/2016,Ek Villain,https://www.imdb.com/title/tt3175038/,movie,6.5,129,2014,"Action, Crime, Drama, Romance, Thriller",21932,6/27/2014,Mohit Suri
+tt0317740,8,5/25/2020,The Italian Job,https://www.imdb.com/title/tt0317740/,movie,7,111,2003,"Action, Crime, Thriller",381108,5/30/2003,F. Gary Gray
+tt0319020,7,3/3/2017,Awara Paagal Deewana,https://www.imdb.com/title/tt0319020/,movie,6.2,158,2002,"Action, Comedy, Crime, Drama, Thriller",8906,6/20/2002,Vikram Bhatt
+tt0323013,9,9/19/2016,Lakshya,https://www.imdb.com/title/tt0323013/,movie,7.8,186,2004,"Action, Drama, Romance, War",24564,6/18/2004,Farhan Akhtar
+tt3246616,9,7/26/2017,Pradhanmantri,https://www.imdb.com/title/tt3246616/,tvSeries,9.3,60,2013,"History, News",721,7/14/2013,
+tt0325980,8,4/6/2020,Pirates of the Caribbean: The Curse of the Black Pearl,https://www.imdb.com/title/tt0325980/,movie,8.1,143,2003,"Action, Adventure, Fantasy",1172674,6/28/2003,Gore Verbinski
+tt3263904,9,12/20/2016,Sully,https://www.imdb.com/title/tt3263904/,movie,7.4,96,2016,"Biography, Drama",289075,9/2/2016,Clint Eastwood
+tt0328729,6,9/18/2016,Dil Maange More!!!,https://www.imdb.com/title/tt0328729/,movie,5.2,123,2004,"Musical, Romance",2003,12/31/2004,Anant Mahadevan
+tt3322312,10,8/29/2022,Daredevil,https://www.imdb.com/title/tt3322312/,tvSeries,8.6,54,2015,"Action, Crime, Drama, Fantasy, Sci-Fi, Thriller",460389,4/2/2015,
+tt0338564,8,10/15/2016,Mou gaan dou,https://www.imdb.com/title/tt0338564/,movie,8,101,2002,"Action, Crime, Drama, Mystery, Thriller",128776,12/12/2002,"Andrew Lau, Alan Mak"
+tt3390572,8,2/25/2017,Haider,https://www.imdb.com/title/tt3390572/,movie,8,160,2014,"Action, Crime, Drama, Thriller",56506,10/2/2014,Vishal Bhardwaj
+tt3398052,7,9/18/2016,Daawat-e-Ishq,https://www.imdb.com/title/tt3398052/,movie,6.1,118,2014,"Comedy, Drama, Romance",6047,9/5/2014,Habib Faisal
+tt3405236,7,1/26/2017,Raees,https://www.imdb.com/title/tt3405236/,movie,6.6,143,2017,"Action, Crime, Drama",48348,1/25/2017,Rahul Dholakia
+tt3410408,7,9/18/2016,Rocky Handsome,https://www.imdb.com/title/tt3410408/,movie,6.8,119,2016,"Action, Crime, Drama, Thriller",8836,3/25/2016,Nishikant Kamat
+tt3417422,9,8/24/2016,Drishyam,https://www.imdb.com/title/tt3417422/,movie,8.3,160,2013,"Crime, Drama, Thriller",43025,12/19/2013,Jeethu Joseph
+tt3446426,8,9/25/2016,Time Pass,https://www.imdb.com/title/tt3446426/,movie,7.5,143,2014,"Comedy, Fantasy, Romance",1629,1/3/2014,Ravi Jadhav
+tt3447364,9,2/25/2017,Detective Byomkesh Bakshy!,https://www.imdb.com/title/tt3447364/,movie,7.6,139,2015,"Action, Crime, Drama, Mystery, Thriller",23983,4/2/2015,Dibakar Banerjee
+tt3449292,9,8/17/2016,Manjhi: The Mountain Man,https://www.imdb.com/title/tt3449292/,movie,8,120,2015,"Biography, Drama",19684,8/21/2015,Ketan Mehta
+tt3460252,9,12/11/2020,The Hateful Eight,https://www.imdb.com/title/tt3460252/,movie,7.8,168,2015,"Crime, Drama, Mystery, Thriller, Western",635655,12/7/2015,Quentin Tarantino
+tt0347304,7,8/24/2016,Kal Ho Naa Ho,https://www.imdb.com/title/tt0347304/,movie,7.9,186,2003,"Comedy, Drama, Musical, Romance",72824,11/27/2003,Nikkhil Advani
+tt0347473,7,11/6/2016,Main Hoon Na,https://www.imdb.com/title/tt0347473/,movie,7,182,2004,"Action, Comedy, Drama, Musical, Romance, Thriller",38475,4/30/2004,Farah Khan
+tt3483712,6,10/4/2016,Raja Natwarlal,https://www.imdb.com/title/tt3483712/,movie,6.2,141,2014,"Crime, Thriller",4477,8/28/2014,Kunal Deshmukh
+tt3495000,7,11/6/2016,Mardaani,https://www.imdb.com/title/tt3495000/,movie,7.3,113,2014,"Action, Crime, Drama, Thriller",13187,8/21/2014,Pradeep Sarkar
+tt3495026,4,5/6/2016,Fan,https://www.imdb.com/title/tt3495026/,movie,6.9,138,2016,"Action, Drama, Thriller",48021,4/14/2016,Maneesh Sharma
+tt3495030,7,9/28/2016,Dum Laga Ke Haisha,https://www.imdb.com/title/tt3495030/,movie,7.5,109,2015,"Comedy, Drama, Romance",20634,2/27/2015,Sharat Katariya
+tt3498820,9,12/20/2021,Captain America: Civil War,https://www.imdb.com/title/tt3498820/,movie,7.8,147,2016,"Action, Sci-Fi",825584,4/12/2016,"Anthony Russo, Joe Russo"
+tt3501632,10,12/24/2021,Thor: Ragnarok,https://www.imdb.com/title/tt3501632/,movie,7.9,130,2017,"Action, Adventure, Comedy, Fantasy, Sci-Fi",791118,10/10/2017,Taika Waititi
+tt3514330,7,11/22/2018,Youngistaan,https://www.imdb.com/title/tt3514330/,movie,5.2,133,2014,"Drama, Romance",1944,3/27/2014,Syed Ahmad Afzal
+tt3569782,8,12/28/2016,Jigarthanda,https://www.imdb.com/title/tt3569782/,movie,8.2,171,2014,"Action, Comedy, Crime, Drama, Thriller",12548,7/31/2014,Karthik Subbaraj
+tt0359950,9,10/16/2017,The Secret Life of Walter Mitty,https://www.imdb.com/title/tt0359950/,movie,7.3,114,2013,"Adventure, Comedy, Drama, Fantasy, Romance",330127,10/5/2013,Ben Stiller
+tt3614516,7,1/31/2017,Ankhon Dekhi,https://www.imdb.com/title/tt3614516/,movie,7.9,107,2013,"Comedy, Drama",12210,12/5/2013,Rajat Kapoor
+tt0361748,9,12/9/2020,Inglourious Basterds,https://www.imdb.com/title/tt0361748/,movie,8.3,153,2009,"Adventure, Drama, War",1522552,5/20/2009,Quentin Tarantino
+tt3659388,9,9/11/2018,The Martian,https://www.imdb.com/title/tt3659388/,movie,8,144,2015,"Adventure, Drama, Sci-Fi",893561,9/11/2015,Ridley Scott
+tt3668162,8,8/24/2016,Bangalore Days,https://www.imdb.com/title/tt3668162/,movie,8.3,171,2014,"Comedy, Drama, Romance",21619,5/30/2014,Anjali Menon
+tt0367110,9,8/17/2016,"Swades: We, the People",https://www.imdb.com/title/tt0367110/,movie,8.2,210,2004,"Drama, Musical",94864,12/17/2004,Ashutosh Gowariker
+tt0367279,9,5/17/2020,Arrested Development,https://www.imdb.com/title/tt0367279/,tvSeries,8.7,22,2003,Comedy,316963,11/2/2003,
+tt0367495,9,3/6/2022,Anbe Sivam,https://www.imdb.com/title/tt0367495/,movie,8.6,160,2003,"Adventure, Comedy, Drama",24470,1/14/2003,Sundar C.
+tt3678782,8,9/28/2016,Badlapur,https://www.imdb.com/title/tt3678782/,movie,7.4,134,2015,"Action, Crime, Drama, Thriller",25137,2/19/2015,"Sriram Raghavan, Mehmet Tutkun"
+tt3678938,7,9/18/2016,Humpty Sharma Ki Dulhania,https://www.imdb.com/title/tt3678938/,movie,6,133,2014,"Comedy, Drama, Romance",13694,7/11/2014,Shashank Khaitan
+tt3682448,8,11/24/2019,Bridge of Spies,https://www.imdb.com/title/tt3682448/,movie,7.6,142,2015,"Drama, History, Thriller, War",321657,10/4/2015,Steven Spielberg
+tt0369339,9,10/9/2018,Collateral,https://www.imdb.com/title/tt0369339/,movie,7.5,120,2004,"Action, Crime, Drama, Thriller",422261,8/2/2004,Michael Mann
+tt3717068,8,9/25/2016,Court,https://www.imdb.com/title/tt3717068/,movie,7.6,116,2014,Drama,5084,9/4/2014,Chaitanya Tamhane
+tt0371735,8,11/6/2016,Hungama,https://www.imdb.com/title/tt0371735/,movie,7.6,153,2003,"Comedy, Drama, Romance",16276,8/1/2003,Priyadarshan
+tt0371746,10,12/12/2021,Iron Man,https://www.imdb.com/title/tt0371746/,movie,7.9,126,2008,"Action, Adventure, Sci-Fi",1097031,4/14/2008,Jon Favreau
+tt0372183,8,5/25/2020,The Bourne Supremacy,https://www.imdb.com/title/tt0372183/,movie,7.7,108,2004,"Action, Mystery, Thriller",477901,7/16/2004,Paul Greengrass
+tt0372784,9,11/1/2016,Batman Begins,https://www.imdb.com/title/tt0372784/,movie,8.2,140,2005,"Action, Crime, Drama",1532668,5/31/2005,Christopher Nolan
+tt3735246,8,1/12/2016,Bajirao Mastani,https://www.imdb.com/title/tt3735246/,movie,7.2,158,2015,"Action, Drama, History, Romance, War",37499,12/18/2015,Sanjay Leela Bhansali
+tt0373856,8,10/8/2016,Gangaajal,https://www.imdb.com/title/tt0373856/,movie,7.8,157,2003,"Action, Crime, Drama",17836,8/29/2003,Prakash Jha
+tt3742284,8,9/28/2016,NH10,https://www.imdb.com/title/tt3742284/,movie,7.2,115,2015,"Action, Crime, Drama, Thriller",13740,3/12/2015,Navdeep Singh
+tt0374271,6,11/6/2016,Tere Naam,https://www.imdb.com/title/tt0374271/,movie,7.2,132,2003,"Action, Drama, Romance",20215,8/15/2003,Satish Kaushik
+tt0374887,7,8/24/2016,Munna Bhai M.B.B.S.,https://www.imdb.com/title/tt0374887/,movie,8.1,156,2003,"Comedy, Drama",85692,12/19/2003,Rajkumar Hirani
+tt0376127,8,3/5/2017,Anniyan,https://www.imdb.com/title/tt0376127/,movie,8.3,181,2005,"Action, Crime, Drama, Thriller",20083,6/17/2005,S. Shankar
+tt3766354,8,7/6/2019,The Equalizer 2,https://www.imdb.com/title/tt3766354/,movie,6.7,121,2018,"Action, Crime, Thriller",176937,7/19/2018,Antoine Fuqua
+tt3767372,8,8/25/2016,Piku,https://www.imdb.com/title/tt3767372/,movie,7.6,123,2015,"Comedy, Drama",32944,5/7/2015,Shoojit Sircar
+tt3774114,8,12/28/2016,Snowden,https://www.imdb.com/title/tt3774114/,movie,7.3,134,2016,"Biography, Crime, Drama, Thriller",158983,7/21/2016,Oliver Stone
+tt0378072,7,11/6/2016,Hum Tum,https://www.imdb.com/title/tt0378072/,movie,7,143,2004,"Comedy, Drama, Romance",14853,5/28/2004,Kunal Kohli
+tt0378194,8,3/21/2018,Kill Bill: Vol. 2,https://www.imdb.com/title/tt0378194/,movie,8,137,2004,"Action, Crime, Thriller",783995,4/8/2004,Quentin Tarantino
+tt3783958,7,10/16/2017,La La Land,https://www.imdb.com/title/tt3783958/,movie,8,128,2016,"Comedy, Drama, Music, Musical, Romance",633015,8/31/2016,Damien Chazelle
+tt0379370,8,10/24/2016,Maqbool,https://www.imdb.com/title/tt0379370/,movie,8,132,2003,"Crime, Drama, Thriller",11544,9/10/2003,Vishal Bhardwaj
+tt3801314,8,8/25/2016,Kaththi,https://www.imdb.com/title/tt3801314/,movie,8.1,166,2014,"Action, Drama",28667,10/21/2014,A.R. Murugadoss
+tt0381061,8,12/8/2019,Casino Royale,https://www.imdb.com/title/tt0381061/,movie,8,144,2006,"Action, Adventure, Thriller",678481,11/14/2006,Martin Campbell
+tt0381681,7,9/7/2016,Before Sunset,https://www.imdb.com/title/tt0381681/,movie,8.1,80,2004,"Drama, Romance",278848,2/10/2004,Richard Linklater
+tt3817950,9,9/25/2016,Dr. Prakash Baba Amte - The Real Hero,https://www.imdb.com/title/tt3817950/,movie,8.6,119,2014,"Biography, Drama, History",1264,10/10/2014,Samruoddhi Porey
+tt0383574,9,4/11/2020,Pirates of the Caribbean: Dead Man's Chest,https://www.imdb.com/title/tt0383574/,movie,7.4,151,2006,"Action, Adventure, Fantasy",746832,6/24/2006,Gore Verbinski
+tt3848892,9,8/17/2016,Baby,https://www.imdb.com/title/tt3848892/,movie,7.9,159,2015,"Action, Crime, Thriller",59198,1/23/2015,Neeraj Pandey
+tt3853670,8,3/1/2017,Interior Cafe Night,https://www.imdb.com/title/tt3853670/,short,7.6,13,2014,"Short, Drama, Romance",604,8/9/2014,Adhiraj Bose
+tt3859980,8,8/18/2016,Mohenjo Daro,https://www.imdb.com/title/tt3859980/,movie,5.6,155,2016,"Action, Adventure, Drama, History",12367,8/11/2016,Ashutosh Gowariker
+tt3863552,6,8/24/2016,Bajrangi Bhaijaan,https://www.imdb.com/title/tt3863552/,movie,8.1,163,2015,"Action, Adventure, Comedy, Drama",93624,7/15/2015,"Kabir Khan, Mehmet Tutkun"
+tt0386676,9,2/16/2019,The Office,https://www.imdb.com/title/tt0386676/,tvSeries,9,22,2005,Comedy,665017,3/24/2005,
+tt3885714,9,7/18/2021,Karthikeya,https://www.imdb.com/title/tt3885714/,movie,7.2,113,2014,"Mystery, Thriller",6470,10/24/2014,Chandoo Mondeti
+tt3890160,6,3/23/2018,Baby Driver,https://www.imdb.com/title/tt3890160/,movie,7.6,113,2017,"Action, Crime, Drama, Music",581094,3/11/2017,Edgar Wright
+tt3896198,10,12/22/2021,Guardians of the Galaxy Vol. 2,https://www.imdb.com/title/tt3896198/,movie,7.6,136,2017,"Action, Adventure, Comedy, Sci-Fi",734671,4/10/2017,James Gunn
+tt3917908,8,12/23/2017,An Insignificant Man,https://www.imdb.com/title/tt3917908/,movie,8.6,96,2016,"Documentary, Thriller",2192,9/11/2016,"Vinay Shukla, Khushboo Ranka"
+tt0395169,9,8/29/2016,Hotel Rwanda,https://www.imdb.com/title/tt0395169/,movie,8.1,121,2004,"Biography, Drama, History, War",365363,9/11/2004,Terry George
+tt0400234,7,8/24/2016,Black Friday,https://www.imdb.com/title/tt0400234/,movie,8.4,143,2004,"Action, Crime, Drama, History",21633,8/13/2004,Anurag Kashyap
+tt0401792,8,11/12/2016,Sin City,https://www.imdb.com/title/tt0401792/,movie,8,124,2005,"Crime, Thriller",783774,3/28/2005,"Frank Miller, Quentin Tarantino, Robert Rodriguez"
+tt4019578,7,9/25/2016,Rege,https://www.imdb.com/title/tt4019578/,movie,7.5,111,2014,"Crime, Drama, Thriller",526,8/15/2014,"Abhijit Panse, Ravindra Karmarkar"
+tt4020624,6,11/29/2018,Lingaa,https://www.imdb.com/title/tt4020624/,movie,5.6,174,2014,"Action, Comedy, Drama",6063,12/11/2014,K.S. Ravikumar
+tt0405159,7,7/26/2021,Million Dollar Baby,https://www.imdb.com/title/tt0405159/,movie,8.1,132,2004,"Drama, Sport",706943,12/5/2004,Clint Eastwood
+tt0405507,6,10/4/2016,Murder,https://www.imdb.com/title/tt0405507/,movie,5.5,130,2004,"Drama, Romance, Thriller",4250,4/2/2004,Anurag Basu
+tt0405508,8,8/24/2016,Rang De Basanti,https://www.imdb.com/title/tt0405508/,movie,8.1,167,2006,"Comedy, Crime, Drama",121131,1/26/2006,Rakeysh Omprakash Mehra
+tt0407887,9,12/4/2020,The Departed,https://www.imdb.com/title/tt0407887/,movie,8.5,151,2006,"Crime, Drama, Thriller",1378297,9/26/2006,Martin Scorsese
+tt0408306,8,10/31/2018,Munich,https://www.imdb.com/title/tt0408306/,movie,7.5,164,2005,"Action, Drama, History, Thriller",233928,12/23/2005,Steven Spielberg
+tt4110568,8,9/20/2016,Dil Dhadakne Do,https://www.imdb.com/title/tt4110568/,movie,7,170,2015,"Comedy, Drama, Romance",19105,6/4/2015,Zoya Akhtar
+tt0411705,5,11/25/2017,9 Songs,https://www.imdb.com/title/tt0411705/,movie,4.7,71,2004,"Drama, Music, Romance",23476,5/16/2004,Michael Winterbottom
+tt0412142,9,8/11/2019,House M.D.,https://www.imdb.com/title/tt0412142/,tvSeries,8.7,44,2004,"Drama, Mystery",489168,11/15/2004,
+tt4129428,8,7/16/2017,Jagga Jasoos,https://www.imdb.com/title/tt4129428/,movie,6.4,161,2017,"Action, Adventure, Comedy, Musical, Mystery",11102,4/7/2017,"Shubzz, Anurag Basu"
+tt0413300,8,10/8/2016,Spider-Man 3,https://www.imdb.com/title/tt0413300/,movie,6.3,139,2007,"Action, Adventure, Sci-Fi",618836,4/3/2007,Sam Raimi
+tt4154664,10,12/28/2021,Captain Marvel,https://www.imdb.com/title/tt4154664/,movie,6.8,123,2019,"Action, Adventure, Sci-Fi",590298,2/27/2019,"Anna Boden, Ryan Fleck"
+tt4154756,10,12/25/2021,Avengers: Infinity War,https://www.imdb.com/title/tt4154756/,movie,8.4,149,2018,"Action, Adventure, Sci-Fi",1153521,4/23/2018,"Anthony Russo, Joe Russo"
+tt4154796,10,12/29/2021,Avengers: Endgame,https://www.imdb.com/title/tt4154796/,movie,8.4,181,2019,"Action, Adventure, Drama, Sci-Fi",1212465,4/18/2019,"Anthony Russo, Joe Russo"
+tt4156586,9,9/18/2016,Permanent Roommates,https://www.imdb.com/title/tt4156586/,tvSeries,8.6,21,2014,"Comedy, Romance",25450,10/29/2014,
+tt4160708,9,11/12/2017,Don't Breathe,https://www.imdb.com/title/tt4160708/,movie,7.1,88,2016,"Crime, Horror, Thriller",290713,3/12/2016,Fede Alvarez
+tt0416449,8,10/27/2016,300,https://www.imdb.com/title/tt0416449/,movie,7.6,117,2006,"Action, Drama",845500,12/9/2006,Zack Snyder
+tt4169250,9,10/1/2016,M.S. Dhoni: The Untold Story,https://www.imdb.com/title/tt4169250/,movie,8,184,2016,"Biography, Drama, Sport",64732,9/29/2016,"Mathur Goswami, Neeraj Pandey"
+tt0418362,7,11/6/2016,Mujhse Shaadi Karogi,https://www.imdb.com/title/tt0418362/,movie,6.7,163,2004,"Comedy, Romance",16381,7/30/2004,David Dhawan
+tt0418832,6,1/25/2017,Lie with Me,https://www.imdb.com/title/tt0418832/,movie,5.2,93,2005,"Drama, Romance",16277,9/10/2005,Clement Virgo
+tt0419058,7,9/21/2016,Phir Hera Pheri,https://www.imdb.com/title/tt0419058/,movie,7.2,153,2006,"Comedy, Crime",26477,6/9/2006,Neeraj Vora
+tt4244994,9,1/30/2023,The Last Duel,https://www.imdb.com/title/tt4244994/,movie,7.4,152,2021,"Action, Drama, History, Thriller",170627,9/10/2021,Ridley Scott
+tt4258292,7,1/19/2018,Yennai Arindhaal,https://www.imdb.com/title/tt4258292/,movie,7.3,168,2015,"Action, Crime, Drama, Thriller",10089,2/6/2015,Gautham Vasudev Menon
+tt4317854,2,9/25/2016,Vitti Dandu,https://www.imdb.com/title/tt4317854/,movie,7.5,117,2014,"Drama, History",61,11/21/2014,Ganesh Kadam
+tt0432637,7,9/19/2016,Krrish,https://www.imdb.com/title/tt0432637/,movie,6.4,185,2006,"Action, Adventure, Sci-Fi",23055,6/23/2006,Rakesh Roshan
+tt4333674,7,10/5/2016,Hunterrr,https://www.imdb.com/title/tt4333674/,movie,7,141,2015,"Comedy, Romance",6573,3/20/2015,Harshavardhan Kulkarni
+tt0434409,9,1/20/2016,V for Vendetta,https://www.imdb.com/title/tt0434409/,movie,8.2,132,2005,"Action, Drama, Sci-Fi, Thriller",1153254,12/11/2005,James McTeigue
+tt0437238,6,1/1/2017,Hulchul,https://www.imdb.com/title/tt0437238/,movie,7,149,2004,"Action, Comedy, Drama, Romance",8782,11/26/2004,Priyadarshan
+tt0438315,9,1/29/2018,Peaceful Warrior,https://www.imdb.com/title/tt0438315/,movie,7.2,120,2006,"Drama, Romance, Sport",29332,6/2/2006,Victor Salva
+tt4387040,9,8/17/2016,Airlift,https://www.imdb.com/title/tt4387040/,movie,7.9,130,2016,"Action, Drama, History",58154,1/22/2016,Raja Menon
+tt0439662,8,11/6/2016,Fanaa,https://www.imdb.com/title/tt0439662/,movie,7.1,168,2006,"Action, Drama, Romance, Thriller",34190,5/26/2006,Kunal Kohli
+tt0440963,8,5/25/2020,The Bourne Ultimatum,https://www.imdb.com/title/tt0440963/,movie,8,115,2007,"Action, Mystery, Thriller",648920,7/25/2007,Paul Greengrass
+tt0441048,8,9/19/2016,Dhoom:2,https://www.imdb.com/title/tt0441048/,movie,6.5,152,2006,"Action, Crime, Thriller",28734,11/23/2006,Sanjay Gadhvi
+tt4425200,8,5/22/2019,John Wick: Chapter 2,https://www.imdb.com/title/tt4425200/,movie,7.4,122,2017,"Action, Crime, Thriller",490232,1/30/2017,Chad Stahelski
+tt4430136,8,8/25/2016,Pyaar Ka Punchnama 2,https://www.imdb.com/title/tt4430136/,movie,7.3,137,2015,"Comedy, Drama, Romance",15801,10/16/2015,Luv Ranjan
+tt4430212,8,8/17/2016,Drishyam,https://www.imdb.com/title/tt4430212/,movie,8.2,163,2015,"Crime, Drama, Mystery, Thriller",90449,7/30/2015,Nishikant Kamat
+tt4434004,8,8/17/2016,Udta Punjab,https://www.imdb.com/title/tt4434004/,movie,7.7,148,2016,"Action, Crime, Drama",31656,6/16/2016,Abhishek Chaubey
+tt0443708,6,12/20/2018,Page 3,https://www.imdb.com/title/tt0443708/,movie,7.3,139,2005,Drama,7018,1/21/2005,"Madhur Bhandarkar, Jay Dev Banerjee"
+tt4443924,7,9/25/2016,Happy Journey,https://www.imdb.com/title/tt4443924/,movie,6.9,130,2014,Drama,242,11/28/2014,Sachin Kundalkar
+tt4465564,8,8/2/2020,Fifty Shades Darker,https://www.imdb.com/title/tt4465564/,movie,4.6,118,2017,"Drama, Romance, Thriller",107904,2/7/2017,James Foley
+tt4477536,7,8/2/2020,Fifty Shades Freed,https://www.imdb.com/title/tt4477536/,movie,4.5,105,2018,"Drama, Romance, Thriller",70573,2/6/2018,James Foley
+tt0448115,8,1/18/2020,Shazam!,https://www.imdb.com/title/tt0448115/,movie,7,132,2019,"Action, Adventure, Comedy, Fantasy",372263,3/25/2019,David F. Sandberg
+tt0448157,7,10/8/2016,Hancock,https://www.imdb.com/title/tt0448157/,movie,6.4,92,2008,"Action, Comedy, Drama, Fantasy",500633,6/16/2008,Peter Berg
+tt0449088,8,4/15/2020,Pirates of the Caribbean: At World's End,https://www.imdb.com/title/tt0449088/,movie,7.1,169,2007,"Action, Adventure, Fantasy",675658,5/19/2007,Gore Verbinski
+tt0449869,7,11/29/2018,Chandramukhi,https://www.imdb.com/title/tt0449869/,movie,7.2,166,2005,"Action, Comedy, Drama, Fantasy, Horror, Mystery",6697,4/13/2005,P. Vasu
+tt0449951,8,10/5/2016,Ghajini,https://www.imdb.com/title/tt0449951/,movie,7.5,175,2005,"Action, Drama, Mystery, Romance, Thriller",15316,9/29/2005,A.R. Murugadoss
+tt0451833,7,10/13/2017,No Entry,https://www.imdb.com/title/tt0451833/,movie,6.6,158,2005,"Comedy, Drama, Musical, Romance",12458,8/26/2005,Anees Bazmee
+tt0452623,8,1/10/2018,Gone Baby Gone,https://www.imdb.com/title/tt0452623/,movie,7.6,114,2007,"Crime, Drama, Mystery, Thriller",282928,9/5/2007,Ben Affleck
+tt4535650,1,1/12/2016,Dilwale,https://www.imdb.com/title/tt4535650/,movie,5,158,2015,"Action, Comedy, Drama, Romance",37010,12/17/2015,Rohit Shetty
+tt0453671,7,11/6/2016,Garam Masala,https://www.imdb.com/title/tt0453671/,movie,6.7,146,2005,"Comedy, Romance",16598,11/2/2005,Priyadarshan
+tt0453729,8,8/24/2016,Iqbal,https://www.imdb.com/title/tt0453729/,movie,8.1,132,2005,"Drama, Sport",17428,8/26/2005,Nagesh Kukunoor
+tt0454876,9,10/1/2016,Life of Pi,https://www.imdb.com/title/tt0454876/,movie,7.9,127,2012,"Adventure, Drama, Fantasy",652298,9/28/2012,Ang Lee
+tt4550098,8,3/8/2017,Nocturnal Animals,https://www.imdb.com/title/tt4550098/,movie,7.5,116,2016,"Drama, Thriller",294152,9/2/2016,Tom Ford
+tt4559006,7,11/4/2016,Ae Dil Hai Mushkil,https://www.imdb.com/title/tt4559006/,movie,5.8,158,2016,"Drama, Music, Musical, Romance",24899,10/27/2016,Karan Johar
+tt0455944,8,11/22/2019,The Equalizer,https://www.imdb.com/title/tt0455944/,movie,7.2,132,2014,"Action, Crime, Thriller",394463,9/7/2014,Antoine Fuqua
+tt0456144,8,8/24/2016,Lage Raho Munna Bhai,https://www.imdb.com/title/tt0456144/,movie,8,144,2006,"Comedy, Drama, Romance",48581,9/1/2006,Rajkumar Hirani
+tt0456165,7,9/27/2016,Salaam Namaste,https://www.imdb.com/title/tt0456165/,movie,6.1,158,2005,"Comedy, Drama, Romance",7974,9/9/2005,Siddharth Anand
+tt4565380,9,8/28/2020,Fauda,https://www.imdb.com/title/tt4565380/,tvSeries,8.3,60,2015,"Action, Drama, Thriller",34391,2/15/2015,
+tt4574334,10,6/6/2022,Stranger Things,https://www.imdb.com/title/tt4574334/,tvSeries,8.7,51,2016,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",1274035,7/11/2016,
+tt4580794,9,9/25/2016,Coffee Ani Barach Kahi,https://www.imdb.com/title/tt4580794/,movie,7.2,100,2015,Romance,455,4/3/2015,Prakash Kunte
+tt0458339,10,12/13/2021,Captain America: The First Avenger,https://www.imdb.com/title/tt0458339/,movie,6.9,124,2011,"Action, Adventure, Sci-Fi",875988,7/19/2011,Joe Johnston
+tt0460649,7,1/20/2016,How I Met Your Mother,https://www.imdb.com/title/tt0460649/,tvSeries,8.3,22,2005,"Comedy, Drama, Romance",710363,9/19/2005,
+tt0461936,7,11/6/2016,Don,https://www.imdb.com/title/tt0461936/,movie,7.1,178,2006,"Action, Crime, Thriller",39558,10/20/2006,Farhan Akhtar
+tt4633694,9,7/5/2019,Spider-Man: Into the Spider-Verse,https://www.imdb.com/title/tt4633694/,movie,8.4,117,2018,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",628040,12/12/2018,"Bob Persichetti, Peter Ramsey, Rodney Rothman"
+tt4635372,8,8/24/2016,Masaan,https://www.imdb.com/title/tt4635372/,movie,8.1,109,2015,Drama,29817,5/19/2015,Neeraj Ghaywan
+tt4649466,9,5/16/2021,Kingsman: The Golden Circle,https://www.imdb.com/title/tt4649466/,movie,6.7,141,2017,"Action, Adventure, Comedy, Crime, Thriller",349559,9/20/2017,Matthew Vaughn
+tt0466460,8,8/24/2016,Khosla Ka Ghosla!,https://www.imdb.com/title/tt0466460/,movie,8.3,135,2006,"Comedy, Crime, Drama",24621,9/22/2006,"Dibakar Banerjee, Pravin E. Birje"
+tt4679210,9,11/16/2016,Premam,https://www.imdb.com/title/tt4679210/,movie,8.3,156,2015,"Comedy, Drama, Romance",22050,5/22/2015,Alphonse Puthren
+tt4683366,7,9/18/2016,Ghayal Once Again,https://www.imdb.com/title/tt4683366/,movie,6.2,127,2016,"Action, Crime, Drama, Thriller",5353,2/5/2016,Sunny Deol
+tt0468569,9,1/20/2016,The Dark Knight,https://www.imdb.com/title/tt0468569/,movie,9,152,2008,"Action, Crime, Drama, Thriller",2776781,7/14/2008,Christopher Nolan
+tt0471571,8,11/6/2016,Athadu,https://www.imdb.com/title/tt0471571/,movie,8.2,172,2005,"Action, Crime, Drama, Mystery, Thriller",14162,8/10/2005,Trivikram Srinivas
+tt0472954,10,2/19/2022,It's Always Sunny in Philadelphia,https://www.imdb.com/title/tt0472954/,tvSeries,8.8,22,2005,Comedy,242052,8/4/2005,
+tt0473310,2,9/19/2016,Ram Gopal Varma Ki Aag,https://www.imdb.com/title/tt0473310/,movie,1.4,171,2007,"Action, Adventure, Comedy, Crime, Musical",7063,8/31/2007,Ram Gopal Varma
+tt0473367,7,8/17/2016,Jaane Tu... Ya Jaane Na,https://www.imdb.com/title/tt0473367/,movie,7.4,155,2008,"Comedy, Drama, Romance",27734,7/4/2008,Abbas Tyrewala
+tt4742876,9,9/2/2016,TVF Pitchers,https://www.imdb.com/title/tt4742876/,tvSeries,9.1,40,2015,"Comedy, Drama",71210,6/3/2015,
+tt4744086,6,9/18/2016,Ki & Ka,https://www.imdb.com/title/tt4744086/,movie,5.7,126,2016,"Comedy, Romance",6138,4/1/2016,R. Balki
+tt0476805,8,2/12/2018,Malamaal Weekly,https://www.imdb.com/title/tt0476805/,movie,7,137,2006,"Comedy, Drama, Romance",7481,3/10/2006,Priyadarshan
+tt4775018,8,9/18/2016,Baked,https://www.imdb.com/title/tt4775018/,tvSeries,7.7,23,2015,Comedy,10115,5/20/2015,
+tt0478970,10,12/19/2021,Ant-Man,https://www.imdb.com/title/tt0478970/,movie,7.3,117,2015,"Action, Comedy, Sci-Fi",703229,6/29/2015,Peyton Reed
+tt0479651,9,11/6/2016,Dasavatharam,https://www.imdb.com/title/tt0479651/,movie,7.2,188,2008,"Action, Adventure, Drama, Sci-Fi, Thriller",10299,6/12/2008,K.S. Ravikumar
+tt0479751,8,11/6/2016,Sivaji,https://www.imdb.com/title/tt0479751/,movie,7.5,188,2007,"Action, Crime, Drama, Thriller",20952,6/13/2007,S. Shankar
+tt4807830,5,7/23/2017,Lipstick Under My Burkha,https://www.imdb.com/title/tt4807830/,movie,6.8,117,2016,"Comedy, Drama",7102,10/26/2016,Alankrita Shrivastava
+tt4814290,8,8/25/2016,Te3n,https://www.imdb.com/title/tt4814290/,movie,7.2,136,2016,"Crime, Drama, Mystery, Thriller",13474,6/9/2016,Ribhu Dasgupta
+tt4818930,8,8/22/2016,Waiting,https://www.imdb.com/title/tt4818930/,movie,7.1,92,2015,"Comedy, Drama",1827,12/11/2015,Anu Menon
+tt0482571,8,8/13/2016,The Prestige,https://www.imdb.com/title/tt0482571/,movie,8.5,130,2006,"Drama, Mystery, Sci-Fi, Thriller",1394702,10/17/2006,Christopher Nolan
+tt4832640,7,8/22/2016,Sultan,https://www.imdb.com/title/tt4832640/,movie,7,170,2016,"Action, Drama, Romance, Sport",49752,7/5/2016,Ali Abbas Zafar
+tt4849438,9,4/28/2017,Bãhubali 2: The Conclusion,https://www.imdb.com/title/tt4849438/,movie,8.2,167,2017,"Action, Drama",109086,4/27/2017,S.S. Rajamouli
+tt4857264,9,5/19/2019,Contratiempo,https://www.imdb.com/title/tt4857264/,movie,8,106,2016,"Crime, Drama, Mystery, Thriller",186130,9/23/2016,Oriol Paulo
+tt4864932,5,9/18/2016,Baaghi,https://www.imdb.com/title/tt4864932/,movie,5.3,133,2016,"Action, Romance, Thriller",9740,4/28/2016,Sabir Khan
+tt0488414,9,11/2/2016,Omkara,https://www.imdb.com/title/tt0488414/,movie,8,155,2006,"Action, Crime, Drama, Thriller",21516,7/28/2006,Vishal Bhardwaj
+tt0488798,8,9/19/2016,Welcome,https://www.imdb.com/title/tt0488798/,movie,7,159,2007,"Comedy, Crime, Drama, Romance",24369,12/20/2007,Anees Bazmee
+tt0489486,5,10/4/2016,"Good Boy, Bad Boy",https://www.imdb.com/title/tt0489486/,movie,3.9,115,2007,"Comedy, Musical",1937,5/11/2007,Ashwini Chaudhary
+tt4900716,8,8/22/2016,Kapoor & Sons,https://www.imdb.com/title/tt4900716/,movie,7.7,132,2016,"Comedy, Drama, Family, Romance",27698,3/17/2016,Shakun Batra
+tt4906984,5,8/22/2016,Azhar,https://www.imdb.com/title/tt4906984/,movie,5.7,130,2016,"Biography, Drama, Sport",5817,5/13/2016,Anthony D'Souza
+tt4912910,9,8/9/2018,Mission: Impossible - Fallout,https://www.imdb.com/title/tt4912910/,movie,7.7,147,2018,"Action, Adventure, Thriller",363904,7/12/2018,Christopher McQuarrie
+tt4925292,8,10/6/2018,Lady Bird,https://www.imdb.com/title/tt4925292/,movie,7.4,94,2017,"Comedy, Drama",313158,9/1/2017,Greta Gerwig
+tt4934950,9,1/12/2016,Talvar,https://www.imdb.com/title/tt4934950/,movie,8.1,132,2015,"Crime, Drama, Mystery, Thriller",36966,9/14/2015,Meghna Gulzar
+tt0494290,7,9/20/2016,Vivah,https://www.imdb.com/title/tt0494290/,movie,6.6,160,2006,"Drama, Musical, Romance",10506,11/10/2006,Sooraj R. Barjatya
+tt4949324,7,2/12/2019,Mohalla Assi,https://www.imdb.com/title/tt4949324/,movie,6.6,150,2015,"Comedy, Drama",1888,11/16/2018,Chandra Prakash Dwivedi
+tt0495034,8,11/6/2016,Golmaal: Fun Unlimited,https://www.imdb.com/title/tt0495034/,movie,7.4,150,2006,"Action, Comedy, Drama",18347,7/14/2006,Rohit Shetty
+tt4975722,7,3/5/2017,Moonlight,https://www.imdb.com/title/tt4975722/,movie,7.4,111,2016,Drama,322629,9/2/2016,Barry Jenkins
+tt4979082,7,9/18/2016,Jai Gangaajal,https://www.imdb.com/title/tt4979082/,movie,5.8,149,2016,"Crime, Drama",2595,3/3/2016,Prakash Jha
+tt4981966,9,1/2/2017,24,https://www.imdb.com/title/tt4981966/,movie,7.9,164,2016,"Action, Comedy, Drama, Musical, Sci-Fi, Thriller",23352,5/5/2016,Vikram K. Kumar
+tt4983780,10,8/19/2023,Maanaadu,https://www.imdb.com/title/tt4983780/,movie,8.3,147,2021,"Action, Adventure, Sci-Fi, Thriller",24226,11/25/2021,Venkat Prabhu
+tt4987556,9,8/24/2016,Thani Oruvan,https://www.imdb.com/title/tt4987556/,movie,8.4,160,2015,"Action, Crime, Thriller",20981,8/27/2015,Mohan Raja
+tt4991384,9,10/13/2016,Visaaranai,https://www.imdb.com/title/tt4991384/,movie,8.4,117,2015,"Crime, Drama, Thriller",11578,9/10/2015,Vetrimaaran
+tt0499375,8,10/30/2016,Guru,https://www.imdb.com/title/tt0499375/,movie,7.7,162,2007,Drama,24585,1/12/2007,Mani Ratnam
+tt0499549,10,8/20/2022,Avatar,https://www.imdb.com/title/tt0499549/,movie,7.9,162,2009,"Action, Adventure, Fantasy, Sci-Fi",1360103,12/10/2009,James Cameron
+tt5005684,9,8/22/2016,Nil Battey Sannata,https://www.imdb.com/title/tt5005684/,movie,8.2,100,2015,"Drama, Family",7419,10/11/2015,Ashwiny Iyer Tiwari
+tt0050083,9,11/13/2016,12 Angry Men,https://www.imdb.com/title/tt0050083/,movie,9,96,1957,"Crime, Drama",830823,4/10/1957,Sidney Lumet
+tt5013056,9,12/9/2017,Dunkirk,https://www.imdb.com/title/tt5013056/,movie,7.8,106,2017,"Action, Drama, History, Thriller, War",710683,7/13/2017,Christopher Nolan
+tt5052448,9,3/17/2019,Get Out,https://www.imdb.com/title/tt5052448/,movie,7.8,104,2017,"Horror, Mystery, Thriller",655304,1/23/2017,Jordan Peele
+tt5057054,9,9/30/2019,Jack Ryan,https://www.imdb.com/title/tt5057054/,tvSeries,8,60,2018,"Action, Drama, Thriller",166165,8/31/2018,
+tt5071886,4,9/14/2016,Kabali,https://www.imdb.com/title/tt5071886/,movie,6.1,153,2016,"Action, Crime, Drama",13808,7/21/2016,Pa. Ranjith
+tt5074352,9,12/28/2016,Dangal,https://www.imdb.com/title/tt5074352/,movie,8.3,161,2016,"Action, Biography, Drama, Sport",201325,12/21/2016,Nitesh Tiwari
+tt5086104,7,11/3/2018,Chhello Divas,https://www.imdb.com/title/tt5086104/,movie,8.3,138,2015,Comedy,3186,11/20/2015,Krishnadev Yagnik
+tt5095030,10,12/28/2021,Ant-Man and the Wasp,https://www.imdb.com/title/tt5095030/,movie,7,118,2018,"Action, Adventure, Comedy, Sci-Fi",434018,6/25/2018,Peyton Reed
+tt5098128,8,2/24/2017,Nannaku Prematho,https://www.imdb.com/title/tt5098128/,movie,7.5,168,2016,"Action, Drama, Thriller",10809,1/12/2016,Sukumar
+tt5121000,9,8/22/2016,Aligarh,https://www.imdb.com/title/tt5121000/,movie,7.8,114,2015,"Biography, Drama",7567,10/30/2015,Hansal Mehta
+tt5145742,8,4/9/2019,Bang Baaja Baaraat,https://www.imdb.com/title/tt5145742/,tvMiniSeries,7.9,20,2015,Comedy,6605,11/4/2015,
+tt5165344,7,8/18/2016,Rustom,https://www.imdb.com/title/tt5165344/,movie,7,148,2016,"Crime, Drama, Thriller",27849,8/11/2016,Tinu Suresh Desai
+tt5178278,7,10/19/2016,Vedalam,https://www.imdb.com/title/tt5178278/,movie,6.3,148,2015,"Action, Drama",8037,11/10/2015,Siva
+tt5190958,10,4/10/2022,Katyar Kaljat Ghusali,https://www.imdb.com/title/tt5190958/,movie,8.8,162,2015,Musical,2493,11/12/2015,Subodh Bhave
+tt5286444,8,8/17/2016,Neerja,https://www.imdb.com/title/tt5286444/,movie,7.6,122,2016,"Biography, Drama, Thriller",23408,2/18/2016,Ram Madhvani
+tt5290382,9,11/1/2021,Mindhunter,https://www.imdb.com/title/tt5290382/,tvSeries,8.6,60,2017,"Crime, Drama, Mystery, Thriller",314854,10/13/2017,
+tt5310090,8,8/25/2016,Irudhi Suttru,https://www.imdb.com/title/tt5310090/,movie,7.6,109,2016,"Action, Drama, Sport",12344,1/28/2016,Sudha Kongara
+tt5311514,10,4/22/2023,Kimi no na wa.,https://www.imdb.com/title/tt5311514/,movie,8.4,106,2016,"Animation, Drama, Fantasy, Romance",298191,7/3/2016,Makoto Shinkai
+tt5311546,9,9/18/2016,Natsamrat,https://www.imdb.com/title/tt5311546/,movie,8.8,166,2016,"Drama, Family",6997,1/1/2016,Mahesh Manjrekar
+tt5312232,9,8/24/2016,Sairat,https://www.imdb.com/title/tt5312232/,movie,8.3,174,2016,"Drama, Romance",13920,2/17/2016,Nagraj Manjule
+tt5323386,8,9/25/2016,Poshter Girl,https://www.imdb.com/title/tt5323386/,movie,6.7,140,2016,Comedy,352,2/12/2016,Sameer Patil
+tt5348176,10,4/22/2022,Barry,https://www.imdb.com/title/tt5348176/,tvSeries,8.4,30,2018,"Action, Comedy, Crime, Drama",113868,3/9/2018,
+tt5377564,8,7/30/2018,U Turn,https://www.imdb.com/title/tt5377564/,movie,7.4,120,2016,"Crime, Horror, Mystery, Thriller",3764,4/8/2016,Pawan Kumar
+tt5440700,8,7/2/2017,Theri,https://www.imdb.com/title/tt5440700/,movie,7.3,157,2016,"Action, Crime, Thriller",21864,4/14/2016,Atlee
+tt5460276,9,1/27/2017,Kaabil,https://www.imdb.com/title/tt5460276/,movie,7.1,139,2017,"Action, Crime, Drama, Romance, Thriller",28329,1/25/2017,Sanjay Gupta
+tt5463162,9,12/18/2018,Deadpool 2,https://www.imdb.com/title/tt5463162/,movie,7.6,119,2018,"Action, Adventure, Comedy, Sci-Fi",618133,5/1/2018,David Leitch
+tt5472758,7,8/20/2016,Happy Bhag Jayegi,https://www.imdb.com/title/tt5472758/,movie,6.4,126,2016,"Comedy, Romance",5602,8/19/2016,Mudassar Aziz
+tt5504168,8,3/31/2018,Kshanam,https://www.imdb.com/title/tt5504168/,movie,8.2,110,2016,"Mystery, Thriller",5856,2/26/2016,Ravikanth Perepu
+tt5559528,9,7/27/2021,Maanagaram,https://www.imdb.com/title/tt5559528/,movie,8.1,137,2017,"Action, Thriller",6880,3/10/2017,Lokesh Kanagaraj
+tt5571734,9,9/17/2016,Pink,https://www.imdb.com/title/tt5571734/,movie,8.1,136,2016,"Crime, Drama, Thriller",46952,9/16/2016,Aniruddha Roy Chowdhury
+tt5600714,7,8/25/2016,Laal Rang,https://www.imdb.com/title/tt5600714/,movie,7.8,147,2016,"Comedy, Crime, Drama, Thriller",4888,4/22/2016,Syed Ahmad Afzal
+tt5662932,8,8/22/2016,Raman Raghav 2.0,https://www.imdb.com/title/tt5662932/,movie,7.3,133,2016,"Crime, Drama, Thriller",15577,5/16/2016,Anurag Kashyap
+tt5668770,8,2/8/2020,Mardaani 2,https://www.imdb.com/title/tt5668770/,movie,7.3,103,2019,"Action, Crime, Drama, Thriller",10013,12/13/2019,Gopi Puthran
+tt5690142,9,9/3/2020,Mom,https://www.imdb.com/title/tt5690142/,movie,7.2,146,2017,"Crime, Drama, Thriller",11417,7/6/2017,Ravi Udyawar
+tt5713232,8,8/18/2016,Madaari,https://www.imdb.com/title/tt5713232/,movie,7.6,133,2016,"Drama, Thriller",14708,7/21/2016,Nishikant Kamat
+tt5753856,9,9/24/2020,Dark,https://www.imdb.com/title/tt5753856/,tvSeries,8.7,60,2017,"Crime, Drama, Mystery, Sci-Fi, Thriller",420019,9/9/2017,
+tt5764096,9,5/30/2017,Hindi Medium,https://www.imdb.com/title/tt5764096/,movie,7.8,132,2017,"Comedy, Drama",31072,5/18/2017,Saket Chaudhary
+tt5785170,8,9/9/2017,Toilet - Ek Prem Katha,https://www.imdb.com/title/tt5785170/,movie,7.2,155,2017,"Comedy, Drama, Romance",22577,8/10/2017,Shree Narayan Singh
+tt5788792,9,12/23/2018,The Marvelous Mrs. Maisel,https://www.imdb.com/title/tt5788792/,tvSeries,8.7,57,2017,"Comedy, Drama",136248,3/17/2017,
+tt5798814,8,12/10/2016,Ladies Room,https://www.imdb.com/title/tt5798814/,tvMiniSeries,7.1,,2016,"Comedy, Drama",843,5/31/2016,
+tt5805252,9,9/3/2016,Budhia Singh: Born to Run,https://www.imdb.com/title/tt5805252/,movie,7.6,112,2016,"Biography, Drama, Sport",1571,8/5/2016,Soumendra Padhi
+tt5830106,8,12/10/2016,Life Sahi Hai,https://www.imdb.com/title/tt5830106/,tvSeries,7.8,,2016,Comedy,1410,6/8/2016,
+tt5830220,8,3/1/2017,Kriti,https://www.imdb.com/title/tt5830220/,short,7.2,19,2016,"Short, Mystery, Thriller",887,6/22/2016,Shirish Kunder
+tt5842616,2,9/9/2018,Veere Di Wedding,https://www.imdb.com/title/tt5842616/,movie,3.3,135,2018,Comedy,13118,6/1/2018,Shashanka Ghosh
+tt5848272,9,4/26/2020,Ralph Breaks the Internet,https://www.imdb.com/title/tt5848272/,movie,7,112,2018,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",174566,11/5/2018,"Rich Moore, Phil Johnston"
+tt5867800,6,2/28/2018,Aruvi,https://www.imdb.com/title/tt5867800/,movie,8.4,130,2016,Drama,13592,6/14/2016,Arun Prabhu Purushothaman
+tt5935704,8,10/25/2018,Padmaavat,https://www.imdb.com/title/tt5935704/,movie,7,164,2018,"Drama, History, Romance, War",35298,1/25/2018,Sanjay Leela Bhansali
+tt5946128,8,11/25/2016,Dear Zindagi,https://www.imdb.com/title/tt5946128/,movie,7.4,151,2016,"Drama, Romance",42205,11/23/2016,Gauri Shinde
+tt5946852,8,7/2/2017,Janatha Garage,https://www.imdb.com/title/tt5946852/,movie,7.2,162,2016,"Action, Crime, Drama",7811,9/1/2016,Koratala Siva
+tt5952634,9,6/6/2021,The Spy,https://www.imdb.com/title/tt5952634/,tvMiniSeries,7.9,53,2019,"Drama, History",46508,9/6/2019,
+tt5956100,4,12/31/2017,Tiger Zinda Hai,https://www.imdb.com/title/tt5956100/,movie,5.9,161,2017,"Action, Adventure, Thriller",31569,12/21/2017,"Musa Muhammed Olayinka, Ali Abbas Zafar, Mehmet Tutkun"
+tt5959980,9,3/8/2022,Vada Chennai,https://www.imdb.com/title/tt5959980/,movie,8.4,164,2018,"Action, Crime, Drama, Thriller",18663,10/12/2018,Vetrimaaran
+tt5979920,9,7/15/2021,Wrong Side Raju,https://www.imdb.com/title/tt5979920/,movie,7.7,140,2016,"Drama, Thriller",1077,9/9/2016,Mikhil Musale
+tt5982852,8,2/13/2017,Jolly LLB 2,https://www.imdb.com/title/tt5982852/,movie,7.2,137,2017,"Comedy, Crime, Drama",26535,2/9/2017,Subhash Kapoor
+tt6027478,8,6/26/2021,Dhruva,https://www.imdb.com/title/tt6027478/,movie,7.7,165,2016,"Action, Crime, Thriller",7672,12/8/2016,Surender Reddy
+tt6077448,9,7/8/2018,Sacred Games,https://www.imdb.com/title/tt6077448/,tvSeries,8.5,50,2018,"Action, Crime, Drama, Mystery, Thriller",90997,6/28/2018,
+tt6112414,9,3/21/2018,Inside Edge,https://www.imdb.com/title/tt6112414/,tvSeries,7.9,45,2017,"Drama, Sport",12301,7/9/2017,
+tt6120548,9,11/9/2016,Ventilator,https://www.imdb.com/title/tt6120548/,movie,8.2,143,2016,Drama,971,11/4/2016,Rajesh Mapuskar
+tt6129358,2,6/27/2021,Jaundya Na Balasaheb,https://www.imdb.com/title/tt6129358/,movie,7.3,165,2016,"Comedy, Drama",142,10/7/2016,Girish Kulkarni
+tt6146586,9,5/16/2021,John Wick: Chapter 3 - Parabellum,https://www.imdb.com/title/tt6146586/,movie,7.4,130,2019,"Action, Crime, Thriller",404490,5/15/2019,Chad Stahelski
+tt6148156,9,9/29/2017,Vikram Vedha,https://www.imdb.com/title/tt6148156/,movie,8.2,147,2017,"Action, Crime, Drama, Thriller",48716,7/20/2017,"Pushkar, Gayatri, Gowtham Selvaraj"
+tt6170954,7,8/24/2020,Naam Shabana,https://www.imdb.com/title/tt6170954/,movie,6.2,147,2017,"Action, Drama, Thriller",7239,3/30/2017,Shivam Nair
+tt6173826,8,4/26/2020,Guest iin London,https://www.imdb.com/title/tt6173826/,movie,5.4,132,2017,Comedy,2295,7/6/2017,Ashwani Dhir
+tt6173990,8,11/7/2018,Gold,https://www.imdb.com/title/tt6173990/,movie,7.3,151,2018,"Drama, History, Sport",14500,8/15/2018,Reema Kagti
+tt6186910,9,11/10/2018,Imaikkaa Nodigal,https://www.imdb.com/title/tt6186910/,movie,7.3,170,2018,"Action, Crime, Drama, Thriller",5969,8/29/2018,R. Ajay Gnanamuthu
+tt6189022,8,12/1/2019,Angel Has Fallen,https://www.imdb.com/title/tt6189022/,movie,6.4,121,2019,"Action, Thriller",105718,8/20/2019,Ric Roman Waugh
+tt6201292,6,11/10/2018,Bairavaa,https://www.imdb.com/title/tt6201292/,movie,5.8,169,2017,"Action, Thriller",11176,1/12/2017,Bharathan
+tt6206564,8,8/4/2017,Trapped,https://www.imdb.com/title/tt6206564/,movie,7.5,105,2016,"Drama, Thriller",13380,10/26/2016,Vikramaditya Motwane
+tt6220994,7,3/1/2017,Ouch,https://www.imdb.com/title/tt6220994/,short,6.5,14,2016,"Short, Comedy, Drama",515,10/23/2016,Neeraj Pandey
+tt6246322,9,12/30/2021,Don't Breathe 2,https://www.imdb.com/title/tt6246322/,movie,6,98,2021,"Action, Crime, Horror, Thriller",67372,8/12/2021,Rodo Sayagues
+tt6258486,9,7/23/2021,Ekkadiki Pothavu Chinnavada,https://www.imdb.com/title/tt6258486/,movie,7.4,140,2016,"Comedy, Fantasy, Romance, Thriller",1881,11/18/2016,Vi Anand
+tt6264654,10,3/8/2022,Free Guy,https://www.imdb.com/title/tt6264654/,movie,7.1,115,2021,"Action, Adventure, Comedy, Fantasy, Sci-Fi",401431,8/10/2021,Shawn Levy
+tt6264938,8,10/9/2019,Kesari,https://www.imdb.com/title/tt6264938/,movie,7.4,150,2019,"Action, Drama, History, Thriller, War",21715,3/21/2019,Anurag Singh
+tt6272828,8,11/21/2019,Mubarakan,https://www.imdb.com/title/tt6272828/,movie,5.6,156,2017,"Comedy, Romance",4213,7/27/2017,Anees Bazmee
+tt6277440,6,3/14/2017,Badrinath Ki Dulhania,https://www.imdb.com/title/tt6277440/,movie,6.1,139,2017,"Comedy, Drama, Romance",13091,3/9/2017,Shashank Khaitan
+tt6277462,10,11/4/2022,Brahmastra Part One: Shiva,https://www.imdb.com/title/tt6277462/,movie,5.6,167,2022,"Action, Adventure, Fantasy",109702,9/8/2022,Ayan Mukerji
+tt6299040,8,5/24/2017,The Ghazi Attack,https://www.imdb.com/title/tt6299040/,movie,7.5,116,2017,"Action, Thriller, War",14216,2/17/2017,Sankalp Reddy
+tt6315524,9,9/14/2018,Take Off,https://www.imdb.com/title/tt6315524/,movie,8.1,139,2017,"Action, Drama, Thriller",6734,3/24/2017,Mahesh Narayanan
+tt6318432,9,7/14/2017,Kenny Sebastian: Don't Be That Guy,https://www.imdb.com/title/tt6318432/,tvSpecial,7.2,60,2017,Comedy,1971,5/1/2017,Abish Mathew
+tt6320628,9,12/30/2021,Spider-Man: Far from Home,https://www.imdb.com/title/tt6320628/,movie,7.4,129,2019,"Action, Adventure, Comedy, Sci-Fi",530885,6/26/2019,Jon Watts
+tt6380520,9,2/9/2017,Dhuruvangal Pathinaaru,https://www.imdb.com/title/tt6380520/,movie,8.2,105,2016,"Crime, Drama, Mystery, Thriller",16435,12/29/2016,Karthick Naren
+tt6394270,9,1/11/2020,Bombshell,https://www.imdb.com/title/tt6394270/,movie,6.8,109,2019,"Biography, Drama",122596,12/13/2019,Jay Roach
+tt6405126,4,9/17/2017,Simran,https://www.imdb.com/title/tt6405126/,movie,5.2,124,2017,"Crime, Drama, Thriller",4465,9/14/2017,Hansal Mehta
+tt6452574,9,6/30/2018,Sanju,https://www.imdb.com/title/tt6452574/,movie,7.6,155,2018,"Biography, Comedy, Drama",58089,6/28/2018,Rajkumar Hirani
+tt6455162,9,6/19/2022,Bhool Bhulaiyaa 2,https://www.imdb.com/title/tt6455162/,movie,5.7,143,2022,"Comedy, Drama, Horror",32414,5/19/2022,Anees Bazmee
+tt6462958,10,2/17/2022,I Want You Back,https://www.imdb.com/title/tt6462958/,movie,6.5,116,2022,"Comedy, Romance",22317,2/11/2022,Jason Orley
+tt6466208,8,3/21/2018,Breathe,https://www.imdb.com/title/tt6466208/,tvSeries,8.3,45,2018,"Crime, Drama, Thriller",21005,1/25/2018,
+tt6468322,6,12/5/2021,La casa de papel,https://www.imdb.com/title/tt6468322/,tvSeries,8.2,70,2017,"Action, Crime, Drama, Mystery, Thriller",507374,5/2/2017,
+tt6473300,8,11/19/2018,Mirzapur,https://www.imdb.com/title/tt6473300/,tvSeries,8.5,60,2018,"Action, Crime, Drama, Thriller",78212,11/15/2018,
+tt6484982,9,10/1/2017,Newton,https://www.imdb.com/title/tt6484982/,movie,7.6,106,2017,"Comedy, Drama",20850,2/10/2017,Amit Masurkar
+tt6494622,8,3/31/2019,Made in Heaven,https://www.imdb.com/title/tt6494622/,tvSeries,8.2,50,2019,"Drama, Romance",13467,3/6/2019,
+tt6510010,9,4/9/2019,Pretentious Movie Reviews,https://www.imdb.com/title/tt6510010/,tvMiniSeries,9.1,,2014,Comedy,687,4/30/2014,
+tt6580564,9,12/31/2018,102 Not Out,https://www.imdb.com/title/tt6580564/,movie,7.4,102,2018,"Comedy, Drama",7402,5/3/2018,Umesh Shukla
+tt6611916,9,11/25/2021,Kingdom,https://www.imdb.com/title/tt6611916/,tvSeries,8.3,45,2019,"Action, Drama, Horror, Thriller",51173,1/25/2019,
+tt6644200,8,8/20/2018,A Quiet Place,https://www.imdb.com/title/tt6644200/,movie,7.5,90,2018,"Drama, Horror, Sci-Fi",561081,3/9/2018,John Krasinski
+tt6692354,8,9/23/2018,Ittefaq,https://www.imdb.com/title/tt6692354/,movie,7.2,105,2017,"Crime, Mystery, Thriller",13743,11/2/2017,Abhay Chopra
+tt6710474,7,10/9/2022,Everything Everywhere All at Once,https://www.imdb.com/title/tt6710474/,movie,7.8,139,2022,"Action, Adventure, Comedy, Fantasy, Sci-Fi",477383,3/11/2022,"Daniel Kwan, Daniel Scheinert"
+tt6711660,7,9/3/2017,Babumoshai Bandookbaaz,https://www.imdb.com/title/tt6711660/,movie,6.9,122,2017,"Action, Comedy, Crime, Drama, Thriller",2363,8/25/2017,Kushan Nandy
+tt6712014,8,9/29/2018,Fukrey Returns,https://www.imdb.com/title/tt6712014/,movie,6.5,141,2017,Comedy,5819,12/7/2017,Mrighdeep Lamba
+tt6720802,9,6/28/2022,Trance,https://www.imdb.com/title/tt6720802/,movie,7.3,170,2020,"Drama, Thriller",8063,2/20/2020,Anwar Rasheed
+tt6727296,9,9/27/2018,Bhaagamathie,https://www.imdb.com/title/tt6727296/,movie,7,138,2018,"Action, Horror, Thriller",3264,1/25/2018,Ashok G.
+tt6751668,9,1/10/2020,Gisaengchung,https://www.imdb.com/title/tt6751668/,movie,8.5,132,2019,"Drama, Thriller",885744,5/21/2019,Bong Joon Ho
+tt6763664,9,2/26/2022,The Haunting of Hill House,https://www.imdb.com/title/tt6763664/,tvMiniSeries,8.6,572,2018,"Drama, Horror, Mystery, Thriller",265456,10/7/2018,
+tt6774212,6,2/20/2018,Aiyaary,https://www.imdb.com/title/tt6774212/,movie,5.3,157,2018,"Action, Drama, Thriller",5081,2/15/2018,"Feroz Khan Bollybrothers, Neeraj Pandey"
+tt6774914,9,7/14/2017,Kanan Gill: Keep It Real,https://www.imdb.com/title/tt6774914/,tvSpecial,8,65,2017,Comedy,1587,5/26/2017,Sizil Srivastava
+tt6789140,9,9/25/2017,Biswa Kalyan Rath: Biswa Mast Aadmi,https://www.imdb.com/title/tt6789140/,tvSpecial,8.4,75,2017,Comedy,2386,5/19/2017,Siddharth Vasani
+tt6806448,8,11/10/2019,Fast & Furious Presents: Hobbs & Shaw,https://www.imdb.com/title/tt6806448/,movie,6.5,137,2019,"Action, Adventure, Thriller",227844,7/13/2019,David Leitch
+tt6826438,9,8/28/2020,Parmanu: The Story of Pokhran,https://www.imdb.com/title/tt6826438/,movie,7.6,129,2018,"Action, Drama, History",24954,5/4/2018,Abhishek Sharma
+tt6836936,9,9/6/2020,Saaho,https://www.imdb.com/title/tt6836936/,movie,5,170,2019,"Action, Thriller",21680,8/30/2019,Sujeeth
+tt6856242,10,4/8/2022,The King's Man,https://www.imdb.com/title/tt6856242/,movie,6.3,131,2021,"Action, Adventure, Thriller",162941,12/6/2021,Matthew Vaughn
+tt0068646,9,12/4/2020,The Godfather,https://www.imdb.com/title/tt0068646/,movie,9.2,175,1972,"Crime, Drama",1947818,3/14/1972,Francis Ford Coppola
+tt6883044,9,11/25/2017,Bose: Dead/Alive,https://www.imdb.com/title/tt6883044/,tvSeries,8.7,20,2017,"Biography, History, Mystery, Thriller",6892,11/20/2017,
+tt6912552,10,2/21/2022,Chi Va Chi Sau Ka,https://www.imdb.com/title/tt6912552/,movie,7.8,134,2017,Family,418,5/19/2017,Paresh Mokashi
+tt6921996,8,1/13/2020,Johnny English Strikes Again,https://www.imdb.com/title/tt6921996/,movie,6.2,89,2018,"Action, Adventure, Comedy",80219,9/13/2018,David Kerr
+tt6967980,8,9/3/2017,Bareilly Ki Barfi,https://www.imdb.com/title/tt6967980/,movie,7.5,116,2017,"Comedy, Romance",25030,8/17/2017,Ashwiny Iyer Tiwari
+tt6971752,8,9/3/2017,Shubh Mangal Saavdhan,https://www.imdb.com/title/tt6971752/,movie,6.9,119,2017,"Comedy, Romance",10811,8/31/2017,R.S. Prasanna
+tt6972140,8,4/7/2018,Blackmail,https://www.imdb.com/title/tt6972140/,movie,7.1,138,2018,"Comedy, Thriller",11340,4/5/2018,Abhinay Deo
+tt6978268,8,6/30/2021,Omerta,https://www.imdb.com/title/tt6978268/,movie,7.1,98,2017,"Action, Biography, Crime, Drama",3534,9/8/2017,Hansal Mehta
+tt6980546,6,6/21/2018,Bharat Ane Nenu,https://www.imdb.com/title/tt6980546/,movie,7.5,173,2018,"Action, Drama, Thriller",18130,4/19/2018,Koratala Siva
+tt7019842,10,3/5/2022,96,https://www.imdb.com/title/tt7019842/,movie,8.5,158,2018,"Drama, Romance",34015,10/3/2018,C. Prem Kumar
+tt7019942,6,6/26/2021,Super Deluxe,https://www.imdb.com/title/tt7019942/,movie,8.3,176,2019,"Comedy, Crime, Drama, Thriller",16635,3/28/2019,Thiagarajan Kumararaja
+tt7020272,9,7/13/2017,Zakir Khan: Haq Se Single,https://www.imdb.com/title/tt7020272/,tvSpecial,8.5,90,2017,Comedy,3014,7/9/2017,Angshuman Ghosh
+tt7026666,9,1/4/2022,Kurup,https://www.imdb.com/title/tt7026666/,movie,7,140,2021,"Biography, Crime, Thriller",14141,11/11/2021,Srinath Rajendran
+tt7027278,7,2/22/2022,Kedarnath,https://www.imdb.com/title/tt7027278/,movie,6.7,116,2018,"Drama, Romance",14822,12/6/2018,Abhishek Kapoor
+tt7060344,9,12/20/2018,Ratsasan,https://www.imdb.com/title/tt7060344/,movie,8.3,170,2018,"Action, Crime, Drama, Mystery, Thriller",48075,10/4/2018,Ram Kumar
+tt7060460,9,1/5/2018,Theeran Adhigaaram Ondru,https://www.imdb.com/title/tt7060460/,movie,8.2,157,2017,"Action, Crime, Thriller",16054,11/16/2017,H. Vinoth
+tt7097896,9,5/28/2022,Venom: Let There Be Carnage,https://www.imdb.com/title/tt7097896/,movie,5.9,97,2021,"Action, Sci-Fi, Thriller",246755,9/14/2021,Andy Serkis
+tt7098658,8,6/7/2018,Raazi,https://www.imdb.com/title/tt7098658/,movie,7.7,138,2018,"Action, Drama, Thriller",32853,5/10/2018,Meghna Gulzar
+tt7126948,9,7/31/2021,Wonder Woman 1984,https://www.imdb.com/title/tt7126948/,movie,5.4,151,2020,"Action, Adventure, Fantasy",283280,12/16/2020,Patty Jenkins
+tt7144666,10,10/29/2022,The Black Phone,https://www.imdb.com/title/tt7144666/,movie,6.9,103,2021,"Horror, Mystery, Thriller",174791,9/25/2021,Scott Derrickson
+tt7155460,9,12/18/2017,Muramba,https://www.imdb.com/title/tt7155460/,movie,8.1,128,2017,"Comedy, Family",786,6/2/2017,Varun Narvekar
+tt7179784,9,10/23/2022,Irumbu Thirai,https://www.imdb.com/title/tt7179784/,movie,7.6,160,2018,"Action, Crime, Thriller",5277,5/10/2018,P.S. Mithran
+tt7180544,8,1/13/2018,Mukkabaaz,https://www.imdb.com/title/tt7180544/,movie,8,154,2017,"Action, Drama, Sport",8322,9/9/2017,Anurag Kashyap
+tt7190460,8,7/25/2018,Thupparivaalan,https://www.imdb.com/title/tt7190460/,movie,7.5,151,2017,"Action, Crime, Thriller",5224,9/13/2017,Mysskin
+tt7212726,8,12/30/2020,Simmba,https://www.imdb.com/title/tt7212726/,movie,5.5,158,2018,"Action, Crime, Drama",21543,12/27/2018,Rohit Shetty
+tt7212754,8,12/28/2020,Ludo,https://www.imdb.com/title/tt7212754/,movie,7.6,150,2020,"Action, Comedy, Crime, Drama",42070,11/12/2020,Anurag Basu
+tt7221388,10,10/3/2022,Cobra Kai,https://www.imdb.com/title/tt7221388/,tvSeries,8.5,30,2018,"Action, Comedy, Drama, Sport",197439,4/30/2018,
+tt7268738,10,1/2/2022,Minnal Murali,https://www.imdb.com/title/tt7268738/,movie,7.8,158,2021,"Action, Comedy, Drama, Fantasy, Sci-Fi",31629,12/16/2021,Basil Joseph
+tt7283064,8,1/21/2020,Sye Raa Narasimha Reddy,https://www.imdb.com/title/tt7283064/,movie,7.2,167,2019,"Action, Adventure, Drama, History",8367,9/27/2019,Surender Reddy
+tt7294534,8,12/23/2017,Arjun Reddy,https://www.imdb.com/title/tt7294534/,movie,8,182,2017,"Action, Drama, Romance",26579,8/25/2017,Sandeep Reddy Vanga
+tt7311164,10,6/12/2022,CBI 5,https://www.imdb.com/title/tt7311164/,movie,5.6,162,2022,"Crime, Mystery, Thriller",3509,5/1/2022,K. Madhu
+tt7322224,10,8/19/2023,Triangle of Sadness,https://www.imdb.com/title/tt7322224/,movie,7.3,147,2022,"Comedy, Drama",152970,5/21/2022,Ruben Östlund
+tt7335184,9,10/24/2021,You,https://www.imdb.com/title/tt7335184/,tvSeries,7.7,45,2018,"Crime, Drama, Romance, Thriller",284321,9/9/2018,
+tt7363076,8,3/18/2018,Raid,https://www.imdb.com/title/tt7363076/,movie,7.4,122,2018,"Action, Crime, Drama, Thriller",18466,3/15/2018,Raj Kumar Gupta
+tt7366338,9,11/30/2019,Chernobyl,https://www.imdb.com/title/tt7366338/,tvMiniSeries,9.3,330,2019,"Drama, History, Thriller",819438,5/6/2019,
+tt0073707,10,1/29/2022,Sholay,https://www.imdb.com/title/tt0073707/,movie,8.1,204,1975,"Action, Adventure, Comedy, Drama, Musical, Thriller, Western",57657,8/15/1975,Ramesh Sippy
+tt7392212,9,6/11/2018,Rangasthalam,https://www.imdb.com/title/tt7392212/,movie,8.2,170,2018,"Action, Drama",26607,3/29/2018,Sukumar
+tt7430722,8,10/12/2019,War,https://www.imdb.com/title/tt7430722/,movie,6.5,151,2019,"Action, Adventure, Thriller",30361,10/2/2019,Siddharth Anand
+tt7441984,9,12/29/2020,JL50,https://www.imdb.com/title/tt7441984/,tvSeries,7.4,42,2020,"Drama, Sci-Fi, Thriller",9854,9/4/2020,
+tt7458920,9,10/29/2017,Faster Fene,https://www.imdb.com/title/tt7458920/,movie,7.8,130,2017,"Action, Crime, Mystery, Thriller",1042,10/27/2017,Aditya Sarpotdar
+tt7469726,8,11/12/2017,Shaadi Mein Zaroor Aana,https://www.imdb.com/title/tt7469726/,movie,7.5,137,2017,"Drama, Romance",16765,11/9/2017,Ratnaa Sinha
+tt7475578,10,2/19/2022,Munich: The Edge of War,https://www.imdb.com/title/tt7475578/,movie,6.8,130,2021,"Biography, Drama, History, Thriller",34264,10/13/2021,Christian Schwochow
+tt7485048,9,10/27/2019,Super 30,https://www.imdb.com/title/tt7485048/,movie,7.9,154,2019,"Biography, Drama",34898,7/11/2019,Vikas Bahl
+tt7493974,9,9/2/2020,Bodyguard,https://www.imdb.com/title/tt7493974/,tvSeries,8.1,60,2018,"Crime, Drama, Thriller",138086,8/26/2018,
+tt7518786,10,3/22/2022,83,https://www.imdb.com/title/tt7518786/,movie,7.5,162,2021,"Biography, Drama, History, Sport",39662,12/23/2021,Kabir Khan
+tt7525778,10,1/25/2022,The Package,https://www.imdb.com/title/tt7525778/,movie,5.6,94,2018,"Comedy, Thriller",20234,8/10/2018,Jake Szymanski
+tt7529298,10,9/3/2023,Attack,https://www.imdb.com/title/tt7529298/,movie,6.8,121,2022,"Action, Sci-Fi, Thriller",16380,4/1/2022,Lakshya Raj Anand
+tt0075314,6,10/8/2018,Taxi Driver,https://www.imdb.com/title/tt0075314/,movie,8.2,114,1976,"Crime, Drama",883748,2/8/1976,Martin Scorsese
+tt7581552,8,8/5/2019,Unda,https://www.imdb.com/title/tt7581552/,movie,7.7,130,2019,"Action, Comedy, Thriller",4430,6/14/2019,Khalid Rahman
+tt7581902,7,3/16/2018,Sonu Ke Titu Ki Sweety,https://www.imdb.com/title/tt7581902/,movie,7.1,138,2018,"Comedy, Romance",23868,2/19/2018,Luv Ranjan
+tt7618184,9,12/28/2018,Mulk,https://www.imdb.com/title/tt7618184/,movie,7.3,140,2018,Drama,21456,8/2/2018,Anubhav Sinha
+tt7639372,7,10/30/2019,Total Dhamaal,https://www.imdb.com/title/tt7639372/,movie,4.2,130,2019,"Action, Adventure, Comedy",7511,2/21/2019,Indra Kumar
+tt7657566,8,4/24/2022,Death on the Nile,https://www.imdb.com/title/tt7657566/,movie,6.3,127,2022,"Crime, Drama, Mystery",168008,2/9/2022,Kenneth Branagh
+tt7668870,9,12/21/2018,Searching,https://www.imdb.com/title/tt7668870/,movie,7.6,102,2018,"Drama, Mystery, Thriller",175524,1/21/2018,Aneesh Chaganty
+tt7690638,9,9/6/2020,Soorma,https://www.imdb.com/title/tt7690638/,movie,7.3,131,2018,"Biography, Drama, Sport",5477,7/12/2018,Shaad Ali
+tt7713068,9,8/2/2020,Birds of Prey and the Fantabulous Emancipation of One Harley Quinn,https://www.imdb.com/title/tt7713068/,movie,6.1,109,2020,"Action, Comedy, Crime",255438,1/25/2020,Cathy Yan
+tt7725596,8,12/27/2018,Badhaai ho,https://www.imdb.com/title/tt7725596/,movie,7.9,124,2018,"Comedy, Drama",36532,10/18/2018,Amit Ravindernath Sharma
+tt7758160,9,10/19/2018,Goodachari,https://www.imdb.com/title/tt7758160/,movie,7.8,147,2018,"Action, Thriller",11208,8/2/2018,Sashi Kiran Tikka
+tt7765910,9,5/21/2021,Aravindha Sametha Veera Raghava,https://www.imdb.com/title/tt7765910/,movie,7.3,162,2018,"Action, Drama",9116,10/10/2018,Trivikram Srinivas
+tt7784604,8,3/24/2019,Hereditary,https://www.imdb.com/title/tt7784604/,movie,7.3,127,2018,"Drama, Horror, Mystery, Thriller",352799,1/21/2018,Ari Aster
+tt7797658,9,8/20/2020,Awe!,https://www.imdb.com/title/tt7797658/,movie,7.6,150,2018,"Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",5614,2/2/2018,Prasanth Varma
+tt7822438,9,6/26/2021,Thadam,https://www.imdb.com/title/tt7822438/,movie,8.1,138,2019,"Action, Crime, Drama, Mystery, Thriller",8133,2/28/2019,Magizh Thirumeni
+tt7838252,10,3/3/2022,K.G.F: Chapter 1,https://www.imdb.com/title/tt7838252/,movie,8.2,156,2018,"Action, Crime, Drama, Thriller",93595,12/16/2018,Prashanth Neel
+tt0787524,8,3/5/2017,The Man Who Knew Infinity,https://www.imdb.com/title/tt0787524/,movie,7.2,108,2015,"Biography, Drama",60299,9/17/2015,Matt Brown
+tt7888964,10,7/25/2022,Nobody,https://www.imdb.com/title/tt7888964/,movie,7.4,92,2021,"Action, Crime, Drama, Thriller",303592,3/18/2021,Ilya Naishuller
+tt7919680,8,10/6/2018,Karwaan,https://www.imdb.com/title/tt7919680/,movie,7.6,114,2018,"Adventure, Comedy, Drama",17002,8/2/2018,Akarsh Khurana
+tt0079221,9,3/1/2022,Gol Maal,https://www.imdb.com/title/tt0079221/,movie,8.5,120,1979,"Comedy, Romance",19670,4/20/1979,Hrishikesh Mukherjee
+tt0795434,8,9/19/2016,Namastey London,https://www.imdb.com/title/tt0795434/,movie,7.1,128,2007,"Comedy, Drama, Romance",22567,3/23/2007,Vipul Amrutlal Shah
+tt7991608,9,11/14/2021,Red Notice,https://www.imdb.com/title/tt7991608/,movie,6.3,118,2021,"Action, Comedy, Thriller",299809,11/4/2021,Rawson Marshall Thurber
+tt7998242,9,2/2/2020,Avane Srimannarayana,https://www.imdb.com/title/tt7998242/,movie,7.7,186,2019,"Action, Adventure, Comedy, Drama, Fantasy",7972,12/27/2019,"Sachin Ravi, Sachin"
+tt0800080,9,12/12/2021,The Incredible Hulk,https://www.imdb.com/title/tt0800080/,movie,6.6,112,2008,"Action, Adventure, Sci-Fi",512091,6/6/2008,Louis Leterrier
+tt0800369,9,12/13/2021,Thor,https://www.imdb.com/title/tt0800369/,movie,7,115,2011,"Action, Fantasy",880333,4/17/2011,Kenneth Branagh
+tt8042292,9,6/26/2021,Kannum Kannum Kollaiyadithaal,https://www.imdb.com/title/tt8042292/,movie,7.7,160,2020,"Drama, Romance, Thriller",7598,2/28/2020,Desingh Periyasamy
+tt0805184,7,9/19/2016,Bhagam Bhag,https://www.imdb.com/title/tt0805184/,movie,6.6,157,2006,"Comedy, Drama, Mystery, Thriller",14315,12/22/2006,Priyadarshan
+tt8055888,9,11/13/2022,Mard Ko Dard Nahin Hota,https://www.imdb.com/title/tt8055888/,movie,7.3,134,2018,"Action, Comedy, Drama",8670,9/10/2018,Vasan Bala
+tt0806088,6,9/21/2016,Heyy Babyy,https://www.imdb.com/title/tt0806088/,movie,6,144,2007,"Comedy, Drama",15447,8/24/2007,Sajid Khan
+tt8064302,10,1/13/2022,Dead to Me,https://www.imdb.com/title/tt8064302/,tvSeries,8,30,2019,"Comedy, Crime, Drama",95719,5/3/2019,
+tt8069036,8,12/14/2019,Bard of Blood,https://www.imdb.com/title/tt8069036/,tvSeries,6.8,45,2019,"Action, Adventure, Drama, Thriller",11930,9/27/2019,
+tt0808146,8,9/14/2019,The Naked Mile,https://www.imdb.com/title/tt0808146/,video,5.1,97,2006,Comedy,72770,12/1/2006,Joe Nussbaum
+tt8106534,8,12/31/2019,6 Underground,https://www.imdb.com/title/tt8106534/,movie,6.1,128,2019,"Action, Thriller",189767,12/10/2019,Michael Bay
+tt8108198,9,10/7/2018,Andhadhun,https://www.imdb.com/title/tt8108198/,movie,8.2,139,2018,"Crime, Mystery, Thriller",98784,10/4/2018,Sriram Raghavan
+tt8108200,8,5/30/2019,Sonchiriya,https://www.imdb.com/title/tt8108200/,movie,7.9,143,2019,"Action, Crime, Drama, Western",12400,3/1/2019,Abhishek Chaubey
+tt8108202,9,9/9/2018,Stree,https://www.imdb.com/title/tt8108202/,movie,7.5,128,2018,"Comedy, Horror",36889,8/30/2018,Amar Kaushik
+tt8108268,10,2/26/2022,The Tashkent Files,https://www.imdb.com/title/tt8108268/,movie,8.1,134,2019,"Drama, Mystery, Thriller",35476,4/11/2019,Vivek Agnihotri
+tt8108274,9,1/14/2020,Tanhaji: The Unsung Warrior,https://www.imdb.com/title/tt8108274/,movie,7.5,135,2020,"Action, Biography, Drama, History",35205,1/9/2020,Om Raut
+tt0811066,8,10/10/2016,Shootout at Lokhandwala,https://www.imdb.com/title/tt0811066/,movie,7.1,122,2007,"Action, Crime, History",10665,5/25/2007,Apoorva Lakhia
+tt8130968,9,6/26/2021,Badla,https://www.imdb.com/title/tt8130968/,movie,7.8,118,2019,"Crime, Drama, Mystery, Thriller",29867,3/8/2019,Sujoy Ghosh
+tt0814014,6,1/1/2017,Apne,https://www.imdb.com/title/tt0814014/,movie,6.1,173,2007,"Action, Drama, Sport",3433,6/29/2007,Anil Sharma
+tt0814295,6,9/18/2016,Rocky,https://www.imdb.com/title/tt0814295/,movie,4,125,2006,"Action, Drama, Romance, Thriller",363,9/22/2006,Suresh Krishna
+tt8144834,9,1/17/2020,Section 375,https://www.imdb.com/title/tt8144834/,movie,8.1,124,2019,"Crime, Drama, Mystery, Thriller",17050,9/12/2019,Ajay Bahl
+tt0081505,8,9/7/2020,The Shining,https://www.imdb.com/title/tt0081505/,movie,8.4,146,1980,"Drama, Horror",1068016,5/23/1980,Stanley Kubrick
+tt0816692,9,1/20/2016,Interstellar,https://www.imdb.com/title/tt0816692/,movie,8.7,169,2014,"Adventure, Drama, Sci-Fi",1984652,10/26/2014,Christopher Nolan
+tt8176054,10,3/8/2022,Pariyerum Perumal,https://www.imdb.com/title/tt8176054/,movie,8.7,154,2018,Drama,17227,9/28/2018,Mari Selvaraj
+tt8178634,10,3/26/2022,RRR (Rise Roar Revolt),https://www.imdb.com/title/tt8178634/,movie,7.8,187,2022,"Action, Drama",156367,3/24/2022,S.S. Rajamouli
+tt8185004,10,2/25/2023,Chal Man Jeetva Jaiye,https://www.imdb.com/title/tt8185004/,movie,8.6,123,2017,Drama,1070,12/29/2017,Dipesh Shah
+tt8228288,9,8/25/2020,El hoyo,https://www.imdb.com/title/tt8228288/,movie,7,94,2019,"Horror, Sci-Fi, Thriller",254457,9/6/2019,Galder Gaztelu-Urrutia
+tt8239946,9,11/30/2018,Tumbbad,https://www.imdb.com/title/tt8239946/,movie,8.2,104,2018,"Drama, Fantasy, Horror, Thriller",54967,9/21/2018,"Anand Gandhi, Adesh Prasad, Rahi Anil Barve"
+tt8242548,5,1/27/2019,Four More Shots Please!,https://www.imdb.com/title/tt8242548/,tvSeries,5.8,60,2019,"Comedy, Drama, Romance",53073,1/24/2019,
+tt8242904,9,6/13/2022,Kimbiseoga wae geureolkka,https://www.imdb.com/title/tt8242904/,tvSeries,8.1,60,2018,"Comedy, Mystery, Romance",16076,6/6/2018,
+tt8254592,7,6/7/2018,Chacha Vidhayak Hain Humare,https://www.imdb.com/title/tt8254592/,tvSeries,7.6,,2018,Comedy,5717,5/11/2018,
+tt8286926,9,8/16/2020,Njan Prakashan,https://www.imdb.com/title/tt8286926/,movie,7.7,131,2018,"Comedy, Drama",4885,12/21/2018,Sathyan Anthikad
+tt8291224,9,1/13/2019,Uri: The Surgical Strike,https://www.imdb.com/title/tt8291224/,movie,8.2,138,2019,"Action, Drama, History, War",68994,1/10/2019,Aditya Dhar
+tt8333978,9,2/17/2020,Maharshi,https://www.imdb.com/title/tt8333978/,movie,7.2,176,2019,"Action, Drama",9216,5/8/2019,Vamshi Paidipally
+tt8364132,9,5/9/2020,Birbal Trilogy: Case 1 - Finding Vajramuni,https://www.imdb.com/title/tt8364132/,movie,7.8,163,2019,"Crime, Thriller",1671,1/18/2019,M.G. Srinivas
+tt8385148,8,10/8/2021,Hitman's Wife's Bodyguard,https://www.imdb.com/title/tt8385148/,movie,6.1,100,2021,"Action, Comedy, Crime, Thriller",102549,6/10/2021,Patrick Hughes
+tt8396238,9,10/28/2019,Farzand,https://www.imdb.com/title/tt8396238/,movie,8.2,141,2018,"Action, Drama, History, War",1708,6/1/2018,Digpal Lanjekar
+tt8413338,9,7/21/2021,Kumbalangi Nights,https://www.imdb.com/title/tt8413338/,movie,8.5,135,2019,"Comedy, Drama, Romance",16177,2/7/2019,Madhu C. Narayanan
+tt8415836,9,1/21/2023,Guillermo del Toro's Cabinet of Curiosities,https://www.imdb.com/title/tt8415836/,tvSeries,7,60,2022,"Drama, Horror, Mystery, Thriller",51999,10/25/2022,
+tt8439854,6,7/21/2018,Lust Stories,https://www.imdb.com/title/tt8439854/,movie,6.4,120,2018,"Drama, Romance",12662,6/14/2018,"Zoya Akhtar, Karan Johar, Anurag Kashyap, Dibakar Banerjee"
+tt0845448,7,9/19/2016,Dhamaal,https://www.imdb.com/title/tt0845448/,movie,7.4,136,2007,"Action, Adventure, Comedy",17365,9/7/2007,Indra Kumar
+tt0848228,9,5/1/2018,The Avengers,https://www.imdb.com/title/tt0848228/,movie,8,143,2012,"Action, Sci-Fi",1432066,4/11/2012,Joss Whedon
+tt8490894,9,7/25/2021,Ee Nagaraniki Emaindi,https://www.imdb.com/title/tt8490894/,movie,8,122,2018,"Comedy, Drama",3474,6/28/2018,Tharun Bhascker Dhaassyam
+tt8504014,9,2/23/2020,Good Newwz,https://www.imdb.com/title/tt8504014/,movie,6.8,134,2019,"Comedy, Drama",21395,12/27/2019,"Raj Mehta, Ranjeet Singh, Kulwinder Singh"
+tt8550208,9,8/13/2020,Romeo Akbar Walter,https://www.imdb.com/title/tt8550208/,movie,6.6,141,2019,"Action, Drama, Thriller",6122,4/4/2019,Robbie Grewal
+tt8561086,9,3/5/2020,Joseph,https://www.imdb.com/title/tt8561086/,movie,8,138,2018,"Crime, Drama, Thriller",6012,11/16/2018,M. Padmakumar
+tt8579674,9,9/3/2023,1917,https://www.imdb.com/title/tt8579674/,movie,8.2,119,2019,"Action, Drama, War",640590,12/4/2019,Sam Mendes
+tt0858492,7,10/19/2016,Vikramarkudu,https://www.imdb.com/title/tt0858492/,movie,7.7,161,2006,Action,4547,6/23/2006,S.S. Rajamouli
+tt8590896,9,5/25/2021,Geetha Govindam,https://www.imdb.com/title/tt8590896/,movie,7.7,142,2018,"Comedy, Drama, Romance",15049,8/14/2018,Parasuram
+tt8647400,8,10/29/2019,De De Pyaar De,https://www.imdb.com/title/tt8647400/,movie,6.5,135,2019,"Comedy, Drama, Romance",8829,5/16/2019,Akiv Ali
+tt8665746,8,10/15/2018,Rx 100,https://www.imdb.com/title/tt8665746/,movie,6.9,153,2018,"Action, Drama, Romance",3207,7/11/2018,Ajay Bhupathi
+tt8672856,10,3/8/2023,Tu Jhoothi Main Makkaar,https://www.imdb.com/title/tt8672856/,movie,6,150,2023,"Comedy, Romance",24283,3/8/2023,Luv Ranjan
+tt0870154,10,5/5/2022,Jungle Cruise,https://www.imdb.com/title/tt0870154/,movie,6.6,127,2021,"Action, Adventure, Comedy, Fantasy",204386,7/24/2021,Jaume Collet-Serra
+tt0871510,9,8/17/2016,Chak De! India,https://www.imdb.com/title/tt0871510/,movie,8.1,153,2007,"Drama, Family, Sport",82988,8/9/2007,Shimit Amin
+tt8721424,8,11/27/2021,"tick, tick...BOOM!",https://www.imdb.com/title/tt8721424/,movie,7.5,120,2021,"Biography, Comedy, Drama, Musical",114637,11/10/2021,Lin-Manuel Miranda
+tt8721556,9,11/30/2020,Jallikattu,https://www.imdb.com/title/tt8721556/,movie,7.3,95,2019,"Action, Crime, Thriller",8780,9/6/2019,Lijo Jose Pellissery
+tt0877057,9,10/18/2016,Death Note: Desu nôto,https://www.imdb.com/title/tt0877057/,tvSeries,8.9,23,2006,"Animation, Crime, Drama, Fantasy, Mystery, Thriller",355310,10/3/2006,
+tt8852558,8,3/8/2020,Mitron,https://www.imdb.com/title/tt8852558/,movie,6.9,119,2018,Comedy,2629,9/14/2018,Nitin Kakkar
+tt8869978,9,10/10/2019,Batla House,https://www.imdb.com/title/tt8869978/,movie,7.2,146,2019,"Action, Crime, Drama, History, Thriller",12316,8/15/2019,Nikkhil Advani
+tt0088763,6,8/13/2016,Back to the Future,https://www.imdb.com/title/tt0088763/,movie,8.5,116,1985,"Adventure, Comedy, Sci-Fi",1261791,7/3/1985,Robert Zemeckis
+tt8907986,9,4/8/2020,Angrezi Medium,https://www.imdb.com/title/tt8907986/,movie,7.2,145,2020,"Comedy, Drama",17286,3/11/2020,Homi Adajania
+tt8908002,8,8/31/2020,Luka Chuppi,https://www.imdb.com/title/tt8908002/,movie,6.3,126,2019,"Comedy, Romance",12757,2/28/2019,Laxman Utekar
+tt8941440,9,2/25/2020,Virus,https://www.imdb.com/title/tt8941440/,movie,7.8,152,2019,"Drama, Thriller",5326,6/7/2019,Aashiq Abu
+tt8946378,9,12/30/2019,Knives Out,https://www.imdb.com/title/tt8946378/,movie,7.9,130,2019,"Comedy, Crime, Drama, Mystery, Thriller",739806,9/7/2019,Rian Johnson
+tt8948790,9,9/6/2021,Jersey,https://www.imdb.com/title/tt8948790/,movie,8.5,157,2019,"Drama, Sport",20562,4/18/2019,Gowtam Tinnanuri
+tt8960382,9,4/1/2022,Radhe Shyam,https://www.imdb.com/title/tt8960382/,movie,5.3,138,2022,"Drama, Romance",30634,3/11/2022,K.K. Radhakrishna Kumar
+tt8962124,9,12/27/2021,Emily in Paris,https://www.imdb.com/title/tt8962124/,tvSeries,6.9,30,2020,"Comedy, Drama, Romance",110411,10/2/2020,
+tt0898266,9,1/12/2016,The Big Bang Theory,https://www.imdb.com/title/tt0898266/,tvSeries,8.2,22,2007,"Comedy, Romance",840413,5/1/2006,
+tt8983164,8,12/28/2020,Chhalaang,https://www.imdb.com/title/tt8983164/,movie,6.7,136,2020,"Comedy, Drama, Sport",19674,11/12/2020,Hansal Mehta
+tt9006564,10,8/31/2023,2018,https://www.imdb.com/title/tt9006564/,movie,8.4,150,2023,"Action, Drama, Thriller",8881,5/5/2023,Jude Anthany Joseph
+tt0903747,9,4/9/2017,Breaking Bad,https://www.imdb.com/title/tt0903747/,tvSeries,9.5,49,2008,"Crime, Drama, Thriller",2034264,1/20/2008,
+tt0904208,8,10/22/2018,Californication,https://www.imdb.com/title/tt0904208/,tvSeries,8.3,28,2007,"Comedy, Drama",185753,8/13/2007,
+tt9052870,9,1/12/2020,Chhichhore,https://www.imdb.com/title/tt9052870/,movie,8.3,143,2019,"Comedy, Drama, Romance",59666,9/5/2019,Nitesh Tiwari
+tt9095260,8,5/12/2019,Criminal Justice,https://www.imdb.com/title/tt9095260/,tvSeries,8.1,50,2019,"Crime, Drama, Mystery, Thriller",18658,1/2/2019,
+tt9105088,8,11/26/2019,Kaksha Gyaarvi,https://www.imdb.com/title/tt9105088/,tvSpecial,8.3,74,2018,Comedy,1804,11/23/2018,Angshuman Ghosh
+tt0910970,8,8/13/2016,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",1162668,6/21/2008,Andrew Stanton
+tt9140554,9,12/13/2022,Loki,https://www.imdb.com/title/tt9140554/,tvSeries,8.2,53,2021,"Action, Adventure, Fantasy, Sci-Fi",355057,6/9/2021,
+tt9140560,9,3/7/2021,WandaVision,https://www.imdb.com/title/tt9140560/,tvMiniSeries,7.9,350,2021,"Action, Comedy, Drama, Fantasy, Mystery, Romance, Sci-Fi",351610,1/15/2021,
+tt9174558,10,12/6/2021,Dopesick,https://www.imdb.com/title/tt9174558/,tvMiniSeries,8.6,492,2021,Drama,69426,10/13/2021,
+tt9179430,10,7/11/2022,Vikram,https://www.imdb.com/title/tt9179430/,movie,8.3,175,2022,"Action, Crime, Thriller",66209,6/3/2022,Lokesh Kanagaraj
+tt0920464,8,8/17/2016,Manorama: Six Feet Under,https://www.imdb.com/title/tt0920464/,movie,7.5,137,2007,"Crime, Drama, Mystery, Thriller",8537,9/21/2007,Navdeep Singh
+tt0092099,10,8/1/2022,Top Gun,https://www.imdb.com/title/tt0092099/,movie,6.9,109,1986,"Action, Drama",483717,5/12/1986,Tony Scott
+tt9248940,9,1/12/2020,Dream Girl,https://www.imdb.com/title/tt9248940/,movie,7,132,2019,"Comedy, Romance",15690,9/12/2019,Raaj Shaandilyaa
+tt9248972,8,10/31/2019,Mission Mangal,https://www.imdb.com/title/tt9248972/,movie,6.5,130,2019,"Drama, History",17062,8/15/2019,Jagan Shakti
+tt9263550,10,8/6/2022,Rocketry: The Nambi Effect,https://www.imdb.com/title/tt9263550/,movie,8.7,157,2022,"Biography, Drama",55219,5/19/2022,Madhavan
+tt9288030,10,2/15/2022,Reacher,https://www.imdb.com/title/tt9288030/,tvSeries,8.1,49,2022,"Action, Crime, Drama, Thriller",149258,2/3/2022,
+tt9310280,10,2/25/2022,Mulshi Pattern,https://www.imdb.com/title/tt9310280/,movie,8.2,155,2018,"Crime, Drama",2204,11/23/2018,Pravin Tarde
+tt9335498,10,8/21/2022,Kimetsu no Yaiba,https://www.imdb.com/title/tt9335498/,tvSeries,8.6,24,2019,"Animation, Action, Adventure, Fantasy, Thriller",131893,4/6/2019,
+tt9359492,8,6/22/2019,Mind the Malhotras,https://www.imdb.com/title/tt9359492/,tvMiniSeries,5.9,25,2019,Comedy,2498,6/7/2019,
+tt9376612,10,12/10/2021,Shang-Chi and the Legend of the Ten Rings,https://www.imdb.com/title/tt9376612/,movie,7.4,132,2021,"Action, Adventure, Fantasy, Sci-Fi",414489,8/16/2021,Destin Daniel Cretton
+tt9389998,9,1/8/2022,Pushpa: The Rise - Part 1,https://www.imdb.com/title/tt9389998/,movie,7.6,179,2021,"Action, Crime, Drama, Thriller",82333,12/16/2021,Sukumar
+tt9398466,10,9/29/2022,Delhi Crime,https://www.imdb.com/title/tt9398466/,tvSeries,8.5,50,2019,"Crime, Drama",25148,1/29/2019,
+tt9411972,10,1/16/2023,Where the Crawdads Sing,https://www.imdb.com/title/tt9411972/,movie,7.2,125,2022,"Drama, Mystery, Romance, Thriller",106766,6/26/2022,Olivia Newman
+tt9419884,8,6/23/2022,Doctor Strange in the Multiverse of Madness,https://www.imdb.com/title/tt9419884/,movie,6.9,126,2022,"Action, Adventure, Fantasy, Horror, Sci-Fi",452447,5/2/2022,Sam Raimi
+tt9420648,9,2/16/2020,Bala,https://www.imdb.com/title/tt9420648/,movie,7.3,133,2019,Comedy,15580,11/7/2019,Amar Kaushik
+tt9432978,10,3/12/2022,Kota Factory,https://www.imdb.com/title/tt9432978/,tvSeries,9,45,2019,"Comedy, Drama",77570,4/16/2019,
+tt0944947,8,9/11/2020,Game of Thrones,https://www.imdb.com/title/tt0944947/,tvSeries,9.2,57,2011,"Action, Adventure, Drama, Fantasy",2201918,4/16/2011,
+tt9477520,9,2/26/2020,Asuran,https://www.imdb.com/title/tt9477520/,movie,8.4,141,2019,"Action, Drama",31942,10/2/2019,Vetrimaaran
+tt9495690,7,5/7/2020,Pagalpanti,https://www.imdb.com/title/tt9495690/,movie,3.2,149,2019,"Action, Comedy",2720,11/22/2019,Anees Bazmee
+tt9531772,8,12/4/2021,Sooryavanshi,https://www.imdb.com/title/tt9531772/,movie,6.1,145,2021,"Action, Crime, Thriller",78258,11/4/2021,Rohit Shetty
+tt9537292,9,8/22/2020,Ala Vaikunthapurramuloo,https://www.imdb.com/title/tt9537292/,movie,7.3,163,2020,"Action, Comedy, Drama",22180,1/10/2020,Trivikram Srinivas
+tt9544034,9,9/25/2019,The Family Man,https://www.imdb.com/title/tt9544034/,tvSeries,8.7,45,2019,"Action, Comedy, Drama",94099,9/18/2019,
+tt9569610,9,1/7/2021,Kaagaz,https://www.imdb.com/title/tt9569610/,movie,7.3,109,2021,"Biography, Comedy, Drama",9240,1/7/2021,Satish Kaushik
+tt9603212,10,7/13/2023,Mission: Impossible - Dead Reckoning Part One,https://www.imdb.com/title/tt9603212/,movie,8,163,2023,"Action, Adventure, Thriller",136962,6/19/2023,Christopher McQuarrie
+tt9614460,9,5/14/2020,Chhapaak,https://www.imdb.com/title/tt9614460/,movie,5.4,120,2020,"Biography, Drama",27462,1/9/2020,Meghna Gulzar
+tt9637132,9,7/1/2022,Samrat Prithviraj,https://www.imdb.com/title/tt9637132/,movie,5.7,135,2022,"Action, Drama, History, War",53280,6/3/2022,Chandra Prakash Dwivedi
+tt0964516,6,11/6/2016,Fashion,https://www.imdb.com/title/tt0964516/,movie,6.9,167,2008,"Drama, Romance",12916,10/29/2008,Madhur Bhandarkar
+tt9675464,9,1/26/2020,Gang Leader,https://www.imdb.com/title/tt9675464/,movie,7.6,155,2019,"Action, Comedy, Thriller",4278,9/12/2019,Vikram K. Kumar
+tt9680136,9,1/31/2020,Pati Patni Aur Woh,https://www.imdb.com/title/tt9680136/,movie,5.8,126,2019,"Comedy, Romance",7969,12/5/2019,Mudassar Aziz
+tt9680440,9,5/16/2020,Paatal Lok,https://www.imdb.com/title/tt9680440/,tvSeries,8.1,44,2020,"Crime, Drama, Thriller",62636,5/14/2020,
+tt9742334,9,1/30/2020,Brochevarevarura,https://www.imdb.com/title/tt9742334/,movie,8,138,2019,Comedy,4344,6/27/2019,Vivek Athreya
+tt0974959,8,9/14/2019,Beta House,https://www.imdb.com/title/tt0974959/,video,5.3,85,2007,Comedy,66685,12/10/2007,Andrew Waller
+tt9806192,8,9/2/2020,J'ai perdu mon corps,https://www.imdb.com/title/tt9806192/,movie,7.5,81,2019,"Animation, Drama, Fantasy, Romance",35372,5/17/2019,Jérémy Clapin
+tt9814458,9,7/23/2021,Bandish Bandits,https://www.imdb.com/title/tt9814458/,tvSeries,8.6,30,2020,"Drama, Music, Romance",17260,8/2/2020,
+tt9851854,10,9/27/2022,Major,https://www.imdb.com/title/tt9851854/,movie,8.1,150,2022,"Action, Biography, Drama, Thriller",31059,6/2/2022,Sashi Kiran Tikka
+tt9877170,9,8/23/2020,Malang - Unleash the Madness,https://www.imdb.com/title/tt9877170/,movie,6.5,135,2020,"Action, Crime, Drama, Romance, Thriller",11524,2/6/2020,Mohit Suri
+tt0098904,9,3/29/2018,Seinfeld,https://www.imdb.com/title/tt0098904/,tvSeries,8.9,22,1989,Comedy,337882,7/5/1989,
+tt9900782,9,3/22/2020,Kaithi,https://www.imdb.com/title/tt9900782/,movie,8.4,145,2019,"Action, Adventure, Crime, Thriller",37537,10/24/2019,Lokesh Kanagaraj
+tt0993846,8,4/8/2018,The Wolf of Wall Street,https://www.imdb.com/title/tt0993846/,movie,8.2,180,2013,"Biography, Comedy, Crime, Drama",1505010,12/9/2013,Martin Scorsese
+tt0995031,8,10/1/2019,Bhool Bhulaiyaa,https://www.imdb.com/title/tt0995031/,movie,7.4,159,2007,"Comedy, Horror, Mystery, Thriller",30978,10/12/2007,Priyadarshan
+tt0995035,7,9/19/2016,Dhol,https://www.imdb.com/title/tt0995035/,movie,6.4,145,2007,"Comedy, Crime, Mystery, Thriller",7163,9/14/2007,"Aman Ullah, Priyadarshan"
+tt0995718,7,8/27/2016,Ek Chalis Ki Last Local,https://www.imdb.com/title/tt0995718/,movie,7.3,143,2007,"Adventure, Comedy, Crime, Drama",5366,5/18/2007,Sanjay M. Khanduri
+tt0995740,8,3/18/2017,No Smoking,https://www.imdb.com/title/tt0995740/,movie,7.3,128,2007,"Drama, Horror, Mystery, Thriller",8430,10/26/2007,Anurag Kashyap
+tt0099685,8,12/10/2020,Goodfellas,https://www.imdb.com/title/tt0099685/,movie,8.7,145,1990,"Biography, Crime, Drama",1213208,9/9/1990,Martin Scorsese
+tt0099785,10,2/5/2022,Home Alone,https://www.imdb.com/title/tt0099785/,movie,7.7,103,1990,"Comedy, Family",612031,11/10/1990,Chris Columbus
